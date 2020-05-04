@@ -1,5 +1,5 @@
 +++
-date = 2012-02-06T00:00:00Z
+date = ""
 description = "This Cheat Sheet will walk you through how to discover hashtags to get your content discovered.\n\nTo find Search Volume for each Hashtag, you can use Pinterest Trends."
 disableComments = true
 image = "images/pic02.jpg"
