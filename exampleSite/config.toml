@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Digital Marketing Director"
-baseURL = "http://localhost:1313/"
+baseURL = "https://digitalmarketingdirector.com/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""
