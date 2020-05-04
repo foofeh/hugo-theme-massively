@@ -1,11 +1,104 @@
 +++
-title = 'Augue lorem primis vestibulum'
-slug = 'multi-image-pins'
-image = 'images/pic07.jpg'
-date = "2019-03-07T00:00:00"
-description = 'Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.'
+date = ""
+description = "Pinterest allows you create visually appealing pins within the platform. Use this cheat sheet to create your own carousels and collages!"
 disableComments = true
-+++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc. Proin eget mollis felis. Donec fermentum lectus non metus elementum, dignissim ornare felis congue. In rhoncus vehicula nibh, ac imperdiet dolor tincidunt sit amet.
+image = "images/pic07.jpg"
+slug = "multi-image-pins"
+title = "Multi-Image Pin Cheatsheet"
 
-Nullam commodo, diam nec finibus ultrices, odio enim tempus risus, quis dapibus ex ligula non erat. In sed lectus id massa fermentum euismod fringilla vel ligula. Quisque tincidunt tortor non ante scelerisque convallis ut vitae nunc. Mauris id consectetur sapien, et vulputate turpis. Nulla et diam urna. Duis varius, metus sit amet mollis gravida, felis turpis sodales nulla, id dapibus lacus est ac felis. Cras porttitor orci sit amet lorem scelerisque laoreet. Sed non mi et velit bibendum efficitur ut et mauris. Curabitur sem nisl, condimentum suscipit magna sit amet, vehicula ultricies purus. Phasellus blandit ultrices ante, eget blandit turpis fringilla et. Nam commodo volutpat semper.
++++
+## More Visual Pin Formats
+
+Pinterest allows you to create visual displays right in the platform. This guide will walk you through how to create the following pins:
+
+### Collages
+
+![](/uploads/dbdb072eae17e0473bd3d9b7b26fec6b.jpg)
+
+### Slideshows
+
+VIDEO
+
+## Creating a Collage
+
+1\. Click the add pin button (+)
+
+2\. When selecting image to upload, click all of the images you would like in the collage
+
+(**minimum** of 2 maximum of 5 images)
+
+![](/uploads/collage.PNG)
+
+Above is the screen that pops up. 
+
+3\.Select "Create A Collage". The preview shown can be adjusted later.
+
+### Change, Adjust Images, Add Text + More!
+
+![](/uploads/Finalin.PNG)
+
+Pinterest allows you to customize your collage by editing all of the images, adding text, and your logo.
+
+Simply press the pencil icon on the left of the image to navigate to the editor tool.
+
+#### **Crop panel:**
+
+**Aspect Ratio:** Changes the overall size of the collage.
+
+**Adjust:** Allows you to flip, rotate, and crop specific images in the collage
+
+**Change an Image:** Here you can swap out images, replace images, and add images.
+
+### Add a Title, Description, and URL
+
+![](/uploads/collage.png)
+
+Once satisfied with how the collage looks like, exit out of the editor.
+
+Add a title, description, hashtags and a URL as normal.
+
+Add to the board you want to publish the pin to.
+
+Then you're all set!
+
+## Creating a Slideshow
+
+1\. Click the add pin button (+)
+
+2\. When selecting image to upload, click all of the images you would like in the collage
+
+(**minimum** of 2 maximum of 5 images)
+
+3\. Select "Create a Carousel" when **prompted.**
+
+### Carousel Editor
+
+#### Rearrange
+
+The carousel order will populate based on the order you selected while uploading.
+
+To rearrange, click the button. This will allow you to re-order the images you uploaded.
+
+To preview the flow of the carousel, click the arrow in the bottom left corner.
+
+#### Add Text, Resize, and More!
+
+![](/uploads/resize.PNG)
+
+To open the Carousel Image Editor, click on the pencil icon on the left of the image.
+
+From there, you can add your logo, text, and resize/change on every image in the carousel.
+
+Crop Icon: Change aspect ratio, flip images, swap out images and add images.
+
+Star Icon: Add your logo to each image
+
+Letter A Icon: Allows you to add text to each panel
+
+#### ​Add Text, Descriptions and URLs to Each Image
+
+![](/uploads/sametext.PNG)
+
+Pinterest defaults to using the same title, description and URL for each image in the carousel. This can be changed.
+
+Un-checking the "Use the same text and URL for Each Image" allows you to add a unique title, description and URL for each image in the carousel.
