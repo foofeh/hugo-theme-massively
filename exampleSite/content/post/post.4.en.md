@@ -75,7 +75,7 @@ The number of views that watched 95% of your video length.
 
 Number of views that lasted at least 10 seconds
 
-# **Dimensions**
+## **Dimensions**
 
 ##### **Source**
 
