@@ -4,7 +4,7 @@ description = "This cheat sheet will help you understand the definitions behind 
 disableComments = false
 image = "images/pic06.jpg"
 slug = "Pinterest-Analytics-Definitions"
-title = "Odio magna sed consectetur"
+title = "Pinterest Analytics Cheatsheet"
 
 +++
 ## Pinterest Overall Metrics
