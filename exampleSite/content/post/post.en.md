@@ -3,7 +3,7 @@ date = 2012-02-06T00:00:00Z
 description = "Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam."
 disableComments = true
 image = "images/pic02.jpg"
-slug = "post"
+slug = "/Pinterest-Hashtag-Research"
 title = "Pinterest Trends"
 
 +++
