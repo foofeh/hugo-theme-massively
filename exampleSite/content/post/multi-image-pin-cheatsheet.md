@@ -7,7 +7,8 @@ slug = "multi-image-pins"
 title = "Multi-Image Pin Cheatsheet"
 
 +++
-<center> ## More Visual Pin Formats </center>
+<center> <h2> More Visual Pin Formats </h2>
+</center>
 
 Pinterest allows you to create visual displays right in the platform. This guide will walk you through how to create the following pins:
 
@@ -26,7 +27,7 @@ VIDEO
 (**minimum** of 2 maximum of 5 images)
 
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" style="width:800px;height:500px;">
-<center>Above is the screen that pops up.</center>
+<center><i> Above is the screen that pops up. </i></center>
 
 3\.Select "Create A Collage". The preview shown can be adjusted later.
 
@@ -47,7 +48,7 @@ Simply press the pencil icon on the left of the image to navigate to the editor 
 <br>
 <br>
 
-<center>### Add a Title, Description, and URL</center>
+<center><h3> Add a Title, Description, and URL </h3></center>
 
 ![](/uploads/collage.png?v=4&s=200)
 
