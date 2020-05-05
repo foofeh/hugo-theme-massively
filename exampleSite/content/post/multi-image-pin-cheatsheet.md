@@ -50,7 +50,7 @@ Simply press the pencil icon on the left of the image to navigate to the editor 
 
 <center><h3> Add a Title, Description, and URL </h3></center>
 
-![](/uploads/collage.png?v=4&s=200)
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.png" style="width:800px;height:500px;">
 
 Once satisfied with how the collage looks like, exit out of the editor.
 
@@ -92,7 +92,7 @@ Crop Icon: Change aspect ratio, flip images, swap out images and add images.
 Star Icon: Add your logo to each image
 Letter A Icon: Allows you to add text to each panel
 
-#### ​Add Text, Descriptions and URLs to Each Image
+<center><h3> Add Text, Descriptions and URLs to Each Image </center></h3>
 
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/sametext.PNG" style="width:950px;height:292px;">
 
