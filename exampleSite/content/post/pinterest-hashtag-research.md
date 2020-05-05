@@ -19,9 +19,9 @@ This guide walks through how I find hashtags when featuring bakers for BakersSpo
 
 You can find my Pinterest account [here](). Fair warning: you might get stuck being memorized by all of the cookie + cake decorating videos.
 
-### What Hashtags Will Fit This Cake?
+<center><h3> What Hashtags Will Fit This Cake? </center></h3>
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/deva-williamson-Kppw90QC_aE-unsplash(1).jpg" width="75%" height="75%">
+<Center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/deva-williamson-Kppw90QC_aE-unsplash(1).jpg" width="60%" height="60%"></center>
 
 With Valentine's Day around the corner, many people are looking for baking inspiration. 
 
@@ -29,7 +29,7 @@ This cheat sheet will be walking though how I would find hashtags for this cake.
 
 #### **1. Start With a Generic, Short, and Relevant Word - See What Populates**
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="40%" height="40%" align="left" style="margin:0px 50px">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="40%" height="40%" align="left" style="margin:0px 20px">
 
 When doing hashtag research, I always start with a relevant, generic, and short word. 
 
