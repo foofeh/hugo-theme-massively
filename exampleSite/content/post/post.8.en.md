@@ -4,7 +4,7 @@ description = "Pinterest allows you create visually appealing pins within the pl
 disableComments = true
 image = "images/PinterestTrendsHero.png"
 slug = "multi-image-pins"
-title = "Multi-Image Pin "
+title = "Pinterest Trends"
 
 +++
 The [Pinterest Trends](https://trends.pinterest.com/) dashboard includes a search bar where you can search for your own keywords.
