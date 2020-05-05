@@ -15,7 +15,7 @@ A few starting points:
 
 This guide walks through how I find hashtags when featuring bakers for BakersSpotlight.com. Specifically, I will be walking through featuring a Valentine's Day cake.
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/bakers.PNG" width="90%" height="90%">
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/bakers.PNG" width="85%" height="85%"></center>
 
 You can find my Pinterest account [here](). Fair warning: you might get stuck being memorized by all of the cookie + cake decorating videos.
 
@@ -37,7 +37,8 @@ Using shorter and generic words allows Pinterest to auto-populate hashtags that 
 
 \#CakeDecorating and #CakeDecoratingIdeas are the two keywords I thought where most relevant, and clicked them to add to the description.
 
-I usually don't select pins that have millions of content associated with them. I found on Instagram choosing large hashtags made it difficult for my content to get discovered
+I usually don't select pins that have millions of content associated with them. 
+I found on Instagram choosing large hashtags made it difficult for my content to get discovered
 
 <Center><H2> 2. Experiment with Longer Keyword Strings </Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="40%" height="40%" align="right" style="margin:0px 20px">
@@ -49,10 +50,11 @@ I set out to see if there were any more cake decorating hashtags to be found.
 Going back to the description field, I started to type out **#CakeDecor.**Being a longer word, I was surprised that more related hashtags popped up.
 
 If I didn't type in #CakeDecor, I would not have found: #CakeDecoratingTips, #CakeDecoratingDesigns and #CakeDecorator.
-
+<p style="line-height:0.8">
 Now I always experiment starting with single words and word-strings.
-
 In this example, I knew there were going to be other hashtags I wanted to add. So I added the circled hashtags on the right and moved on.
+</p>
+
 
 
 <Center><H2> 3. Repeat the Process With Other Keywords </Center></H2>
