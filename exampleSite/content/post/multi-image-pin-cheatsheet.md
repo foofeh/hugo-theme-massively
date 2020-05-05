@@ -89,14 +89,12 @@ To open the Carousel Image Editor, click on the pencil icon on the left of the i
 From there, you can add your logo, text, and resize/change on every image in the carousel.
 
 Crop Icon: Change aspect ratio, flip images, swap out images and add images.
-
 Star Icon: Add your logo to each image
-
 Letter A Icon: Allows you to add text to each panel
 
 #### ​Add Text, Descriptions and URLs to Each Image
 
-![](/uploads/sametext.PNG)
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/sametext.PNG" style="width:800px;height:500px;">
 
 Pinterest defaults to using the same title, description and URL for each image in the carousel. This can be changed.
 
