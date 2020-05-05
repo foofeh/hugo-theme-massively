@@ -22,15 +22,12 @@ VIDEO
 ## Creating a Collage
 
 1\. Click the add pin button (+)
-
 2\. When selecting image to upload, click all of the images you would like in the collage
-
 (**minimum** of 2 maximum of 5 images)
 
 ![](/uploads/collage.PNG)
 
 Above is the screen that pops up. 
-
 3\.Select "Create A Collage". The preview shown can be adjusted later.
 
 ### Change, Adjust Images, Add Text + More!
@@ -51,7 +48,7 @@ Simply press the pencil icon on the left of the image to navigate to the editor 
 
 ### Add a Title, Description, and URL
 
-![](/uploads/collage.png)
+![test image size](/uploads/collage.png){:height="50%" width="50%"}
 
 Once satisfied with how the collage looks like, exit out of the editor.
 
