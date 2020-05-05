@@ -1,104 +1,108 @@
 +++
 date = ""
-description = "Pinterest allows you create visually appealing pins within the platform. Use this cheat sheet to create your own carousels and collages!"
+description = "Text text"
 disableComments = true
 image = "images/MultiPinImg.png"
 slug = "multi-image-pins"
 title = "Cheatsheet"
 
 +++
-## More Visual Pin Formats
+The [Pinterest Trends](https://trends.pinterest.com/) dashboard includes a search bar where you can search for your own keywords.
 
-Pinterest allows you to create visual displays right in the platform. This guide will walk you through how to create the following pins:
+Below the search bar is a discovery dashboard. It highlights keywords that had peaks in search volumes within the last year. The suggestions may or may not be relevant to you.
 
-### Collages
+After clicking on or searching for a keyword, you are taken to the Search Volume Results dashboard. From there you can view a search volume graph, see recommended keywords, and discover content ideas.
 
-![](/uploads/dbdb072eae17e0473bd3d9b7b26fec6b.jpg)
+### Search Volume Results Dashboard
 
-### Slideshows
+###### View search volume by day, find related keywords and discover content ideas.
 
-VIDEO
+VIDEO HERE
 
-## Creating a Collage
+The Search Volume Report dashboard focuses mainly on the interactive graph.
 
-1\. Click the add pin button (+)
+As you hover over the graph, you can see the relative search volume score on any given day within the last year.
 
-2\. When selecting image to upload, click all of the images you would like in the collage
+With the ability to add up to 4 keywords at a time, it is easy to compare what keywords are trending when.
 
-(**minimum** of 2 maximum of 5 images)
+### Panel Breakdown
 
-![](/uploads/collage.PNG)
+The Search Volume Dashboard has 3 main sections:
 
-Above is the screen that pops up. 
+**Search Volume by Day**: Hover over the graph to view the search volume by day.
 
-3\.Select "Create A Collage". The preview shown can be adjusted later.
+Pinterest takes the search volume for the given keyword and compares it to all other searches on Pinterest on the same day.
 
-### Change, Adjust Images, Add Text + More!
+The number you see is indexed from 0 to 100 to compare the relative volume of the keyword.
 
-![](/uploads/Finalin.PNG)
+**_Basically, they give you a relative search volume metric and not actual searches per day._**
 
-Pinterest allows you to customize your collage by editing all of the images, adding text, and your logo.
+**Related Terms:** Underneath the graph are related terms that are either similar to your keyword, or what users are also searching for.
 
-Simply press the pencil icon on the left of the image to navigate to the editor tool.
+By clicking on an additional keyword, you can can compare search volume between keywords.
 
-#### **Crop panel:**
+**Popular Pins:** On this panel you can see previews of some of the top pins based on the keywords selected. Clicking on the previews takes you to the search results page.
 
-**Aspect Ratio:** Changes the overall size of the collage.
+#### Perform Your Own Keyword Research
 
-**Adjust:** Allows you to flip, rotate, and crop specific images in the collage
+**Step 1:** In the search bar, enter a keyword you would like to get Pinterest search volume metrics for. You can scroll through the auto-suggestions that pop-up or hit enter to go to your specific keyword.
 
-**Change an Image:** Here you can swap out images, replace images, and add images.
+**Step 2**: Hover over the graph to see the relative search volume score to identify when the keyword is trending.
 
-### Add a Title, Description, and URL
+**Step 3:** Under Related Terms, you can click to add terms that are similar to your keyword. Adding up to 4 keywords, the graph allows you to easily compare search volume scores over time.
 
-![](/uploads/collage.png)
+**Step 4**: If none of the Related Terms are relevant, you can scroll up to the top and add other keywords from the search bar. Pinterest will again auto-recommend based off of what you search for.
 
-Once satisfied with how the collage looks like, exit out of the editor.
+**Step 5**: Under Popular pins, you can browse content ideas based off of the keywords you selected. Clicking on the image previews will take you to the search page.
 
-Add a title, description, hashtags and a URL as normal.
+## Pinterest 100
 
-Add to the board you want to publish the pin to.
+![](/uploads/trend100.png)
 
-Then you're all set!
+Launched in December 2019, Pinterest 100 is a visual way to explore what is trending on Pinterest.
 
-## Creating a Slideshow
+The homepage has the top trend themes laid out visually, but to see all of the topics at once you can click the two vertical lines on the top left.
 
-1\. Click the add pin button (+)
+Pinterest considers a theme a trend if there was a search volume trajectory for at least six months.
 
-2\. When selecting image to upload, click all of the images you would like in the collage
+The current 2020 report compares August 2017 - July 2018 to August 2018 - July 2019.
 
-(**minimum** of 2 maximum of 5 images)
+Partnering with WGSN, Pinterest identified keywords surrounding these trends broken down by country.
 
-3\. Select "Create a Carousel" when **prompted.**
+### Diving Into Trend Reports
 
-### Carousel Editor
+![](/uploads/resorts.PNG)
 
-#### Rearrange
+Pinterest 100 is very visual and interactive mini-site. Laid out in a modern website design, the site covers the top 10 keywords and themes for the past year.
 
-The carousel order will populate based on the order you selected while uploading.
+Click on a topic that interests you and the top keywords overall will be shown. The mini-site also breaks down the trending keywords for every topic by location.
 
-To rearrange, click the button. This will allow you to re-order the images you uploaded.
+You can also see just how much the keyword is trending by the year-over-year percentage.
 
-To preview the flow of the carousel, click the arrow in the bottom left corner.
+Clicking on the Keyword will navigate to you the keyword search results page. You can then see content ideas based around that keyword,
 
-#### Add Text, Resize, and More!
+For those who want to skip the visualization of trends, you can click the vertical lines on the top left corner. This will expand all of the trending themes.
 
-![](/uploads/resize.PNG)
+You can also download 2020's trending keywords by theme via PDF here.
 
-To open the Carousel Image Editor, click on the pencil icon on the left of the image.
+### Top Trends For 2020
 
-From there, you can add your logo, text, and resize/change on every image in the carousel.
+[**Beyond Binary:**](https://www.pinterest100.com/en-us/beyond-binary/) Moving beyond gendered labels and structured options.
 
-Crop Icon: Change aspect ratio, flip images, swap out images and add images.
+[**Conscious Consumption: **](https://www.pinterest100.com/en-us/conscious-consumption/)A move towards more eco-friendly habits
 
-Star Icon: Add your logo to each image
+[**Finding Balance:**](https://www.pinterest100.com/en-us/finding-balance/) Self-care routines and habits that help improve your outlook.
 
-Letter A Icon: Allows you to add text to each panel
+[**Home Hub**:](https://www.pinterest100.com/en-us/home-hub/) Making your home just a _little_ more cozy.
 
-#### ​Add Text, Descriptions and URLs to Each Image
+[**Internationally Inspired: **](https://www.pinterest100.com/en-us/internationally-inspired/)From recipes to home decor, inspo is going global.
 
-![](/uploads/sametext.PNG)
+[**Pampered Pets**:](https://www.pinterest100.com/en-us/pampered-pets/) When your pets deserve more than just being a pet.
 
-Pinterest defaults to using the same title, description and URL for each image in the carousel. This can be changed.
+[**Re-Wilding: **](https://www.pinterest100.com/en-us/re-wilding/)Nature is calling people outside to relax, hike, and get explore.
 
-Un-checking the "Use the same text and URL for Each Image" allows you to add a unique title, description and URL for each image in the carousel.
+[**Responsible Travel:** ](https://www.pinterest100.com/en-us/responsible-travel/)Similar to Conscious Consumption, people are looking to how their travel is impacting the environment.
+
+[**Space Everything:**](https://www.pinterest100.com/en-us/space-everything/) Style inspiration is going out of this world and into the galaxy.
+
+[**90's Rerun:**]() Fashion trends are getting a little nostalgic, as the 90's heavily influences searches on the platform.
