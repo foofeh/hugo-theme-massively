@@ -4,11 +4,9 @@ description = "Donec eget ex magna. Interdum et malesuada fames ac ante ipsum pr
 disqus_identifier = "9"
 image = "/images/PinterestTrendsHero.png"
 slug = "comments-example"
-title = "Comments example"
+title = "Pinterest Trends"
 
 +++
-# Pinterest Trends
-
 The [Pinterest Trends](https://trends.pinterest.com/) dashboard includes a search bar where you can search for your own keywords.
 
 Below the search bar is a discovery dashboard. It highlights keywords that had peaks in search volumes within the last year. The suggestions may or may not be relevant to you.
