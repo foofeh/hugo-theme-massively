@@ -2,7 +2,7 @@
 date = ""
 description = "Text text"
 disableComments = true
-image = "images/MultiPinImg.png"
+image = "images/PinterestTrendsHero"
 slug = "/Pinterest"
 title = "Cheatsheet"
 
