@@ -26,14 +26,13 @@ VIDEO
 (**minimum** of 2 maximum of 5 images)
 
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" style="width:800px;height:500px;">
-
-Above is the screen that pops up. 
+<center>Above is the screen that pops up.</center>
 
 3\.Select "Create A Collage". The preview shown can be adjusted later.
 
 ### Change, Adjust Images, Add Text + More!
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/FinalIn.PNG" align="left">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG" align="left">
 
 Pinterest allows you to customize your collage by editing all of the images, adding text, and your logo.
 Simply press the pencil icon on the left of the image to navigate to the editor tool.
