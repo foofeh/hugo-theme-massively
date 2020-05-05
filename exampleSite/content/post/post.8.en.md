@@ -4,7 +4,7 @@ description = "Pinterest allows you create visually appealing pins within the pl
 disableComments = true
 image = "images/MultiPinImg.png"
 slug = "multi-image-pins"
-title = "Multi-Image Pin Cheatsheet"
+title = "Multi-Image Pin "
 
 +++
 ## More Visual Pin Formats
