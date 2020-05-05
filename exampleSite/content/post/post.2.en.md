@@ -1,5 +1,5 @@
 +++
-date = ""
+date = "Pinterest"
 description = "Launched in December 2019, Pinterest Trends identifies the top searches in the US. Early access is currently being rolled out to users on desktop only.\n\nAlso part of the new mini-site, is a search function that enables you to do your own keyword research.\n\nWhether Pinterest is in your marketing stack or not, the content themes here can be easily applied elsewhere."
 disableComments = false
 image = "/Images/PinterestTrendsImg.png"
