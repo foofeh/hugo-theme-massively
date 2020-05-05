@@ -94,7 +94,7 @@ Letter A Icon: Allows you to add text to each panel
 
 #### ​Add Text, Descriptions and URLs to Each Image
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/sametext.PNG">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/sametext.PNG" style="width:950px;height:292px;">
 
 Pinterest defaults to using the same title, description and URL for each image in the carousel. This can be changed.
 
