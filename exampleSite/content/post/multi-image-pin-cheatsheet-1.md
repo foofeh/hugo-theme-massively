@@ -1,10 +1,10 @@
 +++
 date = ""
-description = "Pinterest allows you create visually appealing pins within the platform. Use this cheat sheet to create your own carousels and collages!"
+description = "Launched in December 2019, Pinterest Trends identifies the top searches in the US. Early access is currently being rolled out to users on desktop only. Also part of the new mini-site, is a search function that enables you to do your own keyword research. Whether Pinterest is in your marketing stack or not, the content themes here can be easily applied elsewhere."
 disableComments = true
 image = "images/PinterestTrendsHero.png"
 slug = "/Pinterest-Trends"
-title = "Cheat Sheet"
+title = "Pinterest Trends"
 
 +++
 The [Pinterest Trends](https://trends.pinterest.com/) dashboard includes a search bar where you can search for your own keywords.
