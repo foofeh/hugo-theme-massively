@@ -48,7 +48,7 @@ Simply press the pencil icon on the left of the image to navigate to the editor 
 
 ### Add a Title, Description, and URL
 
-![test image size](/uploads/collage.png){:height="50%" width="50%"}
+![](/uploads/collage.png?v=4&s=200)
 
 Once satisfied with how the collage looks like, exit out of the editor.
 
