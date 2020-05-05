@@ -33,7 +33,7 @@ Above is the screen that pops up.
 
 ### Change, Adjust Images, Add Text + More!
 
-![](/uploads/Finalin.PNG)
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/FinalIn.PNG" style="float:left">
 
 Pinterest allows you to customize your collage by editing all of the images, adding text, and your logo.
 
