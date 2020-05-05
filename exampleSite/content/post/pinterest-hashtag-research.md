@@ -40,6 +40,7 @@ Using shorter and generic words allows Pinterest to auto-populate hashtags that 
 I usually don't select pins that have millions of content associated with them. I found on Instagram choosing large hashtags made it difficult for my content to get discovered
 
 #### **2. Experiment with Longer Keyword Strings**
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="40%" height="40%" align="right" style="margin:0px 20px">
 
 In the my initial research, there were two hashtags that used Cake Decorating. It seemed to be a topic a decent amount of people where tagging their content as. 
 
@@ -53,7 +54,6 @@ Now I always experiment starting with single words and word-strings.
 
 In this example, I knew there were going to be other hashtags I wanted to add. So I added the circled hashtags on the right and moved on.
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="40%" height="40%" align="right" style="margin:0px 20px">
 
 #### **3. Repeat the Process With Other Keywords**
 
