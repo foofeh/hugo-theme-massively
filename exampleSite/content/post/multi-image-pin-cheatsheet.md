@@ -16,14 +16,6 @@ title = "Multi-Image Pin Cheatsheet"
  
 Pinterest allows you to create visual displays right in the platform. This guide will walk you through how to create the following pins:
 
-### Collages
-
-![](/uploads/dbdb072eae17e0473bd3d9b7b26fec6b.jpg)
-
-### Slideshows
-
-VIDEO
-
 <center><h3>Creating a Collage </h3> </center>
 
 1\. Click the add pin button (+)
