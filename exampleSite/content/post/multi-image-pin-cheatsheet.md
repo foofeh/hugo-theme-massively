@@ -25,7 +25,8 @@ VIDEO
 2\. When selecting image to upload, click all of the images you would like in the collage
 (**minimum** of 2 maximum of 5 images)
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" style="width:500px;height:600px;">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" style="width:100px;height:500px;">
+
 Above is the screen that pops up. 
 3\.Select "Create A Collage". The preview shown can be adjusted later.
 
