@@ -24,12 +24,12 @@ You can find my Pinterest account [here](). Fair warning: you might get stuck be
 <Center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/deva-williamson-Kppw90QC_aE-unsplash(1).jpg" width="40%" height="40%"></center>
 
 With Valentine's Day around the corner, many people are looking for baking inspiration. 
-
+<br>
 This cheat sheet will be walking though how I would find hashtags for this cake. Made out of buttercream frosting, this is an adorable cake for any Valentine's day party!
 
 <Center><H2> 1. Start With a Generic, Short, and Relevant Word - See What Populates </Center></H2>
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="40%" height="40%" align="left" style="margin:0px 20px">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="50%" height="50%" align="left" style="margin:0px 20px">
 
 When doing hashtag research, I always start with a relevant, generic, and short word. 
 
