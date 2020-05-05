@@ -5,7 +5,7 @@ disableComments = true
 draft = true
 image = "images/MultiPinImg.png"
 slug = "multi-image-pins"
-title = "Multi-Image Pin Cheatsheet"
+title = "Cheatsheet"
 
 +++
 ## More Visual Pin Formats
