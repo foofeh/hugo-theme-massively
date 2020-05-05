@@ -46,7 +46,7 @@ Popular Pins: On this panel you can see previews of some of the top pins based o
 
 ## Pinterest 100
 
-<IMG SRC=”/images/PinterestTrendsHero.png” ALIGN=”center”/>
+![](https://i.ibb.co/xGKXL8L/trend100.png)
 
 Launched in December 2019, Pinterest 100 is a visual way to explore what is trending on Pinterest.
 The homepage has the top trend themes laid out visually, but to see all of the topics at once you can click the two vertical lines on the top left.
