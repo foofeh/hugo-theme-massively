@@ -27,7 +27,7 @@ With Valentine's Day around the corner, many people are looking for baking inspi
 
 This cheat sheet will be walking though how I would find hashtags for this cake. Made out of buttercream frosting, this is an adorable cake for any Valentine's day party!
 
-#### **1. Start With a Generic, Short, and Relevant Word - See What Populates**
+<Center><H2> 1. Start With a Generic, Short, and Relevant Word - See What Populates </Center></H2>
 
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="40%" height="40%" align="left" style="margin:0px 20px">
 
@@ -39,7 +39,7 @@ Using shorter and generic words allows Pinterest to auto-populate hashtags that 
 
 I usually don't select pins that have millions of content associated with them. I found on Instagram choosing large hashtags made it difficult for my content to get discovered
 
-#### **2. Experiment with Longer Keyword Strings**
+<Center><H2> 2. Experiment with Longer Keyword Strings </Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="40%" height="40%" align="right" style="margin:0px 20px">
 
 In the my initial research, there were two hashtags that used Cake Decorating. It seemed to be a topic a decent amount of people where tagging their content as. 
@@ -55,7 +55,7 @@ Now I always experiment starting with single words and word-strings.
 In this example, I knew there were going to be other hashtags I wanted to add. So I added the circled hashtags on the right and moved on.
 
 
-#### **3. Repeat the Process With Other Keywords**
+<Center><H2> 3. Repeat the Process With Other Keywords </Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1%20(2)(1).jpeg" width="40%" height="40%" align="left" style="margin:0px 20px">
 
 Users may be looking up a variety of keywords that relate to the content I was featuring: How to decorate a cake.
@@ -68,7 +68,7 @@ The content piece I was sharing was a video using _buttercream_ frosting to deco
 
 Since my video did not use flowers or link to a recipe, I did not use the bottom three hashtags.
 
-#### ​**4. Don't Forget About Seasonality!**
+<Center><H2> 4. Don't Forget About Seasonality!** </Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="40%" height="40%" align="right" style="margin:0px 20px">
 
 What I have found on both Instagram and Pinterest, is that using seasonal hashtags is important to stay relevant and have engagement.
@@ -86,7 +86,7 @@ I started to type in #ValentinesDay, and found a TON of different hashtags relat
 Choosing these hashtags can help someone find this pretty heart shape cake video- just in time to try it themselves for Valentine's Day!
 
 
-#### **5. Continually Experiment With New Hashtags and Content**
+<Center><H2> 5. Continually Experiment With New Hashtags and Content </Center></H2>
 
 Once I notice that my content is starting to get discovered and receive more engagement, I continue to use those hashtags. I also try to use similar content that people found engaging in the past.
 
