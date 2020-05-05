@@ -3,7 +3,7 @@ date = ""
 description = "Text text"
 disableComments = true
 image = "images/MultiPinImg.png"
-slug = "multi-image-pins"
+slug = "/Pinterest"
 title = "Cheatsheet"
 
 +++
