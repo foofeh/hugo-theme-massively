@@ -15,14 +15,14 @@ A few starting points:
 
 This guide walks through how I find hashtags when featuring bakers for BakersSpotlight.com. Specifically, I will be walking through featuring a Valentine's Day cake.
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/bakers.PNG" width="25%" height="25%">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/bakers.PNG" width="75%" height="75%">
 
 You can find my Pinterest account [here](). Fair warning: you might get stuck being memorized by all of the cookie + cake decorating videos.
 
 ### What Hashtags Will Fit This Cake?
 
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/deva-williamson-Kppw90QC_aE-unsplash(1).jpg" width="25%" height="25%">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/deva-williamson-Kppw90QC_aE-unsplash(1).jpg" width="40%" height="40%" align="left" style="margin:0px 50px">
 
 With Valentine's Day around the corner, many people are looking for baking inspiration. 
 
@@ -30,7 +30,7 @@ This cheat sheet will be walking though how I would find hashtags for this cake.
 
 #### **1. Start With a Generic, Short, and Relevant Word - See What Populates**
 
-![](/uploads/image0 (1)(1).jpeg)
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="80%" height="80%">
 
 When doing hashtag research, I always start with a relevant, generic, and short word. 
 
