@@ -46,7 +46,6 @@ Popular Pins: On this panel you can see previews of some of the top pins based o
 
 ## Pinterest 100
 
-    
     <IMG SRC=”https://i.ibb.co/MDdNFVB/resorts.png” ALIGN=”right” />
 
 Launched in December 2019, Pinterest 100 is a visual way to explore what is trending on Pinterest.
