@@ -9,14 +9,9 @@ title = "Multi-Image Pin Cheatsheet"
 +++
 <center> <h2> More Visual Pin Formats </h2>
 </center>
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/dbdb072eae17e0473bd3d9b7b26fec6b.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/dbdb072eae17e0473bd3d9b7b26fec6b.jpg" style="float: right; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 
-<div class="row">
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/dbdb072eae17e0473bd3d9b7b26fec6b.jpg" alt="Snow" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/dbdb072eae17e0473bd3d9b7b26fec6b.jpg" style="width:50%">
-  </div>
 Pinterest allows you to create visual displays right in the platform. This guide will walk you through how to create the following pins:
 
 ### Collages
