@@ -30,7 +30,7 @@ VIDEO
 
 3\.Select "Create A Collage". The preview shown can be adjusted later.
 
-<center> ### Change, Adjust Images, Add Text + More! </center>
+<center><h3>Change, Adjust Images, Add Text + More!</h3> </center>
 
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG"  align="left" style="margin:0px 50px">
 
