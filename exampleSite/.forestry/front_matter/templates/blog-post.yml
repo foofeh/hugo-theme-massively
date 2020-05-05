@@ -20,3 +20,5 @@ fields:
 - type: boolean
   name: disableComments
   label: disableComments
+pages:
+- exampleSite/content/post/pinterest-trends.md
