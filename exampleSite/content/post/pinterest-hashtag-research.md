@@ -56,8 +56,9 @@ In this example, I knew there were going to be other hashtags I wanted to add. S
 
 
 #### **3. Repeat the Process With Other Keywords**
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1%20(2)(1).jpeg" width="40%" height="40%" align="left" style="margin:0px 20px">
 
-![](/uploads/image1 (2)(1).jpeg)Users may be looking up a variety of keywords that relate to the content I was featuring: How to decorate a cake.
+Users may be looking up a variety of keywords that relate to the content I was featuring: How to decorate a cake.
 
 After using several hashtags centered around cake decorating, I started to research another popular baking topic: frosting.
 
@@ -68,10 +69,9 @@ The content piece I was sharing was a video using _buttercream_ frosting to deco
 Since my video did not use flowers or link to a recipe, I did not use the bottom three hashtags.
 
 #### ​**4. Don't Forget About Seasonality!**
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="40%" height="40%" align="right" style="margin:0px 20px">
 
 What I have found on both Instagram and Pinterest, is that using seasonal hashtags is important to stay relevant and have engagement.
-
-​
 
 During a season, holiday, or other important event, I always research seasonal hashtags related to my content.
 
@@ -85,7 +85,6 @@ I started to type in #ValentinesDay, and found a TON of different hashtags relat
 
 Choosing these hashtags can help someone find this pretty heart shape cake video- just in time to try it themselves for Valentine's Day!
 
-![](/uploads/image0 (3)(1).jpeg)
 
 #### **5. Continually Experiment With New Hashtags and Content**
 
