@@ -30,7 +30,7 @@ Pinterest allows you to create visual displays right in the platform. This guide
 
 <center><h3>Change, Adjust Images, Add Text + More!</h3> </center>
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG"  align="left" style="margin:0px 50px">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG"  align="left" style="margin:0px 30px">
 
 Pinterest allows you to customize your collage by editing all of the images, adding text, and your logo.
 Simply press the pencil icon on the left of the image to navigate to the editor tool.
