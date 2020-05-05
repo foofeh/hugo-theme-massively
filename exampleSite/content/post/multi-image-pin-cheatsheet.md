@@ -32,7 +32,7 @@ VIDEO
 
 ### Change, Adjust Images, Add Text + More!
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG" align="left">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG"  align="left" style="margin:0px 50px">
 
 Pinterest allows you to customize your collage by editing all of the images, adding text, and your logo.
 Simply press the pencil icon on the left of the image to navigate to the editor tool.
