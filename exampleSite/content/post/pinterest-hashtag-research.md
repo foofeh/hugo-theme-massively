@@ -21,7 +21,7 @@ You can find my Pinterest account [here](). Fair warning: you might get stuck be
 
 <center><h3> What Hashtags Will Fit This Cake? </center></h3>
 
-<Center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/deva-williamson-Kppw90QC_aE-unsplash(1).jpg" width="60%" height="60%"></center>
+<Center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/deva-williamson-Kppw90QC_aE-unsplash(1).jpg" width="40%" height="40%"></center>
 
 With Valentine's Day around the corner, many people are looking for baking inspiration. 
 
@@ -55,7 +55,7 @@ Now I always experiment starting with single words and word-strings.
 
 In this example, I knew there were going to be other hashtags I wanted to add. So I added the circled hashtags on the right and moved on.
 
-![](/uploads/image1(1).jpeg)
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="40%" height="40%" align="right" style="margin:0px 20px">
 
 #### **3. Repeat the Process With Other Keywords**
 
