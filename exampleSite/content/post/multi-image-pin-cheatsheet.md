@@ -19,7 +19,7 @@ Pinterest allows you to create visual displays right in the platform. This guide
 
 VIDEO
 
-<center> ## Creating a Collage </center>
+<center><h3>Creating a Collage </h3> </center>
 
 1\. Click the add pin button (+)
 2\. When selecting image to upload, click all of the images you would like in the collage
