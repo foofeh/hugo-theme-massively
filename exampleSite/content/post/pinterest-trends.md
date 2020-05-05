@@ -10,7 +10,7 @@ title = "Pinterest Trends"
 The Pinterest Trends dashboard includes a search bar where you can search for your own keywords.
 Below the search bar is a discovery dashboard. It highlights keywords that had peaks in search volumes within the last year. The suggestions may or may not be relevant to you.
 
-Search Volume Results Dashboard
+### Search Volume Results Dashboard
 
 View search volume by day, find related keywords and discover content ideas.
 
@@ -20,7 +20,7 @@ The Search Volume Report dashboard focuses mainly on the interactive graph.
 As you hover over the graph, you can see the relative search volume score on any given day within the last year
 With the ability to add up to 4 keywords at a time, it is easy to compare what keywords are trending when.
 
-Panel Breakdown
+### Panel Breakdown
 
 The Search Volume Dashboard has 3 main sections:
 
@@ -68,24 +68,24 @@ For those who want to skip the visualization of trends, you can click the vertic
 
 You can also download 2020's trending keywords by theme via PDF here.
 
-Top Trends For 2020
+### Top Trends For 2020
 
-Beyond Binary: Moving beyond gendered labels and structured options.
+**Beyond Binary:** Moving beyond gendered labels and structured options.
 
-\**Conscious Consumption: **A move towards more eco-friendly habits
+**Conscious Consumption:** A move towards more eco-friendly habits
 
-Finding Balance: Self-care routines and habits that help improve your outlook.
+**Finding Balance:** Self-care routines and habits that help improve your outlook.
 
-Home Hub: Making your home just a little more cozy.
+**Home Hub:** Making your home just a little more cozy.
 
-\**Internationally Inspired: **From recipes to home decor, inspo is going global.
+**Internationally Inspired:** From recipes to home decor, inspo is going global.
 
-Pampered Pets: When your pets deserve more than just being a pet.
+**Pampered Pets:** When your pets deserve more than just being a pet.
 
-\**Re-Wilding: **Nature is calling people outside to relax, hike, and get explore.
+**Re-Wilding:** Nature is calling people outside to relax, hike, and get explore.
 
-Responsible Travel: Similar to Conscious Consumption, people are looking to how their travel is impacting the environment.
+**Responsible Travel:** Similar to Conscious Consumption, people are looking to how their travel is impacting the environment.
 
-Space Everything: Style inspiration is going out of this world and into the galaxy.
+**Space Everything:** Style inspiration is going out of this world and into the galaxy.
 
-90's Rerun: Fashion trends are getting a little nostalgic, as the 90's heavily influences searches on the platform.+++
+**90's Rerun:** Fashion trends are getting a little nostalgic, as the 90's heavily influences searches on the platform.
