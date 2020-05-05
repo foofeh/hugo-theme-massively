@@ -43,7 +43,7 @@ I found on Instagram choosing large hashtags made it difficult for my content to
 
 <Center><H2> 2. Experiment with Longer Keyword Strings </Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="40%" height="40%" align="right" style="margin:0px 20px">
-
+<p style="line-height:1.6">
 In the my initial research, there were two hashtags that used Cake Decorating. It seemed to be a topic a decent amount of people where tagging their content as. 
 
 I set out to see if there were any more cake decorating hashtags to be found.
@@ -51,8 +51,8 @@ I set out to see if there were any more cake decorating hashtags to be found.
 Going back to the description field, I started to type out **#CakeDecor.**Being a longer word, I was surprised that more related hashtags popped up.
 
 If I didn't type in #CakeDecor, I would not have found: #CakeDecoratingTips, #CakeDecoratingDesigns and #CakeDecorator.
-<p style="line-height:1.6">
 Now I always experiment starting with single words and word-strings.
+ <br>
 In this example, I knew there were going to be other hashtags I wanted to add. So I added the circled hashtags on the right and moved on.
 </p>
 
