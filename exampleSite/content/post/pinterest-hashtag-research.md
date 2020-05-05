@@ -47,9 +47,7 @@ I set out to see if there were any more cake decorating hashtags to be found.
 
 Going back to the description field, I started to type out **#CakeDecor.**Being a longer word, I was surprised that more related hashtags popped up.
 
-If I didn't type in #CakeDecor, I would not have found
-
-\#CakeDecoratingTips, #CakeDecoratingDesigns and #CakeDecorator.
+If I didn't type in #CakeDecor, I would not have found: #CakeDecoratingTips, #CakeDecoratingDesigns and #CakeDecorator.
 
 Now I always experiment starting with single words and word-strings.
 
