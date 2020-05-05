@@ -2,6 +2,7 @@
 date = ""
 description = "Pinterest allows you create visually appealing pins within the platform. Use this cheat sheet to create your own carousels and collages!"
 disableComments = true
+draft = true
 image = "images/MultiPinImg.png"
 slug = "multi-image-pins"
 title = "Multi-Image Pin Cheatsheet"
