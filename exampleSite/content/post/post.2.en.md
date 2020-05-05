@@ -5,6 +5,7 @@ disableComments = false
 image = "/Images/PinterestTrendsImg.png"
 slug = "/Pinterest-Trends"
 title = "Pinterest Trends"
+subtitle = "Pinterest"
 
 +++
 # Pinterest Trends
