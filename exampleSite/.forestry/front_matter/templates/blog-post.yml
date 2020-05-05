@@ -1,0 +1,22 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: slug
+  label: slug
+- type: file
+  name: image
+  label: image
+- type: text
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: boolean
+  name: disableComments
+  label: disableComments
