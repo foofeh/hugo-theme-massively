@@ -1,9 +1,9 @@
 +++
-date = 2019-08-15T00:00:00Z
-description = "Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam."
+date = ""
+description = "Launched in December 2019, Pinterest Trends identifies the top searches in the US. Early access is currently being rolled out to users on desktop only.\n\nAlso part of the new mini-site, is a search function that enables you to do your own keyword research.\n\nWhether Pinterest is in your marketing stack or not, the content themes here can be easily applied elsewhere."
 disqus_identifier = "9"
 image = "/images/PinterestTrendsHero.png"
-slug = "comments-example"
+slug = "Pinterest-Trends"
 title = "Pinterest Trends"
 
 +++
