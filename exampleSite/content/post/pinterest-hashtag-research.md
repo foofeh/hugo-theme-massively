@@ -38,6 +38,7 @@ Using shorter and generic words allows Pinterest to auto-populate hashtags that 
 \#CakeDecorating and #CakeDecoratingIdeas are the two keywords I thought where most relevant, and clicked them to add to the description.
 
 I usually don't select pins that have millions of content associated with them. 
+<br>
 I found on Instagram choosing large hashtags made it difficult for my content to get discovered
 
 <Center><H2> 2. Experiment with Longer Keyword Strings </Center></H2>
