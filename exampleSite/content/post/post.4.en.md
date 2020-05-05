@@ -2,7 +2,7 @@
 date = ""
 description = "This cheat sheet will help you understand the definitions behind Pinterest's analytics. "
 disableComments = false
-image = "images/pic06.jpg"
+image = "New Project(1)-1.png"
 slug = "Pinterest-Analytics-Definitions"
 title = "Pinterest Analytics Cheatsheet"
 
