@@ -15,13 +15,14 @@ A few starting points:
 
 This guide walks through how I find hashtags when featuring bakers for BakersSpotlight.com. Specifically, I will be walking through featuring a Valentine's Day cake.
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/bakers.PNG" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/bakers.PNG" width="25%" height="25%">
 
 You can find my Pinterest account [here](). Fair warning: you might get stuck being memorized by all of the cookie + cake decorating videos.
 
 ### What Hashtags Will Fit This Cake?
 
-![](/uploads/deva-williamson-Kppw90QC_aE-unsplash(1).jpg)
+
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/deva-williamson-Kppw90QC_aE-unsplash(1).jpg" width="25%" height="25%">
 
 With Valentine's Day around the corner, many people are looking for baking inspiration. 
 
