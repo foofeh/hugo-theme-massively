@@ -25,7 +25,7 @@ VIDEO
 2\. When selecting image to upload, click all of the images you would like in the collage
 (**minimum** of 2 maximum of 5 images)
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" style="width:8000px;height:500px;">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" style="width:800px;height:500px;">
 
 Above is the screen that pops up. 
 
@@ -33,10 +33,9 @@ Above is the screen that pops up.
 
 ### Change, Adjust Images, Add Text + More!
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/FinalIn.PNG" style="float:left">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/FinalIn.PNG" align="left">
 
 Pinterest allows you to customize your collage by editing all of the images, adding text, and your logo.
-
 Simply press the pencil icon on the left of the image to navigate to the editor tool.
 
 #### **Crop panel:**
