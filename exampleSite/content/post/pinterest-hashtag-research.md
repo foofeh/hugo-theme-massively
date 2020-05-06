@@ -5,7 +5,9 @@ disableComments = false
 image = "/uploads/image1(1).jpeg"
 slug = "Pinterest-Hashtag-Research"
 title = "Pinterest Hashtag Research"
-
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+ </head>
 +++
 A few starting points:
 
