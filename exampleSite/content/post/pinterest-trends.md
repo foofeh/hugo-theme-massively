@@ -58,6 +58,8 @@ Partnering with WGSN, Pinterest identified keywords surrounding these trends bro
 
 ### Diving Into Trend Reports
 
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/DeepDivePinterstTrends.PNG" width="90%" height="90%"></center>
+
 Pinterest 100 is very visual and interactive mini-site. Laid out in a modern website design, the site covers the top 10 keywords and themes for the past year.
 
 Click on a topic that interests you and the top keywords overall will be shown. The mini-site also breaks down the trending keywords for every topic by location.
