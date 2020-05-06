@@ -38,7 +38,7 @@ What is shown in the pop-up is where I get my hashtag ideas from.
 <b>#CakeDecorating</b> & <b>#CakeDecoratingIdeas</b> are the two keywords I thought where most relevant, and I added them to the description.
 <br>
 <br>
-<Center><H2><style ="margin-top:60px">2. Experiment with Longer Keyword Strings </style> </H2> </Center>
+<Center><H2>2. Experiment with Longer Keyword Strings </H2> </Center>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="50%" height="50%" align="right" style="text-align:left; margin:0px 20px; padding: 10px">
 In my initial research, there were two hashtags that used Cake Decorating at the start. Both hashtags had a high amount of tags.
 I set out to see if there were any more hashtags that started with "CakeDecorating"
