@@ -28,6 +28,7 @@ With Valentine's Day around the corner, many people are looking for baking inspi
 This cheat sheet will be walking though how I would find hashtags for this cake. Made out of buttercream frosting, this is an adorable cake for any Valentine's day party!
 
 <Center><H2> 1. Start With a Generic, Short, and Relevant Word - See What Populates </Center></H2>
+<head>
 <style>
  .div1 {
      border: 3px solid #0f0;
@@ -43,6 +44,7 @@ This cheat sheet will be walking though how I would find hashtags for this cake.
     float: left; // without float here, if "Line 1" and "Line 2" is long -> text will display both at right and bottom the image
 } 
  </style>
+ </head>
 <img class="TextWrap" src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="60%" height="60%" align="float:left;" style="margin:0px 0px">
 <p style="line-height:1.8">
 When doing hashtag research, I always start with a relevant, generic, and short word. 
