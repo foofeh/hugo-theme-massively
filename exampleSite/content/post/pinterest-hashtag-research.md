@@ -53,18 +53,14 @@ CakeDecorating & CakeDecoratingIdeas are the two keywords I thought where most r
     text-align: start;
 }
   </style>
-<p style="line-height:1.8">
 In my initial research, there were two hashtags that used Cake Decorating at the start. Both hashtags had a high amount of tags.
 I set out to see if there were any more hashtags that started with "CakeDecorating"
 </p>
-<p style="line-height:1.8">
-Going back to the description field, I started to type out **#CakeDecor.**Being a longer word, I was surprised that more related hashtags popped up.
+Going back to the description field, I started to type out #CakeDecor. Being a longer word, I was surprised that more related hashtags popped up.
 </p>
-<p style="line-height:1.8">
 If I didn't type in #CakeDecor, I would not have found: #CakeDecoratingTips, #CakeDecoratingDesigns and #CakeDecorator.
-  <p>
+<p>
 Now I always experiment starting with single words and word-strings.
-</p>
 <p>
 In this example, I knew there were going to be other hashtags I wanted to add. So I added the circled hashtags on the right and moved on.
 </p>
@@ -74,19 +70,17 @@ In this example, I knew there were going to be other hashtags I wanted to add. S
 <Center><H2> 3. Repeat the Process With Other Keywords </Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1%20(2)(1).jpeg" width="60%" height="60%" align="left" style="margin:0px 20px">
 
-Users may be looking up a variety of keywords that relate to the content I was featuring: How to decorate a cake.
+Users may be looking up a variety of keywords that relate to the contentI was featuring: How to decorate a cake.
 
 After using several hashtags centered around cake decorating, I started to research another popular baking topic: frosting.
 
 Buttercream is a very popular type of frosting that is used to decorate cakes. Knowing this, I started to type out buttercream to see what would pop up.
-
+<p>
 The content piece I was sharing used _buttercream_ frosting. So I used the first three hashtags circled in red.
-
 Since my video did not use flowers or link to a recipe, I did not use the bottom three hashtags.
 
 <Center><H2> 4. Don't Forget About Seasonality!** </Center></H2>
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="60%" height="60%" align="right" style="margin:0px 20px">
-
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="60%" height="60%" align="right" style="margin:0px 20px">\
 What I have found on both Instagram and Pinterest, is that using seasonal hashtags is important to stay relevant and increase engagement.
 
 During a season, holiday, or other important event, I always research seasonal hashtags related to my content.
