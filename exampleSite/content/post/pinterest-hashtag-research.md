@@ -68,9 +68,7 @@ After using several hashtags included "cake decorating", I started to research a
 
 Buttercream is a very popular type of frosting that is used to decorate cakes. Knowing this, I started to type out buttercream to see what would pop up.
 <p>
-The content piece I was sharing was using buttercream frosting.
- <br>
- The hashtags circled in red where the most relevant to the content I was sharing. Adding them to the description, I moved on.
+The content piece I was sharing used buttercream frosting. Circled in red where the most relevant hashtags to my content. Adding them to the description, I moved on.
  
 <Center><H2> 4. Don't Forget About Seasonality!</Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="50%" height="50%" align="right" style="margin:0px 20px">
@@ -89,7 +87,7 @@ I started to type in #ValentinesDay, and found a ton of different hashtags relat
 Choosing these hashtags can help someone find this pretty heart shape cake video- just in time to try it themselves for Valentine's Day!
 
 
-<Center><H2> 5. Continually Experiment With New Hashtags and Content </Center></H2
+<Center><H2> 5. Continually Experiment With New Hashtags and Content </Center></H2>
 Once I notice that my content is starting to get discovered and receive more engagement, I continue to use those hashtags. I also try to use similar content that people found engaging in the past.
   
 For example: A video I featured of decorating a cake had a very high level of engagement.
