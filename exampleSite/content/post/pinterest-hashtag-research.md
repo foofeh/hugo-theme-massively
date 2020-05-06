@@ -31,11 +31,11 @@ This cheat sheet will be walking though how I would find hashtags for this cake.
 <img class="TextWrap" src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="60%" height="60%" align="left">
 
 <p style="line-height:1.8">
-When doing hashtag research, I always start with a relevant, generic, and short word. 
+When doing hashtag research, I always start with a relevant, generic, and short word.
 </p>
 <p style="line-height:1.8">
-Using shorter and generic words allows Pinterest to auto-populate hashtags that have the highest amount of pins associated with it.
- What is shown in the pop-up is where I get my hashtag ideas from.
+This way, Pinterest can auto-populate hashtags based on the highest amount of the highest amount of pins associated with it.
+What is shown in the pop-up is where I get my hashtag ideas from.
 </p>
 <p style="line-height:1.8">
 CakeDecorating & CakeDecoratingIdeas are the two keywords I thought where most relevant, and clicked them to add to the description.
@@ -45,8 +45,8 @@ CakeDecorating & CakeDecoratingIdeas are the two keywords I thought where most r
 <Center><H2> 2. Experiment with Longer Keyword Strings </Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="60%" height="60%" align="right" style="margin:0px 20px">
 <p style="line-height:1.8">
-In the my initial research, there were two hashtags that used Cake Decorating. It seemed to be a topic a decent amount of people where tagging their content as. 
-I set out to see if there were any more cake decorating hashtags to be found.
+In my initial research, there were two hashtags that used Cake Decorating at the start. Both hashtags had a high amount of tags.
+I set out to see if there were any more hashtags that started with "CakeDecorating"
 </p>
 <p style="line-height:1.8">
 Going back to the description field, I started to type out **#CakeDecor.**Being a longer word, I was surprised that more related hashtags popped up.
@@ -54,7 +54,7 @@ Going back to the description field, I started to type out **#CakeDecor.**Being 
 <p style="line-height:1.8">
 If I didn't type in #CakeDecor, I would not have found: #CakeDecoratingTips, #CakeDecoratingDesigns and #CakeDecorator.
 Now I always experiment starting with single words and word-strings.
- </p>
+</p>
 <p>
 In this example, I knew there were going to be other hashtags I wanted to add. So I added the circled hashtags on the right and moved on.
 </p>
@@ -70,22 +70,22 @@ After using several hashtags centered around cake decorating, I started to resea
 
 Buttercream is a very popular type of frosting that is used to decorate cakes. Knowing this, I started to type out buttercream to see what would pop up.
 
-The content piece I was sharing was a video using _buttercream_ frosting to decorate a cake. So I used the first three hashtags circled in red.
+The content piece I was sharing used _buttercream_ frosting. So I used the first three hashtags circled in red.
 
 Since my video did not use flowers or link to a recipe, I did not use the bottom three hashtags.
 
 <Center><H2> 4. Don't Forget About Seasonality!** </Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="60%" height="60%" align="right" style="margin:0px 20px">
 
-What I have found on both Instagram and Pinterest, is that using seasonal hashtags is important to stay relevant and have engagement.
+What I have found on both Instagram and Pinterest, is that using seasonal hashtags is important to stay relevant and increase engagement.
 
 During a season, holiday, or other important event, I always research seasonal hashtags related to my content.
 
 Every time I post content with a seasonal hashtag, I notice that content gets higher engagement and reaches more people.
 
-The cake decorating video I had was Valentine's Day themed and at the end of January. I looked into what hashtags where relevant.
+The cake decorating video I had was Valentine's Day themed. I looked into what hashtags where relevant.
 
-I started to type in #ValentinesDay, and found a TON of different hashtags related to Valentines Day.
+I started to type in #ValentinesDay, and found a ton of different hashtags related to Valentines Day.
 
 \#ValentinesDay is a very generic hashtag, but I wanted to see how it would perform. #ValentinesDayFood was also relevant to the cake decorating.
 
@@ -106,6 +106,3 @@ My plan would be to try out a new format and new hashtags. Maybe people are over
 
 Experimenting has been the way I have built engaged communities. I listen to what my followers are engaging with and react when they don't.
 
-​
-
-​
