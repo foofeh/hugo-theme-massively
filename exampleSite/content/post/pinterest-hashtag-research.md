@@ -30,16 +30,15 @@ This cheat sheet will be walking though how I would find hashtags for this cake.
 <Center><H2> 1. Start With a Generic, Short, and Relevant Word - See What Populates </Center></H2>
 
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="60%" height="60%" align="left" style="margin:0px 20px">
-<p style="line-height:1.6">
+<p style="line-height:1.4">
 When doing hashtag research, I always start with a relevant, generic, and short word. 
 </p>
-<p style="line-height:1.6">
+<p style="line-height:1.4">
 Using shorter and generic words allows Pinterest to auto-populate hashtags that have the highest amount of pins associated with it.
-<p>
  What is shown in the pop-up is where I get my hashtag ideas from.
 </p>
-<p style="line-height:1.6">
-CakeDecorating and CakeDecoratingIdeas are the two keywords I thought where most relevant, and clicked them to add to the description.
+<p style="line-height:1.4">
+CakeDecorating & CakeDecoratingIdeas are the two keywords I thought where most relevant, and clicked them to add to the description.
 </p>
 <br>
 <br>
