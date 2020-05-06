@@ -21,7 +21,7 @@ You can find my Pinterest account [here](). Fair warning: you might get stuck be
 
 <center><h3> What Hashtags Will Fit This Cake? </center></h3>
 
-<Center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/deva-williamson-Kppw90QC_aE-unsplash(1).jpg" width="80%" height="80%"></center>
+<Center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/deva-williamson-Kppw90QC_aE-unsplash(1).jpg" width="60%" height="60%"></center>
 
 With Valentine's Day around the corner, many people are looking for baking inspiration. 
 <br>
@@ -29,7 +29,7 @@ This cheat sheet will be walking though how I would find hashtags for this cake.
 
 <Center><H2> 1. Start With a Generic, Short, and Relevant Word - See What Populates </Center></H2>
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="80%" height="80%" align="left" style="margin:0px 20px">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="60%" height="60%" align="left" style="margin:0px 20px">
 
 When doing hashtag research, I always start with a relevant, generic, and short word. 
 
@@ -42,7 +42,7 @@ I usually don't select pins that have millions of content associated with them.
 I found on Instagram choosing large hashtags made it difficult for my content to get discovered
 
 <Center><H2> 2. Experiment with Longer Keyword Strings </Center></H2>
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="80%" height="80%" align="right" style="margin:0px 20px">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="60%" height="60%" align="right" style="margin:0px 20px">
 <p style="line-height:1.6">
 In the my initial research, there were two hashtags that used Cake Decorating. It seemed to be a topic a decent amount of people where tagging their content as. 
 
@@ -59,7 +59,7 @@ In this example, I knew there were going to be other hashtags I wanted to add. S
 
 
 <Center><H2> 3. Repeat the Process With Other Keywords </Center></H2>
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1%20(2)(1).jpeg" width="80%" height="80%" align="left" style="margin:0px 20px">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1%20(2)(1).jpeg" width="60%" height="60%" align="left" style="margin:0px 20px">
 
 Users may be looking up a variety of keywords that relate to the content I was featuring: How to decorate a cake.
 
@@ -72,7 +72,7 @@ The content piece I was sharing was a video using _buttercream_ frosting to deco
 Since my video did not use flowers or link to a recipe, I did not use the bottom three hashtags.
 
 <Center><H2> 4. Don't Forget About Seasonality!** </Center></H2>
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="40%" height="40%" align="right" style="margin:0px 20px">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="60%" height="60%" align="right" style="margin:0px 20px">
 
 What I have found on both Instagram and Pinterest, is that using seasonal hashtags is important to stay relevant and have engagement.
 
