@@ -45,10 +45,11 @@ What is shown in the pop-up is where I get my hashtag ideas from.
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="50%" height="50%" align="right" style="text-align:left; margin:0px 20px; padding: 10px">
 In my initial research, there were two hashtags that used Cake Decorating at the start. 
 <br>
+<br>
 Both hashtags had a high amount of tags.
 I set out to see if there were any more hashtags that started with "CakeDecorating"
 </p>
-Going back to the description field, I started to type out #CakeDecor. Being a longer word, I was surprised that more related hashtags popped up.
+Going back to the description field, I started to type out <b>#CakeDecor</b>. Being a longer word, I was surprised that more related hashtags popped up.
 </p>
 If I didn't type in <b>#CakeDecor </b>, I would not have found: <b>#CakeDecoratingTips</b>, <b>#CakeDecoratingDesigns</b> and <b>#CakeDecorator</b>.
 <p>
