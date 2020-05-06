@@ -29,7 +29,7 @@ This cheat sheet will be walking though how I would find hashtags for this cake.
 
 <Center><H2> 1. Start With a Generic, Short, and Relevant Word - See What Populates </Center></H2>
 
-<img class="TextWrap" src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="60%" height="60%" align="left" style="margin:0px 20px">
+<img class="TextWrap" src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="60%" height="60%" align="left" style="margin:0px 10px">
 <p style="line-height:1.8">
 When doing hashtag research, I always start with a relevant, generic, and short word. 
 </p>
