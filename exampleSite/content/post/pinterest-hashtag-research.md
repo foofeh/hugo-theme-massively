@@ -66,7 +66,7 @@ In this example, I knew there were going to be other hashtags I wanted to add. S
 
 
 <Center><H2> 3. Repeat the Process With Other Keywords </Center></H2>
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1%20(2)(1).jpeg" width="60%" height="60%" align="left" style="text-align:right; margin:0px 20px; padding: 10px">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1%20(2)(1).jpeg" width="50%" height="50%" align="left" style="text-align:right; margin:0px 20px; padding: 10px">
 When someone wants to search for cake decorating content, there are a lot of relevant hashtags they could type in.
 
 After using several hashtags included "cake decorating", I started to research another popular baking topic: frosting.
