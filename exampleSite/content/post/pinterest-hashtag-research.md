@@ -42,6 +42,8 @@ Using shorter and generic words allows Pinterest to auto-populate hashtags that 
 </p>
 CakeDecorating and CakeDecoratingIdeas are the two keywords I thought where most relevant, and clicked them to add to the description.
 </p>
+<br>
+<br>
 <Center><H2> 2. Experiment with Longer Keyword Strings </Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="60%" height="60%" align="right" style="margin:0px 20px">
 <p style="line-height:1.6">
