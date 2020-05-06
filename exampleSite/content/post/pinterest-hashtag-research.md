@@ -38,7 +38,7 @@ CakeDecorating & CakeDecoratingIdeas are the two keywords I thought where most r
 <br>
 <br>
 <Center><H2> 2. Experiment with Longer Keyword Strings </Center></H2>
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="60%" height="60%" align="right" style="margin:0px 20px">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="60%" height="60%" align="right" style="margin:0px 20px; padding: 10px">
 <p style="line-height:1.8">
 In my initial research, there were two hashtags that used Cake Decorating at the start. Both hashtags had a high amount of tags.
 I set out to see if there were any more hashtags that started with "CakeDecorating"
