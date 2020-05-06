@@ -36,11 +36,12 @@ This cheat sheet will be walking though how I would find hashtags for this cake.
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="60%" height="60%" align="left" style="margin:0px 20px">
 <p style="line-height:1.6">
 When doing hashtag research, I always start with a relevant, generic, and short word. 
-
+</p>
+<p style="line-height:1.6">
 Using shorter and generic words allows Pinterest to auto-populate hashtags that have the highest amount of pins associated with it. What is shown in the pop-up is where I get my hashtag ideas from.
-
-#CakeDecorating and #CakeDecoratingIdeas are the two keywords I thought where most relevant, and clicked them to add to the description.
-
+</p>
+CakeDecorating and CakeDecoratingIdeas are the two keywords I thought where most relevant, and clicked them to add to the description.
+<p style="line-height:1.6">
 I usually don't select pins that have millions of content associated with them. 
 <br>
 I found on Instagram choosing large hashtags made it difficult for my content to get discovered
@@ -49,13 +50,16 @@ I found on Instagram choosing large hashtags made it difficult for my content to
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="60%" height="60%" align="right" style="margin:0px 20px">
 <p style="line-height:1.6">
 In the my initial research, there were two hashtags that used Cake Decorating. It seemed to be a topic a decent amount of people where tagging their content as. 
-
+<p style="line-height:1.6">
 I set out to see if there were any more cake decorating hashtags to be found.
-
+</p>
+<p style="line-height:1.6">
 Going back to the description field, I started to type out **#CakeDecor.**Being a longer word, I was surprised that more related hashtags popped up.
-
+</p>
+<p style="line-height:1.6">
 If I didn't type in #CakeDecor, I would not have found: #CakeDecoratingTips, #CakeDecoratingDesigns and #CakeDecorator.
 Now I always experiment starting with single words and word-strings.
+ </p>
  <br>
 In this example, I knew there were going to be other hashtags I wanted to add. So I added the circled hashtags on the right and moved on.
 </p>
