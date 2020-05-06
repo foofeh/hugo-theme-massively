@@ -33,7 +33,7 @@ I always start hashtag research with a relevant, generic, and short word.
 <br>
 This way, Pinterest can auto-populate hashtags based on the highest amount of the highest amount of pins associated with it.
 What is shown in the pop-up is where I get my hashtag ideas from.
-<br>
+<p>
 <b>#CakeDecorating</b> & <b>#CakeDecoratingIdeas</b> are the two keywords I thought where most relevant, and I added them to the description.
 <br>
 <br>
