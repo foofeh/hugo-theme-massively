@@ -24,25 +24,27 @@ With the ability to add up to 4 keywords at a time, it is easy to compare what k
 
 The Search Volume Dashboard has 3 main sections:
 
-Search Volume by Day: Hover over the graph to view the search volume by day.
-
+<b>Search Volume by Day:</b> Hover over the graph to view the search volume by day.
 Pinterest takes the search volume for the given keyword and compares it to all other searches on Pinterest on the same day.
 The number you see is indexed from 0 to 100 to compare the relative volume of the keyword.
-
 Basically, they give you a relative search volume metric and not actual searches per day.
 
-Related Terms: Underneath the graph are related terms that are either similar to your keyword, or what users are also searching for.
+<b>Related Terms:</b> Underneath the graph are related terms that are either similar to your keyword, or what users are also searching for.
 By clicking on an additional keyword, you can can compare search volume between keywords.
 
-Popular Pins: On this panel you can see previews of some of the top pins based on the keywords selected. Clicking on the previews takes you to the search results page.
+<b>Popular Pins:</b> On this panel you can see previews of some of the top pins based on the keywords selected. Clicking on the previews takes you to the search results page.
 
 ### Perform Your Own Keyword Research
 
-**Step 1:** In the search bar, enter a keyword you would like to get Pinterest search volume metrics for. You can scroll through the auto-suggestions that pop-up or hit enter to go to your specific keyword.
-**Step 2:** Hover over the graph to see the relative search volume score to identify when the keyword is trending.
-**Step 3:** Under Related Terms, you can click to add terms that are similar to your keyword. Adding up to 4 keywords, the graph allows you to easily compare search volume scores over time.
-**Step 4:** If none of the Related Terms are relevant, you can scroll up to the top and add other keywords from the search bar. Pinterest will again auto-recommend based off of what you search for.
-**Step 5:** Under Popular pins, you can browse content ideas based off of the keywords you selected. Clicking on the image previews will take you to the search page.
+<b>Step 1:</b> In the search bar, enter a keyword you would like to get Pinterest search volume metrics for. You can scroll through the auto-suggestions that pop-up or hit enter to go to your specific keyword.
+<p>
+<b>Step 2:</b> Hover over the graph to see the relative search volume score to identify when the keyword is trending.
+<p>
+<b>Step 3:</b> Under Related Terms, you can click to add terms that are similar to your keyword. Adding up to 4 keywords, the graph allows you to easily compare search volume scores over time.
+ <p>
+<b>Step 4:</b> If none of the Related Terms are relevant, you can scroll up to the top and add other keywords from the search bar. Pinterest will again auto-recommend based off of what you search for.
+ <p>
+<b>Step 5:</b> Under Popular pins, you can browse content ideas based off of the keywords you selected. Clicking on the image previews will take you to the search page.
 
 ## Pinterest 100
 
