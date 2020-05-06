@@ -31,7 +31,7 @@ This cheat sheet will be walking though how I would find hashtags for this cake.
 <img class="TextWrap" src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="60%" height="60%" align="left">
 
 <p style="line-height:1.8">
-When doing hashtag research, I always start with a relevant, generic, and short word.
+I always start hashtag research with a relevant, generic, and short word.
 </p>
 <p style="line-height:1.8">
 This way, Pinterest can auto-populate hashtags based on the highest amount of the highest amount of pins associated with it.
