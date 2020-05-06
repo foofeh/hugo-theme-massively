@@ -28,7 +28,7 @@ With Valentine's Day around the corner, many people are looking for baking inspi
 This cheat sheet will be walking though how I would find hashtags for this cake. Made out of buttercream frosting, this is an adorable cake for any Valentine's day party!
 
 <Center><H2> 1. Start With a Generic, Short, and Relevant Word - See What Populates </Center></H2>
-<img class="TextWrap" src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="60%" height="60%" align="left" style="margin:5px 5px"">
+<img class="TextWrap" src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="60%" height="60%" align="left">
 
 <p style="line-height:1.8">
 When doing hashtag research, I always start with a relevant, generic, and short word. 
@@ -44,14 +44,14 @@ CakeDecorating & CakeDecoratingIdeas are the two keywords I thought where most r
 <br>
 <Center><H2> 2. Experiment with Longer Keyword Strings </Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="60%" height="60%" align="right" style="margin:0px 20px">
-<p style="Margin:0; text-align:justify; line-height:1.6">
+<p style="line-height:1.8">
 In the my initial research, there were two hashtags that used Cake Decorating. It seemed to be a topic a decent amount of people where tagging their content as. 
 I set out to see if there were any more cake decorating hashtags to be found.
 </p>
-<p style="line-height:1.6">
+<p style="line-height:1.8">
 Going back to the description field, I started to type out **#CakeDecor.**Being a longer word, I was surprised that more related hashtags popped up.
 </p>
-<p style="line-height:1.6">
+<p style="line-height:1.8">
 If I didn't type in #CakeDecor, I would not have found: #CakeDecoratingTips, #CakeDecoratingDesigns and #CakeDecorator.
 Now I always experiment starting with single words and word-strings.
  </p>
