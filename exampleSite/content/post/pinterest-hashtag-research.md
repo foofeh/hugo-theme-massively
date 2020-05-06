@@ -29,6 +29,13 @@ This cheat sheet will be walking though how I would find hashtags for this cake.
 
 <Center><H2> 1. Start With a Generic, Short, and Relevant Word - See What Populates </Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="50%" height="50%" style="float:left; text-align:right;margin-left:0px; margin-right:20px">
+<style>
+  article {
+    overflow: auto;
+    word-wrap: break-word;
+    text-align: start;
+}
+  </style>
 I always start hashtag research with a relevant, generic, and short word.
 <p>
 This way, Pinterest can auto-populate hashtags based on the highest amount of the highest amount of pins associated with it.
@@ -39,6 +46,13 @@ CakeDecorating & CakeDecoratingIdeas are the two keywords I thought where most r
 <br>
 <Center><H2> 2. Experiment with Longer Keyword Strings </Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="50%" height="50%" align="right" style="text-align:left; margin:0px 20px; padding: 10px">
+  <style>
+  article {
+    overflow: auto;
+    word-wrap: break-word;
+    text-align: start;
+}
+  </style>
 <p style="line-height:1.8">
 In my initial research, there were two hashtags that used Cake Decorating at the start. Both hashtags had a high amount of tags.
 I set out to see if there were any more hashtags that started with "CakeDecorating"
