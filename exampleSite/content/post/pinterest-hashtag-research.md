@@ -35,7 +35,7 @@ When doing hashtag research, I always start with a relevant, generic, and short 
 </p>
 <p style="line-height:1.6">
 Using shorter and generic words allows Pinterest to auto-populate hashtags that have the highest amount of pins associated with it.
- <br>
+<p>
  What is shown in the pop-up is where I get my hashtag ideas from.
 </p>
 <p style="line-height:1.6">
@@ -59,7 +59,7 @@ Going back to the description field, I started to type out **#CakeDecor.**Being 
 If I didn't type in #CakeDecor, I would not have found: #CakeDecoratingTips, #CakeDecoratingDesigns and #CakeDecorator.
 Now I always experiment starting with single words and word-strings.
  </p>
- <br>
+<p>
 In this example, I knew there were going to be other hashtags I wanted to add. So I added the circled hashtags on the right and moved on.
 </p>
 
