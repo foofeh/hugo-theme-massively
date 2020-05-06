@@ -7,6 +7,7 @@ slug = "Pinterest-Hashtag-Research"
 title = "Pinterest Hashtag Research"
 
 +++
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 A few starting points:
 
 * This way of hashtag research is only available on the Pinterest app.
