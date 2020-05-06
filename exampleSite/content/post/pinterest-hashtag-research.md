@@ -41,10 +41,6 @@ When doing hashtag research, I always start with a relevant, generic, and short 
 Using shorter and generic words allows Pinterest to auto-populate hashtags that have the highest amount of pins associated with it. What is shown in the pop-up is where I get my hashtag ideas from.
 </p>
 CakeDecorating and CakeDecoratingIdeas are the two keywords I thought where most relevant, and clicked them to add to the description.
-<p style="line-height:1.6">
-I usually don't select pins that have millions of content associated with them. 
-<br>
-I found on Instagram choosing large hashtags made it difficult for my content to get discovered
 </p>
 <Center><H2> 2. Experiment with Longer Keyword Strings </Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="60%" height="60%" align="right" style="margin:0px 20px">
@@ -98,13 +94,13 @@ Choosing these hashtags can help someone find this pretty heart shape cake video
 
 
 <Center><H2> 5. Continually Experiment With New Hashtags and Content </Center></H2>
-
+<p style="line-height:1.6">
 Once I notice that my content is starting to get discovered and receive more engagement, I continue to use those hashtags. I also try to use similar content that people found engaging in the past.
-
+</p>
 For example: A video I featured of decorating a cake had a very high level of engagement.
-
+<p style="line-height:1.6">
 In the future, I may feature a similar video (i.e someone else decorating a cake) with the same hashtags.
-
+</p>
 I would repeat this process until I start seeing a dip in engagement.
 
 My plan would be to try out a new format and new hashtags. Maybe people are over cakes and want to see cookie decorating videos.
