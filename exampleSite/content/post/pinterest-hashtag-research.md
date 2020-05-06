@@ -55,7 +55,7 @@ If I didn't type in <b>#CakeDecor </b>, I would not have found: <b>#CakeDecorati
 <p>
 Now I always experiment starting with single words and word-strings.
 <p>
-In this example, I knew there were going to be other hashtags I wanted to add. So I added the circled hashtags on the right and moved on.
+In this example, I knew there were going to be other hashtags I wanted to add. I continued on to the next step of hashtag research.
 </p>
 
 
