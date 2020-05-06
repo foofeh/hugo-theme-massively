@@ -68,9 +68,8 @@ After using several hashtags included "cake decorating", I started to research a
 
 Buttercream is a very popular type of frosting that is used to decorate cakes. Knowing this, I started to type out buttercream to see what would pop up.
 <p>
-The content piece I was sharing used _buttercream_ frosting.
+The content piece I was sharing used _buttercream_ frosting. So I used the first three hashtags circled in red.
 <br>
-So I used the first three hashtags circled in red.
 Since my video did not use flowers or link to a recipe, I did not use the bottom three hashtags.
 
 <Center><H2> 4. Don't Forget About Seasonality!</Center></H2>
