@@ -43,12 +43,14 @@ What is shown in the pop-up is where I get my hashtag ideas from.
 <br>
 <Center><H2>2. Experiment with Longer Keyword Strings </H2> </Center>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="50%" height="50%" align="right" style="text-align:left; margin:0px 20px; padding: 10px">
-In my initial research, there were two hashtags that used Cake Decorating at the start. Both hashtags had a high amount of tags.
+In my initial research, there were two hashtags that used Cake Decorating at the start. 
+<br>
+Both hashtags had a high amount of tags.
 I set out to see if there were any more hashtags that started with "CakeDecorating"
 </p>
 Going back to the description field, I started to type out #CakeDecor. Being a longer word, I was surprised that more related hashtags popped up.
 </p>
-If I didn't type in #CakeDecor, I would not have found: #CakeDecoratingTips, #CakeDecoratingDesigns and #CakeDecorator.
+If I didn't type in <b>#CakeDecor </b>, I would not have found: <b>#CakeDecoratingTips</b>, <b>#CakeDecoratingDesigns</b> and <b>#CakeDecorator</b>.
 <p>
 Now I always experiment starting with single words and word-strings.
 <p>
@@ -70,8 +72,8 @@ The content piece I was sharing used _buttercream_ frosting.
 So I used the first three hashtags circled in red.
 Since my video did not use flowers or link to a recipe, I did not use the bottom three hashtags.
 
-<Center><H2> 4. Don't Forget About Seasonality!** </Center></H2>
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="50%" height="50%" align="right" style="margin:0px 20px">\
+<Center><H2> 4. Don't Forget About Seasonality!</Center></H2>
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="50%" height="50%" align="right" style="margin:0px 20px">
 What I have found on both Instagram and Pinterest, is that using seasonal hashtags is important to stay relevant and increase engagement.
 
 During a season, holiday, or other important event, I always research seasonal hashtags related to my content.
@@ -87,14 +89,12 @@ I started to type in #ValentinesDay, and found a ton of different hashtags relat
 Choosing these hashtags can help someone find this pretty heart shape cake video- just in time to try it themselves for Valentine's Day!
 
 
-<Center><H2> 5. Continually Experiment With New Hashtags and Content </Center></H2>
-<p style="line-height:1.6">
+<Center><H2> 5. Continually Experiment With New Hashtags and Content </Center></H2
 Once I notice that my content is starting to get discovered and receive more engagement, I continue to use those hashtags. I also try to use similar content that people found engaging in the past.
-</p>
+  
 For example: A video I featured of decorating a cake had a very high level of engagement.
-<p style="line-height:1.6">
+  
 In the future, I may feature a similar video (i.e someone else decorating a cake) with the same hashtags.
-</p>
 I would repeat this process until I start seeing a dip in engagement.
 
 My plan would be to try out a new format and new hashtags. Maybe people are over cakes and want to see cookie decorating videos.
