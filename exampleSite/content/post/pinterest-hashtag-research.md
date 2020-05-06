@@ -67,7 +67,7 @@ In this example, I knew there were going to be other hashtags I wanted to add. S
 
 <Center><H2> 3. Repeat the Process With Other Keywords </Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1%20(2)(1).jpeg" width="50%" height="50%" align="left" style="text-align:right; margin:0px 20px; padding: 10px">
-When someone wants to search for cake decorating content, there are a lot of relevant hashtags they could type in.
+When someone wants to search for cake decorating content, there are a lot of relevant hashtags.
 
 After using several hashtags included "cake decorating", I started to research another popular baking topic: frosting.
 
@@ -77,7 +77,7 @@ The content piece I was sharing used _buttercream_ frosting. So I used the first
 Since my video did not use flowers or link to a recipe, I did not use the bottom three hashtags.
 
 <Center><H2> 4. Don't Forget About Seasonality!** </Center></H2>
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="60%" height="60%" align="right" style="margin:0px 20px">\
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="50%" height="50%" align="right" style="margin:0px 20px">\
 What I have found on both Instagram and Pinterest, is that using seasonal hashtags is important to stay relevant and increase engagement.
 
 During a season, holiday, or other important event, I always research seasonal hashtags related to my content.
