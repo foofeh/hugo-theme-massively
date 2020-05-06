@@ -31,7 +31,6 @@ This cheat sheet will be walking though how I would find hashtags for this cake.
 
 <img class="TextWrap" src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="60%" height="60%" align="left" style="margin:0px 20px">
 <p style="line-height:1.8">
-<em class="word-break">
 When doing hashtag research, I always start with a relevant, generic, and short word. 
 </p>
 <p style="line-height:1.8">
@@ -40,7 +39,6 @@ Using shorter and generic words allows Pinterest to auto-populate hashtags that 
 </p>
 <p style="line-height:1.8">
 CakeDecorating & CakeDecoratingIdeas are the two keywords I thought where most relevant, and clicked them to add to the description.
-</em>
 </p>
 <br>
 <br>
