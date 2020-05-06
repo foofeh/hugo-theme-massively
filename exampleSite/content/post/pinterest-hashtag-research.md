@@ -68,7 +68,8 @@ After using several hashtags included "cake decorating", I started to research a
 
 Buttercream is a very popular type of frosting that is used to decorate cakes. Knowing this, I started to type out buttercream to see what would pop up.
 <p>
-The content piece I was sharing used _buttercream_ frosting. So I used the first three hashtags circled in red. The bottom hashtags where not relevant to my content.
+The content piece I was sharing was using buttercream frosting. The hashtags circled in red where the most relevant to the content I was sharing. Adding them to the description, I moved on.
+ 
 <Center><H2> 4. Don't Forget About Seasonality!</Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="50%" height="50%" align="right" style="margin:0px 20px">
 What I have found on both Instagram and Pinterest, is that using seasonal hashtags is important to stay relevant and increase engagement.
