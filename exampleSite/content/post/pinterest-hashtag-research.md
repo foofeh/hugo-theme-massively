@@ -48,6 +48,7 @@ Going back to the description field, I started to type out **#CakeDecor.**Being 
 </p>
 <p style="line-height:1.8">
 If I didn't type in #CakeDecor, I would not have found: #CakeDecoratingTips, #CakeDecoratingDesigns and #CakeDecorator.
+  <p>
 Now I always experiment starting with single words and word-strings.
 </p>
 <p>
