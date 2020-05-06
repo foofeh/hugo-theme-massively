@@ -34,7 +34,7 @@ I always start hashtag research with a relevant, generic, and short word.
 In this example, I started typing out <b>#Cake</b> to see what would pop-up.
 <br>
 <br>
-This way, Pinterest can auto-populate hashtags based on the highest amount of the highest amount of pins associated with it.
+Starting with a smaller word, Pinterest auto-populate hashtags based on the highest amount of pins associated with it.
 What is shown in the pop-up is where I get my hashtag ideas from.
 <br>
 <br>
