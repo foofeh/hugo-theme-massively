@@ -42,7 +42,14 @@ Below is a breakdown of the edits you can make in each panel:
 
 <h4>Crop Panel:</h4>
 <b><i> Aspect Ratio:</b></i> Changes the overall size of the collage.
+<style>
+  br {
+   display: block;
+   margin: 10px 0;
+}
+  </style>
 <b><i>Adjust:</b></i> Flip, rotate, and crop specific images in the collage
+<br>
 <b><i>Change an Image:</b></i>Swap out images, replace images, and add images.
 <br>
 #### **Logo Panel (Star Icon):**
