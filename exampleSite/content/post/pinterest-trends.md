@@ -58,7 +58,8 @@ Partnering with WGSN, Pinterest identified keywords surrounding these trends bro
 
 ### Diving Into Trend Reports
 
-<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/DeepDivePinterstTrends.PNG" width="90%" height="90%"></center>
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/DeepDivePinterst.PNG" width="90%" height="90%"></center>
+<center><i>Above are two trending searches on Pinterest under the [Space Everything](https://www.pinterest100.com/en-us/space-everything/) theme.</i></center>
 
 Pinterest 100 is very visual and interactive mini-site. Laid out in a modern website design, the site covers the top 10 keywords and themes for the past year.
 
@@ -74,22 +75,22 @@ You can also download 2020's trending keywords by theme via PDF here.
 
 ### Top Trends For 2020
 
-**Beyond Binary:** Moving beyond gendered labels and structured options.
+[**Beyond Binary:**](https://www.pinterest100.com/en-us/beyond-binary/) Moving beyond gendered labels and structured options.
 
-**Conscious Consumption:** A move towards more eco-friendly habits
+[**Conscious Consumption:**](https://www.pinterest100.com/en-us/conscious-consumption/) A move towards more eco-friendly habits
 
-**Finding Balance:** Self-care routines and habits that help improve your outlook.
+[**Finding Balance:**](https://www.pinterest100.com/en-us/finding-balance/) Self-care routines and habits that help improve your outlook.
 
-**Home Hub:** Making your home just a little more cozy.
+[**Home Hub:**](https://www.pinterest100.com/en-us/home-hub/) Making your home just a little more cozy.
 
-**Internationally Inspired:** From recipes to home decor, inspo is going global.
+[**Internationally Inspired:**](https://www.pinterest100.com/en-us/internationally-inspired/) From recipes to home decor, inspo is going global.
 
-**Pampered Pets:** When your pets deserve more than just being a pet.
+[**Pampered Pets:**](https://www.pinterest100.com/en-us/pampered-pets/) When your pets deserve more than just being a pet.
 
-**Re-Wilding:** Nature is calling people outside to relax, hike, and get explore.
+[**Re-Wilding:**](https://www.pinterest100.com/en-us/re-wilding/) Nature is calling people outside to relax, hike, and get explore.
 
-**Responsible Travel:** Similar to Conscious Consumption, people are looking to how their travel is impacting the environment.
+[**Responsible Travel:**](https://www.pinterest100.com/en-us/responsible-travel/) Similar to Conscious Consumption, people are looking to how their travel is impacting the environment.
 
-**Space Everything:** Style inspiration is going out of this world and into the galaxy.
+[**Space Everything:**](https://www.pinterest100.com/en-us/space-everything/) Style inspiration is going out of this world and into the galaxy.
 
-**90's Rerun:** Fashion trends are getting a little nostalgic, as the 90's heavily influences searches on the platform.
+[**90's Rerun:**](https://www.pinterest100.com/en-us/90s-rerun/) Fashion trends are getting a little nostalgic, as the 90's heavily influences searches on the platform.
