@@ -119,11 +119,15 @@ Click on the image you would like to move, and move it to the position you would
 <br>
 <center><h3> Add Text, Descriptions and URLs to Each Image </center></h3>
 
-<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/sametext.PNG" width="80%" height="80%"></center>
+<center><img src="hhttps://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/URLCarousel.PNG" width="80%" height="80%"></center>
 
-Pinterest defaults to using the same title, description and URL for each image in the carousel.
-
-Un-checking the "Use the same text and URL for Each Image" allows you to add a unique title, description and URL for each image in the carousel.
+After editing your images, it's time to add a title, description and URL(s) to your carousel images.
+<br>
+Pinterest defaults to using the same title, description and URL for each slide,
+<br>
+Un-checking the "Use the same text and URL for Each Image" allows you to add unique titles, decriptions and URL for each slide in your carousel.
+<br>
+In this example, I chose to add unique content to each slide.
 <center><h3> Final Carousel Pin </center></h3>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/FinalPin.gif" width="80%" height="80%"></center>
 Above is the final slideshow I created.
