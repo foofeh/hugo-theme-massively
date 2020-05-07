@@ -71,9 +71,12 @@ Then you're all set!
 
 1\.  On desktop, in the upper-left corner, click the red "+" button and select "Create Pin" from the drop-down.
 <br>
+<br>
 2\. Select all of the images you would like in your Carousel.
 <br>
+<br>
 <i>(minimum of 2 images maximum of 5)</i>
+<br>
 <br>
 3\. Select "Create a Carousel" when prompted.
 
