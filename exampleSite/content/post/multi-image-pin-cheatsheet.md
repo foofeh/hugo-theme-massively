@@ -48,8 +48,6 @@ Below is a breakdown of the edits you can make in each panel:
 
 **Change an Image:** Swap out images, replace images, and add images.
 <br>
-<br>
-<br>
 #### **Logo Panel (Star Icon):**
 Allows you add your logo to the collage.
 <br>
