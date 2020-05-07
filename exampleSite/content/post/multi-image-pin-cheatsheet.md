@@ -84,7 +84,8 @@ Similar to the Collage editor, Pinterest allows you to rearrange images, add tex
 
 <center><h3> Add Text, Resize, and More! </h3> </center>
 
-<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/CarouselEditor.gif" width="70%" height="70%"></center>
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/CarouselEditor.gif" width="40%" height="40%"></center>
+Above is my finished carousel: I added text to each panel & changed the aspect ratio.
 
 To open the Carousel Image Editor, click on the pencil icon on the left of the image.
 From there, you can add your logo, text, and resize/change on every image in the carousel.
@@ -104,11 +105,11 @@ From there, you can add your logo, text, and resize/change on every image in the
 }
   </style>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/ezgif.com-video-to-gif(2).gif"></center>
-<br>
+
 The carousel order populates based on the order you selected while uploading.
-<p>
+<br>
 To rearrange, click the middle button on the left-hand side. 
-<p>
+<br>
 Click on the image you would like to move, and move it to the position you would like.
 <br>
 <center><h3> Add Text, Descriptions and URLs to Each Image </center></h3>
