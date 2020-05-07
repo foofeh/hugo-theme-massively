@@ -55,6 +55,7 @@ Allows you add your logo to the collage.
 Add text to the top, middle, or bottom of your collage. 
 Allows you to change the font style, color and add a font background.
 <br>
+<br>
 <center><h3> Add a Title, Description, and URL </h3></center>
 
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.png" width="70%" height="70%";">
@@ -67,16 +68,17 @@ Add to the board you want to publish the pin to.
 
 Then you're all set!
 
-## Creating a Slideshow
+<center><h2> Creating a Slideshow</h2></center>
 
 1\. Click the add pin button (+)
 <br>
 2\. When selecting image to upload, click all of the images you would like in the collage
+<p>
 (**minimum** of 2 maximum of 5 images)
 <br>
 3\. Select "Create a Carousel" when **prompted.**
 
-<center> ### Carousel Editor </center>
+<center><h3> Carousel Editor </h3> </center>
 
 #### Rearrange
 
@@ -99,8 +101,8 @@ From there, you can add your logo, text, and resize/change on every image in the
 
 <center><h3> Add Text, Descriptions and URLs to Each Image </center></h3>
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/sametext.PNG" style="width:950px;height:292px;">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/sametext.PNG" width="70%" height="70%"">
 
-Pinterest defaults to using the same title, description and URL for each image in the carousel. This can be changed.
+Pinterest defaults to using the same title, description and URL for each image in the carousel.
 
 Un-checking the "Use the same text and URL for Each Image" allows you to add a unique title, description and URL for each image in the carousel.
