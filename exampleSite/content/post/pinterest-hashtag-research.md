@@ -76,13 +76,11 @@ What I have found on both Instagram and Pinterest, is that using seasonal hashta
 
 During a season, holiday, or other important event, I always research seasonal hashtags related to my content.
 
-Every time I post content with a seasonal hashtag, I notice that content gets higher engagement and reaches more people.
+Every time I post content with a seasonal hashtag, I notice that post gets higher engagement and reaches more people.
 
-The cake decorating video I had was Valentine's Day themed. I looked into what hashtags where relevant.
+Being a Valentine's Day cake, I typed in <b>#ValentinesDay</b> to see what would pop-up.
 
-I started to type in #ValentinesDay, and found a ton of different hashtags related to Valentines Day.
-
-\#ValentinesDay is a very generic hashtag, but I wanted to see how it would perform. #ValentinesDayFood was also relevant to the cake decorating.
+Adding the generic <b>#ValentinesDay</b>, I wanted to see how it would perform. <b>ValentinesDayFood</b> was also relevant, so I added that as well.
 
 Choosing these hashtags can help someone find this pretty heart shape cake video- just in time to try it themselves for Valentine's Day!
 
@@ -94,8 +92,6 @@ For example: A video I featured of decorating a cake had a very high level of en
   
 In the future, I may feature a similar video (i.e someone else decorating a cake) with the same hashtags.
 I would repeat this process until I start seeing a dip in engagement.
-
-My plan would be to try out a new format and new hashtags. Maybe people are over cakes and want to see cookie decorating videos.
 
 Experimenting has been the way I have built engaged communities. I listen to what my followers are engaging with and react when they don't.
 
