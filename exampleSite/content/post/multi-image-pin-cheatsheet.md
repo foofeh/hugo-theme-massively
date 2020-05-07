@@ -32,20 +32,6 @@ title = "Multi-Image Pin Cheatsheet"
 3\. Select "Create A Collage". The preview shown can be adjusted later.
 
 <center><h3>Collage Pin Editor</h3> </center>
-<style>
-  @media screen and (max-width: 480px) {
-    img {
-         width: 350px;
-    }
-}
-  </style>
-  <style>
-  @media screen and (max-width: 480px) {
-    img {
-         width: 350px;
-    }
-}
-  </style>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG" align="left">
 
 Pinterest allows you to customize your collage by editing images, adding text, and your logo.
@@ -55,11 +41,9 @@ Below is a breakdown of the edits you can make in each panel:
 <br>
 
 <h4>Crop Panel:</h4>
-**Aspect Ratio:** Changes the overall size of the collage.
-
-**Adjust:** Flip, rotate, and crop specific images in the collage
-
-**Change an Image:** Swap out images, replace images, and add images.
+<b><i> Aspect Ratio:</b></i> Changes the overall size of the collage.
+<b><i>Adjust:</b></i> Flip, rotate, and crop specific images in the collage
+<b><i>Change an Image:</b></i>Swap out images, replace images, and add images.
 <br>
 #### **Logo Panel (Star Icon):**
 Allows you add your logo to the collage.
@@ -103,17 +87,16 @@ To open the Carousel Image Editor, click on the pencil icon on the left of the i
 <br>
 From there, you can add your logo, text, and resize/change on every image in the carousel.
 
-<h4>Crop Panel: </h4>
-**Aspect Ratio:** Changes the overall size of the collage.
-
-**Adjust:** Flip, rotate, and crop specific images in the collage
-
-**Change an Image:** Swap out images, replace images, and add images.
+<h4>Crop Panel:</h4>
+<b><i> Aspect Ratio:</b></i> Changes the overall size of the collage.
+<b><i>Adjust:</b></i> Flip, rotate, and crop specific images in the collage
+<b><i>Change an Image:</b></i>Swap out images, replace images, and add images.
 <br>
-#### **Logo Panel (Star Icon):**
+
+<h4>Logo Panel (Star Icon):</h4>
 Allows you add your logo to the collage.
 <br>
-#### **Text Panel (Star Icon):**
+<h4>Text Panel (Star Icon):</h4>
 Add text to the top, middle, or bottom of your collage. 
 Change the font style, color and add a font background.
 
