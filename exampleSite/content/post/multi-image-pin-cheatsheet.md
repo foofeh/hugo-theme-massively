@@ -9,19 +9,18 @@ title = "Multi-Image Pin Cheatsheet"
 +++
 <center> <h2> More Visual Pin Formats </h2>
 </center>
-
+<center>Pinterest allows you to create visual displays right in the platform. The Multi-Image Pin creator is available only on desktop. This guide will walk you through how to create the following pins: </center>
 <center><p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 4%; margin-bottom: 0.5em;"><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/dbdb072eae17e0473bd3d9b7b26fec6b.jpg" style="width: 100%">Collage</p>
 <p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 4%; margin-bottom: 0.5em;"><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/ezgif.com-video-to-gif(1).gif" style="width: 100%">Carousel</p> </center>
 <p style="clear: both;">
- 
-Pinterest allows you to create visual displays right in the platform. This guide will walk you through how to create the following pins:
+
 
 <center><h2>Creating a Collage </h2> </center>
 
-1\. Click the add pin button (+)
+<center> 1\. Click the add pin button (+)</center>
 <br>
-2\. When selecting image to upload, click all of the images you would like in the collage
-(**minimum** of 2 maximum of 5 images)
+<center>2\. When selecting image to upload, click all of the images you would like in the collage
+(**minimum** of 2 maximum of 5 images)</center>
 
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" style="width:800px;height:500px;">
 <center><i> Above is the screen that pops up. </i></center>
