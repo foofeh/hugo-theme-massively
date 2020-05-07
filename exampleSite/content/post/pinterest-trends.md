@@ -4,7 +4,7 @@ description = "Launched in December 2019, Pinterest Trends identifies the top se
 disableComments = true
 image = "images/PinterestTrendsHero.png"
 slug = "/Pinterest-Trends"
-title = "Pinterest Trends"
+title = "Pinterest Trends Cheatsheet"
 
 +++
 The Pinterest Trends dashboard includes a search bar where you can search for your own keywords.
