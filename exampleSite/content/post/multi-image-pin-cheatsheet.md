@@ -32,7 +32,7 @@ title = "Multi-Image Pin Cheatsheet"
 
 <center><h3>Collage Pin Editor</h3> </center>
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG" width="80%" height="80%" align="left" style="margin:0px 50px>
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG" width="30%" height="30%" align="left" style="margin:0px 50px>
 
 Pinterest allows you to customize your collage by editing images, adding text, and your logo.
 Simply press the pencil icon on the left of the image to navigate to the editor tool.
