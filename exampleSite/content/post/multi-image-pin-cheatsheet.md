@@ -10,8 +10,8 @@ title = "Multi-Image Pin Cheatsheet"
 <center> <h2> More Visual Pin Formats </h2>
 </center>
 
-<center><p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 4%; margin-bottom: 0.5em;"><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/dbdb072eae17e0473bd3d9b7b26fec6b.jpg" style="width: 100%">Caption1</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 4%; margin-bottom: 0.5em;"><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/ezgif.com-video-to-gif(1).gif" style="width: 100%">Caption2</p> </center>
+<center><p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 4%; margin-bottom: 0.5em;"><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/dbdb072eae17e0473bd3d9b7b26fec6b.jpg" style="width: 100%">Collage</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 4%; margin-bottom: 0.5em;"><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/ezgif.com-video-to-gif(1).gif" style="width: 100%">Carousel</p> </center>
 <p style="clear: both;">
  
 Pinterest allows you to create visual displays right in the platform. This guide will walk you through how to create the following pins:
