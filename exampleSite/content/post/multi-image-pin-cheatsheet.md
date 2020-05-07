@@ -24,7 +24,7 @@ title = "Multi-Image Pin Cheatsheet"
 <br>
 <br>
 2\. Click on the left-handed panel to upload images. Select all of the images you would like in the collage.
-(**minimum** of 2 maximum of 5 images)
+<i>(minimum of 2 maximum of 5 images)</i>
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" width="95%" height="95%"></center>
 <center><i> Above is the screen that pops up. </i></center>
@@ -37,9 +37,9 @@ title = "Multi-Image Pin Cheatsheet"
 Pinterest allows you to customize your collage by editing images, adding text, and your logo.
 Simply press the pencil icon on the left of the image to navigate to the editor tool.
 <br>
+<br>
 Below is a breakdown of the edits you can make in each panel:
 <br>
-
 <h4>Crop Panel:</h4>
 <b><i> Aspect Ratio:</b></i> Changes the overall size of the collage.
 <br>
@@ -59,6 +59,7 @@ Change the font style, color and add a font background.
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.png" width="70%" height="70%"></center>
 <center><i> After adding a title, description, and URL, above is my final pin</i></center>
+<br>
 Once satisfied with how the collage looks, exit out of the editor.
 <br>
 Add a title, description, hashtags and a URL as normal.
@@ -72,7 +73,7 @@ Then you're all set!
 <br>
 2\. Select all of the images you would like in your Carousel.
 <br>
-(**minimum** of 2 maximum of 5 images)
+<i>(minimum of 2 images maximum of 5)</i>
 <br>
 3\. Select "Create a Carousel" when prompted.
 
@@ -90,12 +91,15 @@ From there, you can add your logo, text, and resize/change on every image in the
 
 <h4>Crop Panel:</h4>
 <b><i> Aspect Ratio:</b></i> Changes the overall size of the collage.
+<br>
 <b><i>Adjust:</b></i> Flip, rotate, and crop specific images in the collage
+<br>
 <b><i>Change an Image:</b></i>Swap out images, replace images, and add images.
 <br>
 
 <h4>Logo Panel (Star Icon):</h4>
 Allows you add your logo to the collage.
+<br>
 <br>
 <h4>Text Panel:</h4>
 Add text to the top, middle, or bottom of your collage. 
@@ -119,7 +123,7 @@ Click on the image you would like to move, and move it to the position you would
 <br>
 <center><h3> Add Text, Descriptions and URLs to Each Image </center></h3>
 
-<center><img src="hhttps://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/URLCarousel.PNG" width="80%" height="80%"></center>
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/URLCarousel.PNG" width="80%" height="80%"></center>
 
 After editing your images, it's time to add a title, description and URL(s) to your carousel images.
 <br>
