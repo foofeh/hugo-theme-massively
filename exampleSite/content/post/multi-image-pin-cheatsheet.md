@@ -82,7 +82,7 @@ Then you're all set!
 
 #### Add Text, Resize, and More!
 
-![](/uploads/resize.PNG)
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/CarouselEditor.gif"></center>
 
 To open the Carousel Image Editor, click on the pencil icon on the left of the image.
 From there, you can add your logo, text, and resize/change on every image in the carousel.
