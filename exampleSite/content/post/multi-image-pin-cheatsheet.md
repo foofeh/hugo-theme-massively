@@ -46,7 +46,7 @@ title = "Multi-Image Pin Cheatsheet"
     }
 }
   </style>
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG" width="40%" height="40%" align="left" style="margin:0px 50px>
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG" align="left">
 
 Pinterest allows you to customize your collage by editing images, adding text, and your logo.
 Simply press the pencil icon on the left of the image to navigate to the editor tool.
@@ -54,7 +54,7 @@ Simply press the pencil icon on the left of the image to navigate to the editor 
 Below is a breakdown of the edits you can make in each panel:
 <br>
 
-#### **Crop Panel:**
+<h4>Crop Panel:</h4>
 **Aspect Ratio:** Changes the overall size of the collage.
 
 **Adjust:** Flip, rotate, and crop specific images in the collage
@@ -103,7 +103,7 @@ To open the Carousel Image Editor, click on the pencil icon on the left of the i
 <br>
 From there, you can add your logo, text, and resize/change on every image in the carousel.
 
-#### **Crop Panel:**
+<h4>Crop Panel: </h4>
 **Aspect Ratio:** Changes the overall size of the collage.
 
 **Adjust:** Flip, rotate, and crop specific images in the collage
