@@ -39,6 +39,13 @@ title = "Multi-Image Pin Cheatsheet"
     }
 }
   </style>
+  <style>
+  @media screen and (max-width: 480px) {
+    img {
+         width: 350px;
+    }
+}
+  </style>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG" width="40%" height="40%" align="left" style="margin:0px 50px>
 
 Pinterest allows you to customize your collage by editing images, adding text, and your logo.
@@ -96,11 +103,19 @@ To open the Carousel Image Editor, click on the pencil icon on the left of the i
 <br>
 From there, you can add your logo, text, and resize/change on every image in the carousel.
 
-<b>Crop Icon:</b> Change aspect ratio, flip images, swap out images and add images.
+#### **Crop Panel:**
+**Aspect Ratio:** Changes the overall size of the collage.
+
+**Adjust:** Flip, rotate, and crop specific images in the collage
+
+**Change an Image:** Swap out images, replace images, and add images.
 <br>
-<b>Star Icon:</b> Add your logo to each image
+#### **Logo Panel (Star Icon):**
+Allows you add your logo to the collage.
 <br>
-<b>Letter A Icon:</b> Allows you to add text to each panel
+#### **Text Panel (Star Icon):**
+Add text to the top, middle, or bottom of your collage. 
+Change the font style, color and add a font background.
 
 <center> <h3> Rearrange </h3> <center>
 <style>
@@ -125,7 +140,7 @@ Click on the image you would like to move, and move it to the position you would
 Pinterest defaults to using the same title, description and URL for each image in the carousel.
 
 Un-checking the "Use the same text and URL for Each Image" allows you to add a unique title, description and URL for each image in the carousel.
-<center><h3> Final Pin </center></h3>
+<center><h3> Final Carousel Pin </center></h3>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/FinalPin.gif" width="80%" height="80%"></center>
 Above is the final slideshow I created.
 <br>
