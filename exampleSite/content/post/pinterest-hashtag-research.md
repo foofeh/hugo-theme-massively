@@ -68,7 +68,7 @@ After using several hashtags included "cake decorating", I started to research a
 
 Buttercream is a very popular type of frosting that is used to decorate cakes. Knowing this, I started to type out buttercream to see what would pop up.
 <p>
-The content piece I was sharing used buttercream frosting. Circled in red where the most relevant hashtags to my content. Adding them to the description, I moved on.
+The content piece I was sharing used buttercream frosting. Circled in red where the most relevant hashtags to my content.
  
 <Center><H2> 4. Don't Forget About Seasonality!</Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="50%" height="50%" align="right" style="margin:0px 20px">
