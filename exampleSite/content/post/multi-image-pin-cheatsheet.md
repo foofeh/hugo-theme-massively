@@ -22,6 +22,7 @@ title = "Multi-Image Pin Cheatsheet"
 
 1\. On desktop, in the upper-left corner, click the red "+" button and select "Create Pin" from the drop-down.
 <br>
+<br>
 2\. Click on the left-handed panel to upload images. When selecting image to upload, click all of the images you would like in the collage
 (**minimum** of 2 maximum of 5 images)
 
@@ -41,7 +42,6 @@ Below is a breakdown of the edits you can make in each panel:
 <br>
 
 #### **Crop Panel:**
-
 **Aspect Ratio:** Changes the overall size of the collage.
 
 **Adjust:** Flip, rotate, and crop specific images in the collage
@@ -53,12 +53,12 @@ Allows you add your logo to the collage.
 <br>
 #### **Text Panel (Star Icon):**
 Add text to the top, middle, or bottom of your collage. 
-Allows you to change the font style, color and add a font background.
+Change the font style, color and add a font background.
 <br>
 <br>
 <center><h3> Add a Title, Description, and URL </h3></center>
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.png" width="70%" height="70%";">
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.png" width="70%" height="70%";"></center>
 
 Once satisfied with how the collage looks like, exit out of the editor.
 <br>
