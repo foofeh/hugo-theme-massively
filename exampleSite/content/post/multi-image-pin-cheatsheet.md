@@ -32,7 +32,7 @@ title = "Multi-Image Pin Cheatsheet"
 
 <center><h3>Collage Pin Editor</h3> </center>
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG" width="70%" height="70%" align="left" style="margin:0px 50px>
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG" width="40%" height="40%" align="left" style="margin:0px 50px>
 
 Pinterest allows you to customize your collage by editing images, adding text, and your logo.
 Simply press the pencil icon on the left of the image to navigate to the editor tool.
@@ -101,7 +101,7 @@ From there, you can add your logo, text, and resize/change on every image in the
 
 <center><h3> Add Text, Descriptions and URLs to Each Image </center></h3>
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/sametext.PNG" width="70%" height="70%"">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/sametext.PNG" align="center" width="80%" height="80%">
 
 Pinterest defaults to using the same title, description and URL for each image in the carousel.
 
