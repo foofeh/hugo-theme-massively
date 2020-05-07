@@ -94,7 +94,13 @@ From there, you can add your logo, text, and resize/change on every image in the
 <b>Letter A Icon:</b> Allows you to add text to each panel
 
 #### Rearrange
-
+<style>
+  @media screen and (max-width: 480px) {
+    img {
+         width: 400px;
+    }
+}
+  </style>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/ezgif.com-video-to-gif(2).gif"></center>
 <br>
 The carousel order populates based on the order you selected while uploading.
