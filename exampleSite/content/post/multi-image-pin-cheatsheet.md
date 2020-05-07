@@ -42,35 +42,30 @@ Below is a breakdown of the edits you can make in each panel:
 
 <h4>Crop Panel:</h4>
 <b><i> Aspect Ratio:</b></i> Changes the overall size of the collage.
-<style>
- br {
-        line-height: 70%;
-     }
-  </style>
+<br>
 <b><i>Adjust:</b></i> Flip, rotate, and crop specific images in the collage
 <br>
-<b><i>Change an Image:</b></i>Swap out images, replace images, and add images.
+<b><i>Change an Image:</b></i> Swap out images, replace images, and add images.
 <br>
 #### **Logo Panel (Star Icon):**
 Allows you add your logo to the collage.
 <br>
-#### **Text Panel (Star Icon):**
+#### **Text Panel:**
 Add text to the top, middle, or bottom of your collage. 
 Change the font style, color and add a font background.
 <br>
 <br>
-<center><h3> Add a Title, Description, and URL </h3></center>
+<center><h3> Final Collage Pin </h3></center>
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.png" width="70%" height="70%"></center>
-
-Once satisfied with how the collage looks like, exit out of the editor.
+<center><i> After adding a title, description, and URL, above is my final pin</i></center>
+Once satisfied with how the collage looks, exit out of the editor.
 <br>
 Add a title, description, hashtags and a URL as normal.
 <br>
-Publish the Pin to one of your boards.
+In the upper-right corner, select the board you want your Pin to go to and select the red "Publish" button.
 
 Then you're all set!
-
 <center><h2> Creating a Carousel</h2></center>
 
 1\.  On desktop, in the upper-left corner, click the red "+" button and select "Create Pin" from the drop-down.
@@ -102,7 +97,7 @@ From there, you can add your logo, text, and resize/change on every image in the
 <h4>Logo Panel (Star Icon):</h4>
 Allows you add your logo to the collage.
 <br>
-<h4>Text Panel (Star Icon):</h4>
+<h4>Text Panel:</h4>
 Add text to the top, middle, or bottom of your collage. 
 Change the font style, color and add a font background.
 
