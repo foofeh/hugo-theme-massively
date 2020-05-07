@@ -25,14 +25,14 @@ title = "Multi-Image Pin Cheatsheet"
 2\. Click on the left-handed panel to upload images. When selecting image to upload, click all of the images you would like in the collage
 (**minimum** of 2 maximum of 5 images)
 
-<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" width=90%" height="90%"></center>
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" width="95%" height="95%"></center>
 <center><i> Above is the screen that pops up. </i></center>
 <br>
 3\. Select "Create A Collage". The preview shown can be adjusted later.
 
 <center><h3>Collage Pin Editor</h3> </center>
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG" width="40%" height="40%" align="left" style="margin:0px 50px>
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG" width="70%" height="70%" align="left" style="margin:0px 50px>
 
 Pinterest allows you to customize your collage by editing images, adding text, and your logo.
 Simply press the pencil icon on the left of the image to navigate to the editor tool.
@@ -57,7 +57,7 @@ Allows you to change the font style, color and add a font background.
 <br>
 <center><h3> Add a Title, Description, and URL </h3></center>
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.png" style="width:800px;height:500px;">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.png" width="70%" height="70%";">
 
 Once satisfied with how the collage looks like, exit out of the editor.
 <br>
