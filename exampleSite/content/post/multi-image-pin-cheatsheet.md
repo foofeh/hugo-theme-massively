@@ -12,6 +12,7 @@ title = "Multi-Image Pin Cheatsheet"
 <center>Pinterest allows you to create visual displays right in the platform. The Multi-Image Pin creator is available only on desktop. </center>
 <br>
 <center>This guide will walk you through how to create the following pins: </center>
+<br>
 <center><p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 4%; margin-bottom: 0.5em;"><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/dbdb072eae17e0473bd3d9b7b26fec6b.jpg" style="width: 100%">Collage</p>
 <p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 4%; margin-bottom: 0.5em;"><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/ezgif.com-video-to-gif(1).gif" style="width: 100%">Carousel</p> </center>
 <p style="clear: both;">
@@ -24,15 +25,14 @@ title = "Multi-Image Pin Cheatsheet"
 2\. Click on the left-handed panel to upload images. When selecting image to upload, click all of the images you would like in the collage
 (**minimum** of 2 maximum of 5 images)
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" style="width="70%" height="70%">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" style="width="30%" height="30%">
 <center><i> Above is the screen that pops up. For this tutorial, we will be </i></center>
 <br>
-
 3\. Select "Create A Collage". The preview shown can be adjusted later.
 
 <center><h3>Collage Pin Editor</h3> </center>
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG"  align="left" style="width="70%" height="70%; margin:0px 50px">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG"  align="left" style="width="30%" height="30%; margin:0px 50px">
 
 Pinterest allows you to customize your collage by editing images, adding text, and your logo.
 Simply press the pencil icon on the left of the image to navigate to the editor tool.
@@ -49,14 +49,15 @@ Below is a breakdown of the edits you can make in each panel:
 **Change an Image:** Swap out images, replace images, and add images.
 <br>
 <br>
-
+<br>
 #### **Logo Panel (Star Icon):**
 <br>
 Allows you add your logo to the collage.
 <br>
 #### **Text Panel (Star Icon):**
 <br>
-Add text to the top, middle, or bottom of your collage. Allows you to change the font style, color and add a font background.
+Add text to the top, middle, or bottom of your collage. 
+Allows you to change the font style, color and add a font background.
 <br>
 <center><h3> Add a Title, Description, and URL </h3></center>
 
