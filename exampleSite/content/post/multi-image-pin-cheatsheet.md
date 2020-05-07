@@ -58,7 +58,7 @@ Change the font style, color and add a font background.
 <br>
 <center><h3> Add a Title, Description, and URL </h3></center>
 
-<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.png" width="70%" height="70%";"></center>
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.png" width="70%" height="70%"></center>
 
 Once satisfied with how the collage looks like, exit out of the editor.
 <br>
@@ -79,10 +79,12 @@ Then you're all set!
 3\. Select "Create a Carousel" when **prompted.**
 
 <center><h3> Carousel Editor </h3> </center>
+<br>
+Similar to the Collage editor, Pinterest allows you to rearrange images, add text and your logo, and more.
 
 #### Add Text, Resize, and More!
 
-<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/CarouselEditor.gif"></center>
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/CarouselEditor.gif" width="70%" height="70%"></center>
 
 To open the Carousel Image Editor, click on the pencil icon on the left of the image.
 From there, you can add your logo, text, and resize/change on every image in the carousel.
@@ -97,7 +99,7 @@ From there, you can add your logo, text, and resize/change on every image in the
 <style>
   @media screen and (max-width: 480px) {
     img {
-         width: 400px;
+         width: 350px;
     }
 }
   </style>
