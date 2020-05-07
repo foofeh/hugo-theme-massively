@@ -9,7 +9,9 @@ title = "Multi-Image Pin Cheatsheet"
 +++
 <center> <h2> More Visual Pin Formats </h2>
 </center>
-<center>Pinterest allows you to create visual displays right in the platform. The Multi-Image Pin creator is available only on desktop. This guide will walk you through how to create the following pins: </center>
+<center>Pinterest allows you to create visual displays right in the platform. The Multi-Image Pin creator is available only on desktop. </center>
+<br>
+<center>This guide will walk you through how to create the following pins: </center>
 <center><p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 4%; margin-bottom: 0.5em;"><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/dbdb072eae17e0473bd3d9b7b26fec6b.jpg" style="width: 100%">Collage</p>
 <p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 4%; margin-bottom: 0.5em;"><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/ezgif.com-video-to-gif(1).gif" style="width: 100%">Carousel</p> </center>
 <p style="clear: both;">
@@ -17,17 +19,18 @@ title = "Multi-Image Pin Cheatsheet"
 
 <center><h2>Creating a Collage </h2> </center>
 
-<center> 1\. Click the add pin button (+)</center>
+1\. On desktop, in the upper-left corner, click the red "+" button and select "Create Pin" from the drop-down.
 <br>
-<center>2\. When selecting image to upload, click all of the images you would like in the collage
-(**minimum** of 2 maximum of 5 images)</center>
+2\. Click on the left-handed panel to upload images. When selecting image to upload, click all of the images you would like in the collage
+(**minimum** of 2 maximum of 5 images)
 
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" style="width:800px;height:500px;">
-<center><i> Above is the screen that pops up. </i></center>
+<center><i> Above is the screen that pops up. For this tutorial, we will be </i></center>
+<br>
 
-3\.Select "Create A Collage". The preview shown can be adjusted later.
+3\. Select "Create A Collage". The preview shown can be adjusted later.
 
-<center><h3>Change, Adjust Images, Add Text + More!</h3> </center>
+<center><h3>Collage Pin Editor</h3> </center>
 
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG"  align="left" style="margin:0px 50px">
 
