@@ -82,7 +82,7 @@ Then you're all set!
 <br>
 Similar to the Collage editor, Pinterest allows you to rearrange images, add text and your logo, and more.
 
-#### Add Text, Resize, and More!
+<center><h3> Add Text, Resize, and More! </h3> </center>
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/CarouselEditor.gif" width="70%" height="70%"></center>
 
@@ -95,7 +95,7 @@ From there, you can add your logo, text, and resize/change on every image in the
 <br>
 <b>Letter A Icon:</b> Allows you to add text to each panel
 
-#### Rearrange
+<center> <h3> Rearrange </h3> <center>
 <style>
   @media screen and (max-width: 480px) {
     img {
