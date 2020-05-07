@@ -24,7 +24,7 @@ title = "Multi-Image Pin Cheatsheet"
 2\. Click on the left-handed panel to upload images. When selecting image to upload, click all of the images you would like in the collage
 (**minimum** of 2 maximum of 5 images)
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" style="width:800px;height:500px;">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" style="width="50%" height="50%">
 <center><i> Above is the screen that pops up. For this tutorial, we will be </i></center>
 <br>
 
@@ -32,9 +32,9 @@ title = "Multi-Image Pin Cheatsheet"
 
 <center><h3>Collage Pin Editor</h3> </center>
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG"  align="left" style="margin:0px 50px">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG"  align="left" style="width="50%" height="50%; margin:0px 50px">
 
-Pinterest allows you to customize your collage by editing all of the images, adding text, and your logo.
+Pinterest allows you to customize your collage by editing images, adding text, and your logo.
 Simply press the pencil icon on the left of the image to navigate to the editor tool.
 
 #### **Crop panel:**
