@@ -23,7 +23,7 @@ title = "Multi-Image Pin Cheatsheet"
 1\. On desktop, in the upper-left corner, click the red "+" button and select "Create Pin" from the drop-down.
 <br>
 <br>
-2\. Click on the left-handed panel to upload images. When selecting image to upload, click all of the images you would like in the collage
+2\. Click on the left-handed panel to upload images. Select all of the images you would like in the collage.
 (**minimum** of 2 maximum of 5 images)
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" width="95%" height="95%"></center>
@@ -32,7 +32,13 @@ title = "Multi-Image Pin Cheatsheet"
 3\. Select "Create A Collage". The preview shown can be adjusted later.
 
 <center><h3>Collage Pin Editor</h3> </center>
-
+<style>
+  @media screen and (max-width: 480px) {
+    img {
+         width: 350px;
+    }
+}
+  </style>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG" width="40%" height="40%" align="left" style="margin:0px 50px>
 
 Pinterest allows you to customize your collage by editing images, adding text, and your logo.
@@ -64,30 +70,30 @@ Once satisfied with how the collage looks like, exit out of the editor.
 <br>
 Add a title, description, hashtags and a URL as normal.
 <br>
-Add to the board you want to publish the pin to.
+Publish the Pin to one of your boards.
 
 Then you're all set!
 
-<center><h2> Creating a Slideshow</h2></center>
+<center><h2> Creating a Carousel</h2></center>
 
-1\. Click the add pin button (+)
+1\.  On desktop, in the upper-left corner, click the red "+" button and select "Create Pin" from the drop-down.
 <br>
-2\. When selecting image to upload, click all of the images you would like in the collage
-<p>
+2\. Select all of the images you would like in your Carousel.
+<br>
 (**minimum** of 2 maximum of 5 images)
 <br>
-3\. Select "Create a Carousel" when **prompted.**
+3\. Select "Create a Carousel" when prompted.
 
 <center><h3> Carousel Editor </h3> </center>
-<br>
-Similar to the Collage editor, Pinterest allows you to rearrange images, add text and your logo, and more.
+As with the Collage editor, Pinterest allows you to rearrange images, add text and your logo, and more.
 
 <center><h3> Add Text, Resize, and More! </h3> </center>
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/CarouselEditor.gif" width="40%" height="40%"></center>
-Above is my finished carousel: I added text to each panel & changed the aspect ratio.
+<center><i>Above is my finished carousel: I added text to each panel & changed the aspect ratio.</i></center>
 
 To open the Carousel Image Editor, click on the pencil icon on the left of the image.
+<br>
 From there, you can add your logo, text, and resize/change on every image in the carousel.
 
 <b>Crop Icon:</b> Change aspect ratio, flip images, swap out images and add images.
@@ -114,8 +120,13 @@ Click on the image you would like to move, and move it to the position you would
 <br>
 <center><h3> Add Text, Descriptions and URLs to Each Image </center></h3>
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/sametext.PNG" align="center" width="80%" height="80%">
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/sametext.PNG" width="80%" height="80%"></center>
 
 Pinterest defaults to using the same title, description and URL for each image in the carousel.
 
 Un-checking the "Use the same text and URL for Each Image" allows you to add a unique title, description and URL for each image in the carousel.
+<center><h3> Final Pin </center></h3>
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/FinalPin.gif" width="80%" height="80%"></center>
+Above is the final slideshow I created.
+<br>
+I added a unique title, description and URL to each image. 
