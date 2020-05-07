@@ -80,12 +80,6 @@ Then you're all set!
 
 <center><h3> Carousel Editor </h3> </center>
 
-#### Rearrange
-
-The carousel order will populate based on the order you selected while uploading.
-To rearrange, click the button. This will allow you to re-order the images you uploaded.
-To preview the flow of the carousel, click the arrow in the bottom left corner.
-
 #### Add Text, Resize, and More!
 
 ![](/uploads/resize.PNG)
@@ -99,6 +93,16 @@ From there, you can add your logo, text, and resize/change on every image in the
 <br>
 <b>Letter A Icon:</b> Allows you to add text to each panel
 
+#### Rearrange
+
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/ezgif.com-video-to-gif(2).gif"></center>
+<br>
+The carousel order populates based on the order you selected while uploading.
+<p>
+To rearrange, click the middle button on the left-hand side. 
+<p>
+Click on the image you would like to move, and move it to the position you would like.
+<br>
 <center><h3> Add Text, Descriptions and URLs to Each Image </center></h3>
 
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/sametext.PNG" align="center" width="80%" height="80%">
