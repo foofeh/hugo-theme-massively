@@ -21,7 +21,7 @@ You can find my Pinterest account [here](). Fair warning: you might get stuck be
 
 <center><h3> What Hashtags Will Fit This Cake? </center></h3>
 
-<Center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/deva-williamson-Kppw90QC_aE-unsplash(1).jpg" width="50%" height="50%"></center>
+<Center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/deva-williamson-Kppw90QC_aE-unsplash(1).jpg" width="50%" height="50%" style="float:left; margin-left:0px; margin-right:20px"></center>
 
 With Valentine's Day around the corner, many people are looking for baking inspiration. 
 <br>
