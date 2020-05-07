@@ -25,14 +25,14 @@ title = "Multi-Image Pin Cheatsheet"
 2\. Click on the left-handed panel to upload images. When selecting image to upload, click all of the images you would like in the collage
 (**minimum** of 2 maximum of 5 images)
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" style="width="90%" height="90%">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.PNG" style="width="10%" height="10%">
 <center><i> Above is the screen that pops up. For this tutorial, we will be </i></center>
 <br>
 3\. Select "Create A Collage". The preview shown can be adjusted later.
 
 <center><h3>Collage Pin Editor</h3> </center>
 
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG"  align="left" style="width="90%" height="90%; margin:0px 50px">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG"  align="left" style="width="10%" height="10%; margin:0px 50px">
 
 Pinterest allows you to customize your collage by editing images, adding text, and your logo.
 Simply press the pencil icon on the left of the image to navigate to the editor tool.
@@ -51,11 +51,9 @@ Below is a breakdown of the edits you can make in each panel:
 <br>
 <br>
 #### **Logo Panel (Star Icon):**
-<br>
 Allows you add your logo to the collage.
 <br>
 #### **Text Panel (Star Icon):**
-<br>
 Add text to the top, middle, or bottom of your collage. 
 Allows you to change the font style, color and add a font background.
 <br>
