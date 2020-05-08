@@ -4,6 +4,14 @@
     {{ with $data.contactinfo.contactformaction }}
     <section>
      <form action="https://getform.io/f/93ab44e6-50b1-4b7e-998e-a87eac5589f7" method="POST">
+         <style>
+         form {
+ width: 550px;
+ height: 450px;
+ margin: auto;
+ position: relative;
+}
+         </style>
         <div class="fields">
           <div class="field">
             <label for="name">{{ i18n "CONTACT_FORM_FIELD_NAME" . }}</label>
@@ -15,7 +23,7 @@
           </div>
           <div class="field">
             <label for="message">{{ i18n "CONTACT_FORM_FIELD_MESSAGE" . }}</label>
-            <textarea name="message" id="message" rows="6"></textarea>
+            <textarea name="message" id="message" rows="3"></textarea>
           </div>
         </div>
         <ul class="actions">
