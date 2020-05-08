@@ -8,3 +8,5 @@ fields:
   template: blog-post
   label: Blog Post
   description: Blog post
+pages:
+- exampleSite/content/thank-you.md
