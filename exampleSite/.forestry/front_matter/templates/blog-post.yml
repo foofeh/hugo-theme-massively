@@ -21,6 +21,5 @@ fields:
   name: disableComments
   label: disableComments
 pages:
-- exampleSite/content/post/Static Pages/tahnk-yu.md
 - exampleSite/content/post/pinterest-hashtag-research.md
 - exampleSite/content/post/pinterest-trends.md
