@@ -11,5 +11,10 @@ fields:
 - type: file
   name: image
   label: image
+- name: blog_post
+  type: include
+  config: {}
+  template: blog-post
+  label: Blog Post
 pages:
 - exampleSite/content/thank-you.md
