@@ -44,6 +44,10 @@
         {{ end }}
         {{ with $data.contactinfo.phone }}
         <section>
+            <style>
+         padding-left:100px;
+}
+         </style>
             <h3>{{ i18n "CONTACT_PHONE" . }}</h3>
             <p><a href="tel:{{ . }}">{{ . }}</a></p>
         </section>
