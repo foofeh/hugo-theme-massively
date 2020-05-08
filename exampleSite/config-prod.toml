@@ -7,7 +7,7 @@ disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 # [params]
-  # favicon ="/uploads/favicon.ico"
+  # favicon ="favicon.ico"
   # set to change date format
   # dateFormat = "2.1.2006"
 
