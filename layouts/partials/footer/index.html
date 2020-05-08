@@ -1,5 +1,6 @@
 <!-- Footer -->
 {{ $data := index .Site.Data .Site.Language.Lang }}
+<form name="contact" method="POST" data-netlify="true">
 <footer id="footer">
     {{ with $data.contactinfo.contactformaction }}
     <section>
