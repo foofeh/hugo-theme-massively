@@ -2,7 +2,7 @@
 date = ""
 description = "Use this straightforward cheatsheet to quickly understand the definitions of Pinterest Analytics terminology. "
 disableComments = false
-image = "/uploads/AnalyticsCover.png"
+image = "/uploads/PinterestAnalyticsCover.png"
 slug = "Pinterest-Analytics-Definitions"
 title = "Pinterest Analytics Cheatsheet"
 
