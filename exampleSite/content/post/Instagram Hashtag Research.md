@@ -38,12 +38,14 @@ Gaining a spot on the “top” of a hashtag (particularly in the first 6 spots,
 <h3><center> Difference in Metrics for Ranking on a Hashtag </center></h3>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/RainbowCake.png" width="35%" height="35%"></center>
 At the time of posting, this cake ranked for the following hashtags:
-#RainbowCake | 804K Posts
-
-#ButterCreamFrosting | 231K Posts
-
-#AmazingCake | 215K Posts
-
+<br>
+<b> #RainbowCake</b>  | 804K Posts
+<br>
+<b> #ButterCreamFrosting </b> | 231K Posts
+<br>
+<b>#AmazingCake</b> | 215K Posts
+<br>
+<br>
 Below are the engagement metrics from the Rainbow Cake Post:
 <br>
 202,943 Reach 
@@ -52,10 +54,11 @@ Below are the engagement metrics from the Rainbow Cake Post:
 <br>
 1,388 Profile Visits
 <br>
-12,036 Engagements (Likes, comments, shares + Shaves)
+12,036 Engagements (Likes, comments, shares + saves)
 <br>
 <br>
 Similar cake posts from the same time period received:
+<br>
  ~1,500 engagements
  <br>
 ~20,000 Reach
