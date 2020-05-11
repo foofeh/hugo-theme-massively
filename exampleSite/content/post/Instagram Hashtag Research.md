@@ -134,6 +134,4 @@ These three factors and hashtag size had a correlation:
 <br>
 <b>Lower # Of Posts</b>: (10K - 20K posts) had high ranking longevity and high rankability. These hashtags fell short on visibility, however.
 <br>
-<b>Higher # Of Posts</b>: (100K+), there was often a higher amount of visibility, but it would be more difficult to rank content for AND have that content rank for an extended period of time. 
-
-
+<b>Higher # Of Posts</b>: (100K+), there was often a higher amount of visibility, but it would be more difficult to rank content for AND have that content rank for an extended period of time.
