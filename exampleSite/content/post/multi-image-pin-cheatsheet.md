@@ -43,14 +43,12 @@ Below is a breakdown of the edits you can make in each panel:
 <br>
 <h4>Crop Panel:</h4>
 <b><i> Aspect Ratio:</b></i> Changes the overall size of the collage. An aspect ratio of 2:3 is recommended, but you can also select 3:4 and 1:1 ratios.
-<br>
 <b><i>Adjust:</b></i> Flip, rotate, and crop specific images in the collage
-<br>
 <b><i>Change an Image:</b></i> Swap out images, replace images, and add images.
-<br>
+
 #### **Logo Panel (Star Icon):**
 Add your logo to the collage.
-<br>
+
 #### **Text Panel:**
 Add text to the top, middle, or bottom of your collage. 
 Change the font style, color and add a font background.
@@ -126,6 +124,7 @@ To rearrange, click the rearrange icon below the pencil icon on the left of the 
 <br>
 Click on the image you would like to move, and move it to a new position.
 <br>
+<br>
 <center><h3> Add Text, Descriptions and URLs to Each Image </center></h3>
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/URLCarousel.PNG" width="80%" height="80%"></center>
@@ -134,6 +133,7 @@ Click on the image you would like to move, and move it to a new position.
 Pinterest defaults to using the same title, description and URL for each slide.
 <br>
 In this example, I chose to add unique content to each slide.
+<br>
 <br>
 <center><h3> Final Carousel Pin </center></h3>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/FinalPin.gif" width="80%" height="80%"></center>
