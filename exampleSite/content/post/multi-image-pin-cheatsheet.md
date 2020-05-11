@@ -36,16 +36,12 @@ title = "Multi-Image Pin Cheatsheet"
 Pinterest allows you to customize your collage using the Collage Pin Editor
 Simply press the pencil icon on the left of the image to navigate to the editor. The screen to the left should pop-up.
 <br>
+<br>
 Below is a breakdown of the edits you can make in each panel:
 <br>
 <br>
 <h4>Crop Panel:</h4>
-<b><i> Aspect Ratio:</b></i> Changes the overall size of the collage. An aspect ratio of 2:3 is recommended, but you can also select 3:4 and 1:1 ratios.
-
-<b><i>Adjust:</b></i> Flip, rotate, and crop specific images in the collage
-
-<b><i>Change an Image:</b></i> Swap out images, replace images, and add images.
-
+Change the aspect ratio, adjust images, and replace the images in the collage.
 #### **Logo Panel (Star Icon):**
 Add your logo to the collage.
 
