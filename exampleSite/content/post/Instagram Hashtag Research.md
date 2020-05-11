@@ -71,18 +71,21 @@ After posting,  I would click on each hashtag I used during the approximate time
 Using these intervals, it was easier to see <b><i>if</b></i> content was ranking on the top and <b><i>how long</b></i> it was ranking at the top.
 
 Some interesting “stickiness” patterns emerged:
-<ul>
-<li><b><u> 15 Minutes </b></u> - If the content was on the top of the hashtag after the first 15 minutes, there was a good chance the content would “stick” for longer.</li>
-On larger hashtags (>100K Posts), this was less certain. Content ranking moved quicker on bigger hashtags.
-<li><b><u>1 Hour</b></u> - Content ranking on the hashtag after an hour was a good indication of stickiness.</li>
+<b><u> 15 Minutes </b></u> - If the content was on the top of the hashtag after the first 15 minutes, there was a good chance the content would “stick” for longer.
 <br>
-<li><b><u>5 Hours</b></u> - This is approximately the time that content started to drop off the top.</li>
+On larger hashtags (>100K Posts), this was less certain. Content ranking moved quicker on bigger hashtags.
+<br>
+<b><u>1 Hour</b></u> - Content ranking on the hashtag after an hour was a good indication of stickiness.
+<br>
+<b><u>5 Hours</b></u> - This is approximately the time that content started to drop off the top.
 <br>
 Posts that would stick on the top until the morning after posting were typically on smaller hashtags (<50K posts).
-<li><b><u>Morning After</b></u> - On larger hashtags, these were the posts that went “viral”. I only had a couple of posts go “viral”. On micro-hashtags (<30K), the content would often stick for days, weeks, or even months. The content may not have gone viral, but the content would still get engagement.</li>
- <li>Viral posts often received 5K+ likes and 500+ followers. </li>
- <li>Sticky content on micro-hashtags would gain ~50 extra likes/followers over time. </li>
-  </ul>
+<br>
+<b><u>Morning After</b></u> - On larger hashtags, these were the posts that went “viral”. I only had a couple of posts go “viral”. On micro-hashtags (<30K), the content would often stick for days, weeks, or even months. The content may not have gone viral, but the content would still get engagement.
+<br>
+Viral posts often received 5K+ likes and 500+ followers.
+<br>
+Sticky content on micro-hashtags would gain ~50 extra likes/followers over time.
   <br>
 
 <h4> Theories on Why Content Sticks </h4>
@@ -117,6 +120,7 @@ After several months of observing hashtags, I came up with three different facto
 The best hashtags to use would ideally have high visibility, easy rankability, and ranking longevity. Unfortunately, none of the hashtags I used checked all three.. 
 
 These three factors and hashtag size had a correlation:
+<br>
 <b>Lower # Of Posts</b>: (10K - 20K posts) had high ranking longevity and high rankability. These hashtags fell short on visibility, however.
 <br>
 <b>Higher # Of Posts</b>: (100K+), there was often a higher amount of visibility, but it would be more difficult to rank content for AND have that content rank for an extended period of time. 
