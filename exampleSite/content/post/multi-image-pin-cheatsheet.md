@@ -32,7 +32,7 @@ title = "Multi-Image Pin Cheatsheet"
 3\. Select "Create A Collage". The preview shown can be adjusted later.
 
 <center><h3>Collage Pin Editor</h3> </center>
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/editor.PNG" width="50%" height="50%" style="float:left; margin-left:0px; margin-right:20px">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/editor.PNG" width="65%" height="65%" style="float:left; margin-left:0px; margin-right:20px">
 Pinterest allows you to customize your collage using the Collage Pin Editor
 Simply press the pencil icon on the left of the image to navigate to the editor. The screen to the left should pop-up.
 <br>
