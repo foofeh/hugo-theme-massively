@@ -1,6 +1,6 @@
 +++
 date = ""
-description = "Pinterest allows you create visually appealing pins within the platform. Use this cheat sheet to create your own carousels and collages!"
+description = "Pinterest allows you create visually appealing pins on the desktop site. Use this cheat sheet to create your own carousels and collages!"
 disableComments = true
 image = "uploads/Multi-pin.png"
 slug = "multi-image-pins"
@@ -9,7 +9,7 @@ title = "Multi-Image Pin Cheatsheet"
 +++
 <center> <h2> More Visual Pin Formats </h2>
 </center>
-<center>Pinterest allows you to create visual displays right in the platform. The Multi-Image Pin creator is available only on desktop. </center>
+<center>Collages and carousels allow you to display multiple images or products on the same pin. Multi-image pins are perfect for more engaging organic posts or promoted pins.  </center>
 <br>
 <center>This cheatsheet will walk you through how to create the following pins: </center>
 <br>
@@ -32,10 +32,11 @@ title = "Multi-Image Pin Cheatsheet"
 3\. Select "Create A Collage". The preview shown can be adjusted later.
 
 <center><h3>Collage Pin Editor</h3> </center>
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Finalin.PNG" align="left" width="40%" height="40%" marign-right: 20px>
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/editor.PNG" width="40%" height="40%"><center>
+<Center> <i>Above is a preview of the collage pin editor </i></center>
 
-Pinterest allows you to customize your collage by editing each image, adding text, and your logo.
-Simply press the pencil icon on the left of the image to navigate to the editor tool.
+Pinterest allows you to customize your collage using the Collage Pin Editor
+Simply press the pencil icon on the left of the image to navigate to the editor.
 <br>
 <br>
 Below is a breakdown of the edits you can make in each panel:
@@ -58,13 +59,13 @@ Change the font style, color and add a font background.
 <center><h3> Final Collage Pin </h3></center>
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/collage.png" width="70%" height="70%"></center>
-<center><i> Above is my final Pin - I was satisfied with what Pinterest auto-created and made no changes,</i></center>
+<center><i> Above is my final pin - I was satisfied with what Pinterest auto-created and made no changes.</i></center>
 <br>
 Once satisfied with how the collage looks, exit out of the editor.
 <br>
 Add a title, description, hashtags and a URL as normal.
 <br>
-In the upper-right corner, select the board you want your Pin to go to and select the red "Publish" button.
+In the upper-right corner, select the board you want your pin to go to and select the red "Publish" button.
 
 Then you're all set!
 <center><h2> Creating a Carousel</h2></center>
@@ -88,7 +89,7 @@ As with the Collage editor, Pinterest allows you to rearrange images, add text a
 
 To open the Carousel Image Editor, click on the pencil icon on the left of the image.
 <br>
-From there, you can add your logo, text, and resize/change on every image in the carousel.
+From there, you can add your logo, text, and resize/change every image in the carousel.
 
 <h4>Crop Panel:</h4>
 <b><i> Aspect Ratio:</b></i> Changes the overall size of the carousel.
@@ -116,22 +117,24 @@ Change the font style, color and add a font background.
   </style>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/ezgif.com-video-to-gif(2).gif"></center>
 
-The slide order in your carousel populates based on the order you selected while uploading the images.
+The slide order populates based on the order you selected while uploading the images.
+<br>
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/rearrange.PNG" width="40%" height="40%"></center>
+<center><i> Circled in red is the button to rearrange the images in your carousel. </i></center>
 <br>
 To rearrange, click the rearrange icon below the pencil icon on the left of the image.
 <br>
-Click on the image you would like to move, and move it to the position you would like.
+Click on the image you would like to move, and move it to a new position.
 <br>
 <center><h3> Add Text, Descriptions and URLs to Each Image </center></h3>
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/URLCarousel.PNG" width="80%" height="80%"></center>
-<center> Having this box unchecked allows you to add a unique title, description, and URL to each slide in your carousel</center>
-<br>
-After editing your images, it's time to add a title, description and URL(s) to your carousel slides.
+<center><i> Having this box unchecked allows you to add a unique title, description, and URL to each slide in your carousel</i></center>
 <br>
 Pinterest defaults to using the same title, description and URL for each slide.
 <br>
 In this example, I chose to add unique content to each slide.
+<br>
 <center><h3> Final Carousel Pin </center></h3>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/FinalPin.gif" width="80%" height="80%"></center>
 Above is the final slideshow I created.
