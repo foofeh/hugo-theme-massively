@@ -37,7 +37,7 @@ Gaining a spot on the “top” of a hashtag (particularly in the first 6 spots,
 
 <h3><center> Difference in Metrics for Ranking on a Hashtag </center></h3>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/RainbowCake.png" width="35%" height="35%"></center>
-. At the time of posting, this cake ranked for the following hashtags:
+At the time of posting, this cake ranked for the following hashtags:
 #RainbowCake | 804K Posts
 
 #ButterCreamFrosting | 231K Posts
@@ -66,10 +66,14 @@ Similar cake posts from the same time period received:
 <center><h3> Check to See If and How Long Content is Ranking <center></h3>
   
 After posting,  I would click on each hashtag I used during the approximate time intervals:
- * ~15 Mins after posting
- * 1 Hour After Posting
- * ~5 Hours After Posting
- * Morning After Posting
+<br>
+~15 Mins after posting
+<br>
+1 Hour After Posting
+<br>
+~5 Hours After Posting
+<br>
+Morning After Posting
 
 Using these intervals, it was easier to see <b><i>if</b></i> content was ranking on the top and <b><i>how long</b></i> it was ranking at the top.
 
