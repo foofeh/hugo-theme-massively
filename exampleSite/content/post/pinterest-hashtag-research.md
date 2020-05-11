@@ -1,6 +1,6 @@
 +++
 date = ""
-description = "Discover how to find new hashtags to get your content found.  This cheatsheet walks you through how I do hashtag research on Pinterest's mobile app."
+description = "Discover how to find new hashtags to get your Pinterest content found.  This cheatsheet walks you through how to do hashtag research on Pinterest's mobile app."
 disableComments = false
 image = "/uploads/image1(1).jpeg"
 slug = "Pinterest-Hashtag-Research"
@@ -13,24 +13,25 @@ A few starting points:
 * Pinterest only allows you to use up to 20 hashtags.
 * Creating a spreadsheet of hashtag ideas may be beneficial.
 
-This guide walks through how I find hashtags when featuring bakers for BakersSpotlight.com. Specifically, I will be walking through featuring a Valentine's Day cake.
+With Valentine's Day around the corner, I will be walking through how I found new hashtags for a Valentine's themed cake.
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/bakers.PNG" width="95%" height="95%"></center>
 
-You can find my Pinterest account [here](https://www.pinterest.com/bakersspotlight/). Fair warning: you might get stuck being memorized by all of the cookie + cake decorating videos.
+You can find my Pinterest account <b><font color="#1C4966">[here](https://www.pinterest.com/bakersspotlight/)</font></b>. Fair warning: you might get stuck being memorized by all of the cookie + cake decorating videos.
 
 <center><h3> What Hashtags Will Fit This Cake? </center></h3>
 
 <Center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/deva-williamson-Kppw90QC_aE-unsplash(1).jpg" width="50%" height="50%"></center>
 <center>
-With Valentine's Day around the corner, many people are looking for baking inspiration. 
+At the end of March, many bakers are looking for Valentine's Day baking inspiration. 
 <br>
-I will be walking though how I would find hashtags for this cake. Made out of buttercream frosting, this is an adorable cake for any Valentine's day party!
+I will be walking though how I would find hashtags for this cake. Made out of buttercream frosting, this is an adorable cake for any V-Day party!
 </center>
 <br>
 <Center><H2> 1. Start With a Generic, Short, and Relevant Word</Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(1)(1).jpeg" width="50%" height="50%" style="float:left; margin-left:0px; margin-right:20px">
 I always start hashtag research with a relevant, generic, and short word.
+<br>
 <br>
 In this example, I started typing out <b>#Cake</b> to see what would pop-up.
 <br>
@@ -47,7 +48,7 @@ What is shown in the pop-up is where I get my hashtag ideas from.
 In my initial research, there were two hashtags that used "Cake Decorating" at the start. 
 <br>
 <br>
-I set out to see if there were any more hashtags that started with "Cake Decorating".
+I wanted to use "Cake Decorating" as a stepping stone. My goal was to see if I could find any other hashtags that started with "cake decorating"
 </p>
 Going back to the description field, I started to type out <b>#CakeDecor</b>. Being a longer word, I was surprised that more related hashtags popped up.
 </p>
@@ -61,7 +62,7 @@ In this example, I knew there were going to be other hashtags I wanted to add. I
 
 
 <Center><H2> 3. Repeat the Process With Other Keywords </Center></H2>
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1%20(2)(1).jpeg" width="50%" height="50%" align="left" style="text-align:right; margin:0px 20px">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1%20(2)(1).jpeg" width="45%" height="45%" align="left" style="text-align:right; margin:0px 20px">
 When someone wants to search for cake decorating content, there are a lot of relevant hashtags.
 
 After using several hashtags included "cake decorating", I started to research another popular baking topic: frosting.
@@ -71,8 +72,8 @@ Buttercream is a very popular type of frosting that is used to decorate cakes. K
 The content piece I was sharing used buttercream frosting. Circled in red where the most relevant hashtags to my content.
  
 <Center><H2> 4. Don't Forget About Seasonality!</Center></H2>
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="50%" height="50%" align="right" style="margin:0px 20px">
-What I have found on both Instagram and Pinterest, is that using seasonal hashtags is important to stay relevant and increase engagement.
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="45%" height="45%" align="right" style="margin:0px 20px">
+What I have found on social media is that using seasonal hashtags are important to stay relevant and engaging.
 
 During a season, holiday, or other important event, I always research seasonal hashtags related to my content.
 
@@ -86,12 +87,8 @@ Choosing these hashtags can help someone find this pretty heart shape cake video
 
 
 <Center><H2> 5. Continually Experiment With New Hashtags and Content </Center></H2>
-Once I notice that my content is starting to get discovered and receive more engagement, I continue to use those hashtags. I also try to use similar content that people found engaging in the past.
-  
-For example: A video I featured of decorating a cake had a very high level of engagement.
-  
-In the future, I may feature a similar video (i.e someone else decorating a cake) with the same hashtags.
-I would repeat this process until I start seeing a dip in engagement.
+When a post performs well, I try to replicate the results. Using similar content my audience finds engaging, I also use the same hashtags. Occassionally I will also experiment with new hashtags and new content. 
 
-Experimenting has been the way I have built engaged communities. I listen to what my followers are engaging with and react when they don't.
+It's a balancing act of experimenting with new content and sticking to what people currently like.
 
+Experimenting has been the way I have built engaged communities. I continue to provide the content that my followers are engaging with while also experimenting with new content. 
