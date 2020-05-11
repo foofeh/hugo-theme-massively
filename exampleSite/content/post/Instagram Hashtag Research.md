@@ -71,6 +71,7 @@ After posting,  I would click on each hashtag I used during the approximate time
 Using these intervals, it was easier to see <b><i>if</b></i> content was ranking on the top and <b><i>how long</b></i> it was ranking at the top.
 
 Some interesting “stickiness” patterns emerged:
+<br>
 <b><u> 15 Minutes </b></u> - If the content was on the top of the hashtag after the first 15 minutes, there was a good chance the content would “stick” for longer.
 <br>
 On larger hashtags (>100K Posts), this was less certain. Content ranking moved quicker on bigger hashtags.
@@ -89,11 +90,11 @@ Sticky content on micro-hashtags would gain ~50 extra likes/followers over time.
   <br>
 
 <h4> Theories on Why Content Sticks </h4>
-<ul>
-<li>Engagement within the first 10 - 15 Minutes of a post matters to rank on the top of a hashtag.</li>
-<li>As you rank on the top of a hashtag, the content continues to gain engagement which increases stickiness. </li>
-<li>Instagram may use an engagement:followers ratio to help gauge good content vs just content with large Instagram followings.</li>
-</ul>
+Engagement within the first 10 - 15 Minutes of a post matters to rank on the top of a hashtag.
+<br>
+As you rank on the top of a hashtag, the content continues to gain engagement which increases stickiness.
+<br>
+Instagram may use an engagement:followers ratio to help gauge good content vs just content with large Instagram followings.
 <br>
 <center><h3> When It Comes to Hashtags Size Matters </h3></center>
   After paying attention to which hashtags I was showing up on the top for, I noticed a pattern.
