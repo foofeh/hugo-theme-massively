@@ -1,6 +1,6 @@
 +++
 date = ""
-description = "This Cheat Sheet will walk you through how to discover hashtags to get your content discovered.  ​  To find Search Volume for each Hashtag, you can use Pinterest Trends."
+description = "Discover hashtags to get your content discovered.  ​  To find Search Volume for each Hashtag, you can use Pinterest Trends."
 disableComments = false
 image = "/uploads/image1(1).jpeg"
 slug = "Pinterest-Hashtag-Research"
@@ -25,7 +25,7 @@ You can find my Pinterest account [here](https://www.pinterest.com/bakersspotlig
 <center>
 With Valentine's Day around the corner, many people are looking for baking inspiration. 
 <br>
-This cheat sheet will be walking though how I would find hashtags for this cake. Made out of buttercream frosting, this is an adorable cake for any Valentine's day party!
+I will be walking though how I would find hashtags for this cake. Made out of buttercream frosting, this is an adorable cake for any Valentine's day party!
 </center>
 <br>
 <Center><H2> 1. Start With a Generic, Short, and Relevant Word</Center></H2>
@@ -44,11 +44,10 @@ What is shown in the pop-up is where I get my hashtag ideas from.
 <br>
 <Center><H2>2. Experiment with Longer Keyword Strings </H2> </Center>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1(1).jpeg" width="50%" height="50%" align="right" style="text-align:left; margin:0px 20px; padding: 10px">
-In my initial research, there were two hashtags that used Cake Decorating at the start. 
+In my initial research, there were two hashtags that used "Cake Decorating" at the start. 
 <br>
 <br>
-Both hashtags had a high amount of tags.
-I set out to see if there were any more hashtags that started with "CakeDecorating"
+I set out to see if there were any more hashtags that started with "Cake Decorating".
 </p>
 Going back to the description field, I started to type out <b>#CakeDecor</b>. Being a longer word, I was surprised that more related hashtags popped up.
 </p>
@@ -81,7 +80,7 @@ Every time I post content with a seasonal hashtag, I notice that post gets highe
 
 Being a Valentine's Day cake, I typed in <b>#ValentinesDay</b> to see what would pop-up.
 
-Adding the generic <b>#ValentinesDay</b>, I wanted to see how it would perform. <b>ValentinesDayFood</b> was also relevant, so I added that as well.
+Adding the generic <b>#ValentinesDay</b>, I wanted to see how it would perform. <b>#ValentinesDayFood</b> was also relevant, so I added that as well.
 
 Choosing these hashtags can help someone find this pretty heart shape cake video- just in time to try it themselves for Valentine's Day!
 
