@@ -43,7 +43,9 @@ Below is a breakdown of the edits you can make in each panel:
 <br>
 <h4>Crop Panel:</h4>
 <b><i> Aspect Ratio:</b></i> Changes the overall size of the collage. An aspect ratio of 2:3 is recommended, but you can also select 3:4 and 1:1 ratios.
+
 <b><i>Adjust:</b></i> Flip, rotate, and crop specific images in the collage
+
 <b><i>Change an Image:</b></i> Swap out images, replace images, and add images.
 
 #### **Logo Panel (Star Icon):**
