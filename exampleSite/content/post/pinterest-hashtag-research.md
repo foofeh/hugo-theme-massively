@@ -25,7 +25,7 @@ You can find my Pinterest account <b><font color="#1C4966">[here](https://www.pi
 <center>
 At the end of March, many bakers are looking for Valentine's Day baking inspiration. 
 <br>
-I will be walking though how I would find hashtags for this cake. Made out of buttercream frosting, this is an adorable cake for any V-Day party!
+I will be walking though how I found hashtags for this cake. Made out of buttercream frosting, this is an adorable cake for any V-Day party!
 </center>
 <br>
 <Center><H2> 1. Start With a Generic, Short, and Relevant Word</Center></H2>
@@ -33,11 +33,11 @@ I will be walking though how I would find hashtags for this cake. Made out of bu
 I always start hashtag research with a relevant, generic, and short word.
 <br>
 <br>
-In this example, I started typing out <b>#Cake</b> to see what would pop-up.
-<br>
-<br>
-Starting with a smaller word, Pinterest auto-populate hashtags based on the highest amount of pins associated with it.
+Starting with a smaller word allows Pinterest to auto-populate hashtags. What pops up first are hashtags that have the most pins associated with them.
 What is shown in the pop-up is where I get my hashtag ideas from.
+<br>
+<br>
+In this example, I started typing out <b>#Cake</b> to see what would pop-up.
 <br>
 <br>
 <b>#CakeDecorating</b> & <b>#CakeDecoratingIdeas</b> are the two keywords I thought where most relevant, and I added them to the description.
@@ -48,7 +48,7 @@ What is shown in the pop-up is where I get my hashtag ideas from.
 In my initial research, there were two hashtags that used "Cake Decorating" at the start. 
 <br>
 <br>
-I wanted to use "Cake Decorating" as a stepping stone. My goal was to see if I could find any other hashtags that started with "cake decorating"
+This gave me the idea to use "Cake Decorating" as a stepping stone. My goal was to see if I could find any other hashtags that started with "cake decorating".
 </p>
 Going back to the description field, I started to type out <b>#CakeDecor</b>. Being a longer word, I was surprised that more related hashtags popped up.
 </p>
@@ -67,9 +67,11 @@ When someone wants to search for cake decorating content, there are a lot of rel
 
 After using several hashtags included "cake decorating", I started to research another popular baking topic: frosting.
 
-Buttercream is a very popular type of frosting that is used to decorate cakes. Knowing this, I started to type out buttercream to see what would pop up.
+The content piece I was sharing used buttercream frosting.
+
+Buttercream is a very popular type of frosting that is used to decorate cakes. I started to type out "buttercream" to see what hashtags would pop up.
 <p>
-The content piece I was sharing used buttercream frosting. Circled in red where the most relevant hashtags to my content.
+Circled in red where the most relevant hashtags that I added to my pin.
  
 <Center><H2> 4. Don't Forget About Seasonality!</Center></H2>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="45%" height="45%" align="right" style="margin:0px 20px">
