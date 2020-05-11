@@ -1,6 +1,6 @@
 +++
 date = ""
-description = "Discover hashtags to get your content discovered.  ​  To find Search Volume for each Hashtag, you can use Pinterest Trends."
+description = "Discover how to find new hashtags to get your content found.  This cheatsheet walks you through how I do hashtag research on Pinterest's mobile app."
 disableComments = false
 image = "/uploads/image1(1).jpeg"
 slug = "Pinterest-Hashtag-Research"
