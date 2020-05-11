@@ -42,6 +42,7 @@ Below is a breakdown of the edits you can make in each panel:
 <br>
 <h4>Crop Panel:</h4>
 Change the aspect ratio, adjust images, and replace the images in the collage.
+
 #### **Logo Panel (Star Icon):**
 Add your logo to the collage.
 
@@ -86,13 +87,8 @@ To open the Carousel Image Editor, click on the pencil icon on the left of the i
 From there, you can add your logo, text, and resize/change every image in the carousel.
 
 <h4>Crop Panel:</h4>
-<b><i> Aspect Ratio:</b></i> Changes the overall size of the carousel.
+Change the aspect ratio, adjust images, and replace the images in the collage..
 <br>
-<b><i>Adjust:</b></i> Flip, rotate, and crop specific images in the carousel.
-<br>
-<b><i>Change an Image:</b></i> Swap out images, replace images, and add images.
-<br>
-
 <h4>Logo Panel (Star Icon):</h4>
 Add your logo to the carousel.
 <br>
