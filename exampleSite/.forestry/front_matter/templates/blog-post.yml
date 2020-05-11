@@ -21,6 +21,6 @@ fields:
   name: disableComments
   label: disableComments
 pages:
-- exampleSite/content/post/instagram-hashtag-cheatsheet.md
 - exampleSite/content/post/pinterest-hashtag-research.md
+- exampleSite/content/post/pinterest-trends-cheatsheet.md
 - exampleSite/content/post/pinterest-trends.md
