@@ -25,9 +25,13 @@ Less Than 10K -> Micro-hashtags.
 My strategy was to choose 2-8 hashtags from each bucket on my posts. 
 
 <center><h2> Why Getting On the Top of the Hashtag Was Critical </center></h2>
-<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(6).jpeg" width="90%" height="90%"></center>
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(6).jpeg" width="50%" height="50%"></center>
 <Center><i>#CakesofInstagram top posts on 3/5/2020. This was what was first shown to visitors when they visited the page that day.</center></i>
 
 Being on the top page of a hashtag helps people discover content and new accounts to follow. When someone explores a hashtag, the top content is the first thing people see.
 
 Gaining a spot on the “top” of a hashtag (particularly in the first 6 spots, before the fold) increased both post engagement and the amount of people who followed my account from that post.
+
+<h2><center> Difference in Metrics for Ranking on a Hashtag </center></h2>
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/RainbowCake.png" width="50%" height="50%"></center>
+
