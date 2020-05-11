@@ -1,10 +1,10 @@
 +++
 date = ""
-description = "La"
+description = "An in-depth cheatsheet to find the best hashtags for your Instagram content."
 disableComments = false
 image = "/uploads/HashtagCover.png"
 slug = "/Instagram-Hashtags"
-title = "Instagram Hashtags"
+title = "Instagram Hashtag Cheatsheet"
 
 +++
 Hashtags
@@ -18,11 +18,8 @@ When I first started, I used very generic hashtags that had millions of posts as
 
 <center><h3> Instagram Bucketing System </center></h3>
 <b><i>Less Than 10K </b></i> -> Micro-hashtags.
-
 <b><i> 10K - 50K </b></i> -> I hypothesized I would rank for these hashtags, as I only had a few thousand followers.
-
 <b><i> 50K - 100K </b></i> -> These hashtags were worth a shot using, but I didn’t expect to actually have my content appear at the top of these.
-
 <b><i> 100K+ </b></i> -> This is obviously a very large bucket. At the time of creating these buckets, I didn’t see a difference between hashtags with 100K posts or 1 million. They both seemed way too large.
 
 My strategy was to choose 2-8 hashtags from each bucket on my posts. 
@@ -39,20 +36,30 @@ Gaining a spot on the “top” of a hashtag (particularly in the first 6 spots,
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/RainbowCake.png" width="35%" height="35%"></center>
 . At the time of posting, this cake ranked for the following hashtags:
 #RainbowCake | 804K Posts
+
 #ButterCreamFrosting | 231K Posts
+
 #AmazingCake | 215K Posts
 
 Below are the engagement metrics from the Rainbow Cake Post:
+<br>
 202,943 Reach 
+<br>
 719 Follows
+<br>
 1,388 Profile Visits
+<br>
 12,036 Engagements (Likes, comments, shares + Shaves)
-
+<br>
+<br>
 Similar cake posts from the same time period received:
  ~1,500 engagements
+ <br>
 ~20,000 Reach
+<br>
 ~15 Follows
-
+<br>
+<br>
 <center><h3> Check to See If and How Long Content is Ranking <center></h3>
   
 After posting,  I would click on each hashtag I used during the approximate time intervals:
@@ -64,20 +71,27 @@ After posting,  I would click on each hashtag I used during the approximate time
 Using these intervals, it was easier to see <b><i>if</b></i> content was ranking on the top and <b><i>how long</b></i> it was ranking at the top.
 
 Some interesting “stickiness” patterns emerged:
- * <b><u> 15 Minutes </b></u> - If the content was on the top of the hashtag after the first 15 minutes, there was a good chance the content would “stick” for longer. 
-  * On larger hashtags (>100K Posts), this was less certain. Content ranking moved quicker on bigger hashtags.
-* <b><u>1 Hour</b></u> - Content ranking on the hashtag after an hour was a good indication of stickiness.
-* <b><u>5 Hours</b></u> - This is approximately the time that content started to drop off the top.
+<ul>
+<li><b><u> 15 Minutes </b></u> - If the content was on the top of the hashtag after the first 15 minutes, there was a good chance the content would “stick” for longer.</li>
+On larger hashtags (>100K Posts), this was less certain. Content ranking moved quicker on bigger hashtags.
+<li><b><u>1 Hour</b></u> - Content ranking on the hashtag after an hour was a good indication of stickiness.</li>
+<br>
+<li><b><u>5 Hours</b></u> - This is approximately the time that content started to drop off the top.</li>
+<br>
 Posts that would stick on the top until the morning after posting were typically on smaller hashtags (<50K posts).
-* <b><u>Morning After</b></u> - On larger hashtags, these were the posts that went “viral”. I only had a couple of posts go “viral”. On micro-hashtags (<30K), the content would often stick for days, weeks, or even months. The content may not have gone viral, but the content would still get engagement.
-  * Viral posts often received 5K+ likes and 500+ followers.
-  * Sticky content on micro-hashtags would gain ~50 extra likes/followers over time.
-  
-<h4> Theories on Why Content Sticks </h4>
- * Engagement within the first 10 - 15 Minutes of a post matters to rank on the top of a hashtag.
- * As you rank on the top of a hashtag, the content continues to gain engagement which increases stickiness. 
- * Instagram may use an engagement:followers ratio to help gauge good content vs just content with large Instagram followings.
+<li><b><u>Morning After</b></u> - On larger hashtags, these were the posts that went “viral”. I only had a couple of posts go “viral”. On micro-hashtags (<30K), the content would often stick for days, weeks, or even months. The content may not have gone viral, but the content would still get engagement.</li>
+ <li>Viral posts often received 5K+ likes and 500+ followers. </li>
+ <li>Sticky content on micro-hashtags would gain ~50 extra likes/followers over time. </li>
+  </ul>
+  <br>
 
+<h4> Theories on Why Content Sticks </h4>
+<ul>
+<li>Engagement within the first 10 - 15 Minutes of a post matters to rank on the top of a hashtag.</li>
+<li>As you rank on the top of a hashtag, the content continues to gain engagement which increases stickiness. </li>
+<li>Instagram may use an engagement:followers ratio to help gauge good content vs just content with large Instagram followings.</li>
+</ul>
+<br>
 <center><h3> When It Comes to Hashtags Size Matters </h3></center>
   After paying attention to which hashtags I was showing up on the top for, I noticed a pattern.
 
@@ -95,13 +109,16 @@ Instagram takes many variables into consideration when it determines which conte
 After several months of observing hashtags, I came up with three different factors that make a hashtag worthwhile to use. 
 
 <b> Visibility </b>: The hashtag has a lot of searches/visitors looking up the hashtag
+<br>
 <b>Rankability</b>: The ability for content to rank on the top page
+<br>
 <b>Longevity</b>: How long a piece of content could stay on the “Top Hashtag” page.
 
 The best hashtags to use would ideally have high visibility, easy rankability, and ranking longevity. Unfortunately, none of the hashtags I used checked all three.. 
 
 These three factors and hashtag size had a correlation:
 <b>Lower # Of Posts</b>: (10K - 20K posts) had high ranking longevity and high rankability. These hashtags fell short on visibility, however.
+<br>
 <b>Higher # Of Posts</b>: (100K+), there was often a higher amount of visibility, but it would be more difficult to rank content for AND have that content rank for an extended period of time. 
 
 
