@@ -89,6 +89,7 @@ From there, you can add your logo, text, and resize/change every image in the ca
 <h4>Crop Panel:</h4>
 Change the aspect ratio, adjust images, and replace the images in the collage..
 <br>
+<br>
 <h4>Logo Panel (Star Icon):</h4>
 Add your logo to the carousel.
 <br>
