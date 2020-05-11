@@ -18,8 +18,11 @@ When I first started, I used very generic hashtags that had millions of posts as
 
 <center><h3> Instagram Bucketing System </center></h3>
 <b><i>Less Than 10K </b></i> -> Micro-hashtags.
+<br>
 <b><i> 10K - 50K </b></i> -> I hypothesized I would rank for these hashtags, as I only had a few thousand followers.
+<br>
 <b><i> 50K - 100K </b></i> -> These hashtags were worth a shot using, but I didn’t expect to actually have my content appear at the top of these.
+<br>
 <b><i> 100K+ </b></i> -> This is obviously a very large bucket. At the time of creating these buckets, I didn’t see a difference between hashtags with 100K posts or 1 million. They both seemed way too large.
 
 My strategy was to choose 2-8 hashtags from each bucket on my posts. 
