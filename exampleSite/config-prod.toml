@@ -3,7 +3,7 @@ title = "Digital Marketing Director"
 baseURL = "https://digitalmarketingdirector.com/"
 theme = "hugo-theme-massively"
 googleanalytics = "UA-155115556-1"
-disqusShortname = ""
+disqusShortname = "https-digitalmarketingdirector-com"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 # [params]
