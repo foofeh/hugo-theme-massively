@@ -2,7 +2,7 @@
 date = ""
 description = "Discover how to find new hashtags to get your Pinterest content found.  This cheatsheet walks you through how to do hashtag research on Pinterest's mobile app."
 disableComments = false
-image = "/uploads/Pinterest Hashtag Research.png"
+image = "/uploads/Pinterest Hashtag Research(1).png"
 slug = "Pinterest-Hashtag-Research"
 title = "Pinterest Hashtag Research"
 +++
