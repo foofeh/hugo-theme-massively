@@ -47,7 +47,7 @@ Change the aspect ratio, adjust images, and replace images in the collage.
 Add your logo to the collage.
 
 #### **Text Panel:**
-Add text the collage. 
+Add text to the collage. 
 Change the font style, color and add a font background.
 <br>
 <br>
@@ -75,7 +75,7 @@ Then you're all set!
 3\. Select "Create a Carousel" when prompted.
 
 <center><h3> Carousel Editor </h3> </center>
-Similar to the Collage editor, Pinterest allows you to rearrange images, add text and your logo, and more.
+Similar to the Collage Editor, Pinterest allows you to rearrange images, add text and your logo, and more.
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/CarouselEditor.gif" width="40%" height="40%"></center>
 <center><i>Above is my finished carousel: I added text to each panel & changed the aspect ratio.</i></center>
@@ -93,7 +93,7 @@ Add your logo to the carousel.
 <br>
 <br>
 <h4>Text Panel:</h4>
-Add text the collage. 
+Add text to the carousel. 
 Change the font style, color and add a font background.
 
 <center> <h3> Rearrange </h3> <center>
@@ -113,7 +113,7 @@ To rearrange, click the rearrange icon below the pencil icon on the left of the 
 <br>
   <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/ezgif.com-video-to-gif(2).gif"></center>
   <br>
-Click on the image you would like to move, and move it to a new position.
+Click on the image you would like to move and move it to a new position.
 <br>
 <br>
 <center><h3> Add Text, Descriptions and URLs to Each Image </center></h3>
@@ -123,11 +123,11 @@ Click on the image you would like to move, and move it to a new position.
 <br>
 Pinterest defaults to using the same title, description and URL for each slide.
 <br>
-In this example, I chose to add unique content to each slide.
+In this example, I chose to add unique content for every image.
 <br>
 <br>
 <center><h3> Final Carousel Pin </center></h3>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/FinalPin.gif" width="80%" height="80%"></center>
-Above is the final slideshow I created.
+Above is the final carousel I created.
 <br>
 I added a unique title, description and URL to each image. 
