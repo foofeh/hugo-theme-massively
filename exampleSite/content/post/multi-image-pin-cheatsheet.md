@@ -33,7 +33,7 @@ title = "Multi-Image Pin Cheatsheet"
 
 <center><h3>Collage Pin Editor</h3> </center>
 <img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/editor.PNG" width="65%" height="65%" style="float:left; margin-left:0px; margin-right:20px">
-Pinterest allows you to customize your collage using the Collage Pin Editor
+Pinterest allows you to customize your collage using the Collage Pin Editor.
 Simply press the pencil icon on the left of the image to navigate to the editor. The screen to the left should pop-up.
 <br>
 <br>
@@ -41,13 +41,13 @@ Below is a breakdown of the edits you can make in each panel:
 <br>
 <br>
 <h4>Crop Panel:</h4>
-Change the aspect ratio, adjust images, and replace the images in the collage.
+Change the aspect ratio, adjust images, and replace images in the collage.
 
 #### **Logo Panel (Star Icon):**
 Add your logo to the collage.
 
 #### **Text Panel:**
-Add text to the top, middle, or bottom of your collage. 
+Add text the collage. 
 Change the font style, color and add a font background.
 <br>
 <br>
@@ -75,19 +75,17 @@ Then you're all set!
 3\. Select "Create a Carousel" when prompted.
 
 <center><h3> Carousel Editor </h3> </center>
-As with the Collage editor, Pinterest allows you to rearrange images, add text and your logo, and more.
-
-<center><h3> Add Text, Resize, and More! </h3> </center>
+Similar to the Collage editor, Pinterest allows you to rearrange images, add text and your logo, and more.
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/CarouselEditor.gif" width="40%" height="40%"></center>
 <center><i>Above is my finished carousel: I added text to each panel & changed the aspect ratio.</i></center>
 
 To open the Carousel Image Editor, click on the pencil icon on the left of the image.
 <br>
-From there, you can add your logo, text, and resize/change every image in the carousel.
+From there you can use the following editing panels:
 
 <h4>Crop Panel:</h4>
-Change the aspect ratio, adjust images, and replace the images in the collage..
+Change the aspect ratio, adjust images, and replace the images in the carousel.
 <br>
 <br>
 <h4>Logo Panel (Star Icon):</h4>
@@ -95,7 +93,7 @@ Add your logo to the carousel.
 <br>
 <br>
 <h4>Text Panel:</h4>
-Add text to the top, middle, or bottom of your carousel. 
+Add text the collage. 
 Change the font style, color and add a font background.
 
 <center> <h3> Rearrange </h3> <center>
@@ -106,8 +104,6 @@ Change the font style, color and add a font background.
     }
 }
   </style>
-<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/ezgif.com-video-to-gif(2).gif"></center>
-
 The slide order populates based on the order you selected while uploading the images.
 <br>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/rearrange.PNG" width="40%" height="40%"></center>
@@ -115,13 +111,15 @@ The slide order populates based on the order you selected while uploading the im
 <br>
 To rearrange, click the rearrange icon below the pencil icon on the left of the image.
 <br>
+  <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/ezgif.com-video-to-gif(2).gif"></center>
+  <br>
 Click on the image you would like to move, and move it to a new position.
 <br>
 <br>
 <center><h3> Add Text, Descriptions and URLs to Each Image </center></h3>
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/URLCarousel.PNG" width="80%" height="80%"></center>
-<center><i> Having this box unchecked allows you to add a unique title, description, and URL to each slide in your carousel</i></center>
+<center><i> Having this box unchecked allows you to add a unique title, description, and URL to each slide in your carousel.</i></center>
 <br>
 Pinterest defaults to using the same title, description and URL for each slide.
 <br>
