@@ -2,7 +2,7 @@ languageCode = "en-us"
 title = "Digital Marketing Director"
 baseURL = "https://digitalmarketingdirector.com/"
 theme = "hugo-theme-massively"
-googleanalytics = ""
+googleanalytics = "UA-155115556-1"
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
