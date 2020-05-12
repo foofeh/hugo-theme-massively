@@ -10,7 +10,7 @@ title = "Pinterest Hashtag Research"
 A few starting points:
 
 * This way of hashtag research is only available on the Pinterest app.
-* Pinterest only allows you to use up to 20 hashtags on a pin.
+* Pinterest allows you to use up to 20 hashtags on a pin.
 * Creating a spreadsheet of hashtag ideas may be beneficial.
 
 With Valentine's Day around the corner, I will be walking through how I found new hashtags for a Valentine's themed cake.
@@ -62,7 +62,7 @@ In this example, I knew there were going to be other hashtags I wanted to add. I
 
 
 <Center><H2> 3. Repeat the Process With Other Keywords </Center></H2>
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1%20(2)(1).jpeg" width="45%" height="45%" align="left" style="text-align:right; margin:0px 20px">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image1%20(2)(1).jpeg" width="50%" height="50%" align="left" style="text-align:right; margin:0px 20px">
 When someone wants to search for cake decorating content, there are a lot of relevant hashtags.
 
 Several of my hashtags where focused on cake decorating. I wanted to diversify my hashtags to be relevant to more people's searches. Another popular baking topic came to mind: frosting.
@@ -74,7 +74,7 @@ Buttercream is a type of frosting that is commonly used to decorate cakes. I sta
 Circled in red where the most relevant hashtags that I added to my pin.
  
 <Center><H2> 4. Don't Forget About Seasonality!</Center></H2>
-<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="45%" height="45%" align="right" style="margin:0px 20px">
+<img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/image0%20(3)(1).jpeg" width="50%" height="50%" align="right" style="margin:0px 20px">
 What I have found on social media is that using seasonal hashtags are important to stay relevant and engaging.
 
 During a holiday, I always research seasonal hashtags related to my content.
