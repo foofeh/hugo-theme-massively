@@ -52,8 +52,10 @@ By clicking on an additional keyword, you can can compare search volume between 
 
 Launched in December 2019, Pinterest 100 is a visual way to explore what is trending on Pinterest.
 The homepage has the top trend themes laid out visually, but to see all of the topics at once you can click the two vertical lines on the top left.
+<br>
 Pinterest considers a theme a trend if there was a search volume trajectory for at least six months.
 The current 2020 report compares August 2017 - July 2018 to August 2018 - July 2019.
+<br>
 Partnering with WGSN, Pinterest identified keywords surrounding these trends broken down by country.
 
 ### Diving Into Trend Reports
@@ -70,8 +72,6 @@ You can also see just how much the keyword is trending by the year-over-year per
 Clicking on the Keyword will navigate to you the keyword search results page. You can then see content ideas based around that keyword,
 
 For those who want to skip the visualization of trends, you can click the vertical lines on the top left corner. This will expand all of the trending themes.
-
-You can also download 2020's trending keywords by theme via PDF here.
 
 ### Top Trends For 2020
 
