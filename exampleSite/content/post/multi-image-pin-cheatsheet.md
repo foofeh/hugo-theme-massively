@@ -1,7 +1,7 @@
 +++
 date = ""
 description = "Pinterest allows you create visually appealing pins on the desktop site. Use this cheat sheet to create your own carousels and collages!"
-disableComments = true
+disableComments = false
 image = "uploads/MultiImagePinv2.png"
 slug = "multi-image-pins"
 title = "Multi-Image Pin Cheatsheet"
@@ -130,4 +130,4 @@ In this example, I chose to add unique content for every image.
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/FinalPin.gif" width="80%" height="80%"></center>
 Above is the final carousel I created.
 <br>
-I added a unique title, description and URL to each image. 
+I added a unique title, description and URL to each image.
