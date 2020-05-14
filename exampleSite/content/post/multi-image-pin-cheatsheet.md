@@ -121,7 +121,7 @@ Click on the image you would like to move and move it to a new position.
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/URLCarousel.PNG" width="80%" height="80%"></center>
 <center><i> Having this box unchecked allows you to add unique content to each slide.</i></center>
 <br>
-Pinterest defaults to using the same title, description and URL for each slide.
+Pinterest defaults to using the same title, description, and URL for each slide.
 <br>
 In this example, I chose to add unique content for every image.
 <br>
