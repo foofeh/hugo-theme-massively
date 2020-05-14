@@ -14,8 +14,6 @@ Below the search bar is a discovery dashboard. It highlights keywords that had p
 
 View search volume by day, find related keywords and discover content ideas.
 
-VIDEO HERE
-
 The Search Volume Report dashboard focuses mainly on the interactive graph.
 As you hover over the graph, you can see the relative search volume score on any given day within the last year
 With the ability to add up to 4 keywords at a time, it is easy to compare what keywords are trending when.
