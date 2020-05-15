@@ -7,42 +7,67 @@ slug = "/Pinterest-Trends"
 title = "Pinterest Trends Cheatsheet"
 
 +++
-The Pinterest Trends dashboard includes a search bar where you can search for your own keywords.
-Below the search bar is a discovery dashboard. It highlights keywords that had peaks in search volumes within the last year. The suggestions may or may not be relevant to you.
+The <a href="https://trends.pinterest.com/?country=US">Pinterest Trends</a> tool was released in late 2019 by Pinterest. Pinterest Trends allows you to see what search terms are currently trending on Pinterest. 
+<br>
+Pinterest Trends is also perfect for doing keyword research. Using the search function, you can start to plan your Pinterest content strategy to stay engaging and relevant with your audience.
+<br>
+In this cheatsheet, I will be walking through how to use the new Pinterest Trends Tool.
 
-### Search Volume Results Dashboard
+<center><h2> Pinterest Trends Homepage </center></h2>
 
-View search volume by day, find related keywords and discover content ideas.
+IMAGE OF PINTEREST TRENDS HOMEPAGE
+<br>
+On the homepage of Pinterest Trends is what search terms are currently trending on Pinterest. 
+<br>
+The first panel, <i><b>Today's Top Pinterest Trends</i></b>, provides a high-level glance at keywords with large increases in searches. The keywords here are overarching and span across multiple categories.
+<br>
+As you scroll down, Pinterest breaks out the popular search terms by popular categories: <i>Fashion</i>, <i>Food & Drink</i>, <i>Beauty</i>, and <i>Home</i>.
+<br>
+This information is great for a high-level of what is trendy on Pinterest. Should you have a different topic you want to get search volume for, this is where the search bar comes in handy.
+<br>
+<br>
+<center><h2>Pinterest Keyword Research: Getting Started<h2></center>
+I run <a href="https://www.pinterest.com/bakersspotlight/">BakersSpotlight</a>, a baker's community, on Pinterest. Planning out my content strategy, I want to get keyword search volume reports specific to baking.
+ 
+IMAGE OF TYPING IN CAKE DECORATING HERE
+<br>
+Starting with <i>"cake decorating"</i>, Pinterest auto-suggests keyword ideas based of what you typed in.
+<br>
+On the right-hand side of each keyword is a search volume over time graph. 
+<br>
+Using the search bar is a great way to quickly get new keyword ideas and see keyword performance at a glance.
+<br>
+Clicking on a keyword takes you to a new screen for a deeper-dive.
+<br>
+<center><h3> Keyword Deeper-Dive</center></h3>
 
-The Search Volume Report dashboard focuses mainly on the interactive graph.
-As you hover over the graph, you can see the relative search volume score on any given day within the last year
-With the ability to add up to 4 keywords at a time, it is easy to compare what keywords are trending when.
+IMAGE OF SEARCH OVER TIME GRAPH
+<br>
+The main part of the Pinterest Trends tool is an interactive graph. Providing data from the last 12 months, each data point is from a period over a week. 
+<br>
+Pinterest does not provide the actual number of searches for that particular keyword. Instead, they compare the search volume of your keyword to all other searches during that week. Then, Pinterest indexes that number from 0 to 100 to compare the relative search volume of each term.
+<br>
+In other words, the search volume number is comparing search volume to other keywords in the same time period. The closest you get to 100 the more searches for that week there are.
+<br>
+<center><h3>Comparing Keywords</center></h3>
+Being able to compare keywords enables you to plan out your content strategy better. 
 
-### Panel Breakdown
+<center><h4>Adding Pinterest's Related Terms</h4></center>
+Below the graph are related keywords that Pinterest auto-suggests.
 
-The Search Volume Dashboard has 3 main sections:
+<center><h4>Planning Content Strategy</h4></center>
+Should you want to compare different keywords from what Pinterest suggests, simply type them into the search bar.
 
-<b>Search Volume by Day:</b> Hover over the graph to view the search volume by day.
-Pinterest takes the search volume for the given keyword and compares it to all other searches on Pinterest on the same day.
-The number you see is indexed from 0 to 100 to compare the relative volume of the keyword.
-Basically, they give you a relative search volume metric and not actual searches per day.
+IMAGE OF CAKE DECORATING VS COOKIE DECORATING
+Here is a perfect example of how to use the tool to plan out content strategy.
 
-<b>Related Terms:</b> Underneath the graph are related terms that are either similar to your keyword, or what users are also searching for.
-By clicking on an additional keyword, you can can compare search volume between keywords.
-
-<b>Popular Pins:</b> On this panel you can see previews of some of the top pins based on the keywords selected. Clicking on the previews takes you to the search results page.
-
-### Perform Your Own Keyword Research
-
-<b>Step 1:</b> In the search bar, enter a keyword you would like to get Pinterest search volume metrics for. You can scroll through the auto-suggestions that pop-up or hit enter to go to your specific keyword.
-<p>
-<b>Step 2:</b> Hover over the graph to see the relative search volume score to identify when the keyword is trending.
-<p>
-<b>Step 3:</b> Under Related Terms, you can click to add terms that are similar to your keyword. Adding up to 4 keywords, the graph allows you to easily compare search volume scores over time.
- <p>
-<b>Step 4:</b> If none of the Related Terms are relevant, you can scroll up to the top and add other keywords from the search bar. Pinterest will again auto-recommend based off of what you search for.
- <p>
-<b>Step 5:</b> Under Popular pins, you can browse content ideas based off of the keywords you selected. Clicking on the image previews will take you to the search page.
+Around Christmas time, cake decorating stops getting as much searches. What takes it's place? Cookie decorating and royal icing.
+<br>
+Royal icing is a type of frosting that is often used for cookie decorating. Ever see one of those memorizing cookie decorating videos? Yup. They're using royal icing.
+<br>
+Cookies are incredibly popular around Christmas. Using this tool, I found I should switch my content from cakes to cookies around Christmas!
+<br>
+<br>
 
 ## Pinterest 100
 
