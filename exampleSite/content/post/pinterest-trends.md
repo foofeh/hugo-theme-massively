@@ -15,7 +15,8 @@ In this cheatsheet, I will be walking through how to use the new Pinterest Trend
 
 <center><h2> Pinterest Trends Homepage </center></h2>
 
-IMAGE OF PINTEREST TRENDS HOMEPAGE
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Screen Shot 2020-05-15 at 1.50.28 PM.png" width="80%" height="80%"></center>
+
 <br>
 On the homepage of Pinterest Trends is what search terms are currently trending on Pinterest. 
 <br>
@@ -29,7 +30,8 @@ This information is great for a high-level of what is trendy on Pinterest. Shoul
 <center><h2>Pinterest Keyword Research: Getting Started<h2></center>
 I run <a href="https://www.pinterest.com/bakersspotlight/">BakersSpotlight</a>, a baker's community, on Pinterest. Planning out my content strategy, I want to get keyword search volume reports specific to baking.
  
-IMAGE OF TYPING IN CAKE DECORATING HERE
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/CakedecoratingPT.png" width="80%" height="80%"></center>
+
 <br>
 Starting with <i>"cake decorating"</i>, Pinterest auto-suggests keyword ideas based of what you typed in.
 <br>
@@ -41,7 +43,7 @@ Clicking on a keyword takes you to a new screen for a deeper-dive.
 <br>
 <center><h3> Keyword Deeper-Dive</center></h3>
 
-IMAGE OF SEARCH OVER TIME GRAPH
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/PTOvertimeGraph.png" width="80%" height="80%"></center>
 <br>
 The main part of the Pinterest Trends tool is an interactive graph. Providing data from the last 12 months, each data point is from a period over a week. 
 <br>
@@ -58,7 +60,8 @@ Below the graph are related keywords that Pinterest auto-suggests.
 <center><h4>Planning Content Strategy</h4></center>
 Should you want to compare different keywords from what Pinterest suggests, simply type them into the search bar.
 
-IMAGE OF CAKE DECORATING VS COOKIE DECORATING
+<center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/PTKeywordCompare.png" width="80%" height="80%"></center>
+
 Here is a perfect example of how to use the tool to plan out content strategy.
 
 Around Christmas time, cake decorating stops getting as much searches. What takes it's place? Cookie decorating and royal icing.
