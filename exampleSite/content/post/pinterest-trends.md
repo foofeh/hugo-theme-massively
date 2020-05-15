@@ -29,7 +29,13 @@ This information is great for a high-level of what is trendy on Pinterest. Shoul
 <br>
 <center><h2>Pinterest Keyword Research: Getting Started<h2></center>
 I run <a href="https://www.pinterest.com/bakersspotlight/">BakersSpotlight</a>, a baker's community, on Pinterest. Planning out my content strategy, I want to get keyword search volume reports specific to baking.
- 
+ <style>
+  @media screen and (max-width: 480px) {
+    img {
+         width: 350px;
+    }
+}
+  </style>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/CakedecoratingPT.png" width="80%" height="80%"></center>
 
 <br>
