@@ -61,11 +61,13 @@ In other words, the search volume number is comparing search volume to other key
 <center><h3>Comparing Keywords</center></h3>
 Being able to compare keywords enables you to plan out your content strategy better. 
 
-<center><h4>Adding Pinterest's Related Terms</h4></center>
-Below the graph are related keywords that Pinterest auto-suggests.
+Pinterest allows you to add up to 4 keywords to the interactive graph.
 
-<center><h4>Planning Content Strategy</h4></center>
-Should you want to compare different keywords from what Pinterest suggests, simply type them into the search bar.
+You can add keywords in in following ways:
+
+<b>Related Terms</b>: Below the interactive graph are related terms Pinterest auto-suggests. Simply click on they keyword and it will be added to the graph.
+
+<b>Search Bar</b> Going back up to the search bar, you can type in a new keyword. A list of suggestions based off of what you typed in will pop-up. Once you found the keyword you want, simply click on it to add to the graph.
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/PTKeywordCompare.png" width="80%" height="80%"></center>
 
