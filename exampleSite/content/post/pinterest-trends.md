@@ -2,7 +2,7 @@
 date = ""
 description = "Discover how to identify trending keywords on Pinterest with this Pinterest Trends cheatsheet. Find new content ideas and get the latest Pinterest keyword search volume."
 disableComments = false
-image = "uploads/PinterestTrendsCover.png"
+image = "uploads/PinterestTrendsHero2.png"
 slug = "/Pinterest-Trends"
 title = "Pinterest Trends Cheatsheet"
 
