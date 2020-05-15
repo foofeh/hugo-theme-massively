@@ -16,14 +16,14 @@ In this cheatsheet, I will be walking through how to use the new Pinterest Trend
 <center><h2> Pinterest Trends Homepage </center></h2>
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Screen Shot 2020-05-15 at 1.50.28 PM.png" width="80%" height="80%"></center>
-
+<center><i>Above is the Pinterest Trends homepage.</i></center>
 <br>
 On the homepage of Pinterest Trends is what search terms are currently trending on Pinterest. 
-<br>
+
 The first panel, <i><b>Today's Top Pinterest Trends</i></b>, provides a high-level glance at keywords with large increases in searches. The keywords here are overarching and span across multiple categories.
-<br>
+
 As you scroll down, Pinterest breaks out the popular search terms by popular categories: <i>Fashion</i>, <i>Food & Drink</i>, <i>Beauty</i>, and <i>Home</i>.
-<br>
+
 This information is great for a high-level of what is trendy on Pinterest. Should you have a different topic you want to get search volume for, this is where the search bar comes in handy.
 <br>
 <br>
@@ -37,7 +37,7 @@ I run <a href="https://www.pinterest.com/bakersspotlight/">BakersSpotlight</a>, 
 }
   </style>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/CakedecoratingPT.png" width="80%" height="80%"></center>
-
+ <center><i>The search function is great for quickly seeing Pinterest search volume for new keywords.</i></center>
 <br>
 Starting with <i>"cake decorating"</i>, Pinterest auto-suggests keyword ideas based of what you typed in.
 <br>
@@ -52,10 +52,11 @@ Clicking on a keyword takes you to a new screen for a deeper-dive.
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/PTOvertimeGraph.png" width="80%" height="80%"></center>
 <br>
 The main part of the Pinterest Trends tool is an interactive graph. Providing data from the last 12 months, each data point is from a period over a week. 
-<br>
+
 Pinterest does not provide the actual number of searches for that particular keyword. Instead, they compare the search volume of your keyword to all other searches during that week. Then, Pinterest indexes that number from 0 to 100 to compare the relative search volume of each term.
-<br>
+
 In other words, the search volume number is comparing search volume to other keywords in the same time period. The closest you get to 100 the more searches for that week there are.
+<br>
 <br>
 <center><h3>Comparing Keywords</center></h3>
 Being able to compare keywords enables you to plan out your content strategy better. 
@@ -78,7 +79,7 @@ Cookies are incredibly popular around Christmas. Using this tool, I found I shou
 <br>
 <br>
 
-## Pinterest 100
+<center><h2> Pinterest 100 </center></h2>
 
 <center><img class="TextWrap" src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/trend100.png" width="90%" height="90%"></center>
 
