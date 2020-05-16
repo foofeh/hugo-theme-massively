@@ -27,11 +27,11 @@ The total number of times a person saved your pins to one of their Pinterest Boa
 
 ##### **Close-Up Rate**
 
-A formula: The # people who viewed a close-up version of your pin / # of impressions
+A formula: The # of people who viewed a close-up version of your pin / # of impressions
 
 ##### **Link Click Rate**
 
-A formula: The # people who clicked your pin URL/ # of impressions
+A formula: The # of people who clicked your pin URL / # of impressions
 
 ##### **Save Rate**
 
@@ -50,15 +50,15 @@ The number of people who have viewed or engaged with all of the pins your pins (
 
 ##### **Video Views**
 
-The number of views that lasted at least 2 seconds with atleast 50% of the video on the screen.
+The number of views that lasted at least 2 seconds with 50% of the video on the screen.
 
 ##### **Avg. Watch Time**
 
-Averages the total number of minutes from everyone who has watched your pin.
+Formula: Total Watch Time / Total Number of Video Plays
 
 ##### **Total Watch Time**
 
-Combines the total amount of minutes that people have watched your pin.
+The total amount of minutes that people have watched your pin.
 
 ##### **95% Views**
 
@@ -76,7 +76,7 @@ A dimension is a descriptive attribute or characteristic of a pin. This section 
 
 The source dimension is broken down into 2 types:
 
-**Your pins**: Pins that came from re-pinning content or uploading content directly to Pinterest.
+**Your pins**: Pins that come from re-pinning content or uploading content directly to Pinterest.
 
 **Other pins**: Pins that come from claimed accounts. These are pins that were shared by others from your social media profiles or website.
 
@@ -84,7 +84,7 @@ The source dimension is broken down into 2 types:
 
 Pins can be categorized into the following content types:
 
-**Standard:** The standard 2:3 ratio image.
+**Standard:** The default 2:3 ratio image.
 
 **Video:** Any pin that is a GIF or video.
 
@@ -102,5 +102,5 @@ Below are the accounts you can associate with your Pinterest account:
 * Youtube
 
 Syncing your accounts with Pinterest allows you to associate your content on other sites with Pinterest. You will then be able to get data on the content other people shared directly from your linked accounts.
-
-
+<br>
+<br>
