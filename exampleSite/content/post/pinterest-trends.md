@@ -21,15 +21,17 @@ In this cheatsheet, I will be walking through how to use the new Pinterest Trend
 <br>
 On the homepage of Pinterest Trends is a high-level report on what keywords are currently trending.
 
-The first panel, <i><b>Today's Top Pinterest Trends</i></b>, shows keywords that had a recent surge in searches. The keywords here are overarching and span across multiple categories.
+The first panel, <i><b>Today's Top Pinterest Trends</i></b>, shows keywords that had a recent surge in searches. What has recently started trending on Pinterest shows up on this panel.
 
-As you scroll down, Pinterest breaks out trending keywords by popular categories: <i>Fashion</i>, <i>Food & Drink</i>, <i>Beauty</i>, and <i>Home</i>.
+As you scroll down, Pinterest breaks out trending keywords by popular categories: Fashion, Food & Drink, Beauty, and Home.
 
-This information is great for a high-level of what is trending on Pinterest. Should you have a different topic you want to get search volume for, the search bar comes in handy.
-<br>
-<br>
+
+Pinterest Trend's home page is great for a high-level of what is trending on Pinterest. Should you have a specific keyword you want to research, Pinterest offers a search function.
+
 <center><h2>Pinterest Keyword Research: Getting Started<h2></center>
-I run a baking community on Pinterest. I want to get keyword search volume reports specific to baking. Using this tool will help my plan out when I should feature cookie content vs cake content.
+ 
+I run a baking community on Pinterest. My content plan switches off between featuring cakes and cookies. Using Pinterest Trends reporting, I can identify when it is best to post cookie content vs cake content.
+
  <style>
   @media screen and (max-width: 480px) {
     img {
@@ -41,7 +43,6 @@ I run a baking community on Pinterest. I want to get keyword search volume repor
  <center><i>The search function is great for quickly seeing Pinterest search volume for new keywords.</i></center>
 <br>
 Using the search bar is a great way to quickly get new keyword ideas and see keyword performance at a glance.
-<br>
 <br>
  <b>Step 1:</b> Type in a keyword you would like to explore.
  <br>
@@ -59,15 +60,16 @@ Using the search bar is a great way to quickly get new keyword ideas and see key
 <br>
 The main part of the Pinterest Trends tool is an interactive graph. Providing data from the last 12 months, each data point is from a period over a week. 
 
-Important note: The search volume is not the <b><i>actual</b></i> search volume. Instead, Pinterest provides a score from 0-100 that is relative to other keyword searches during the same time period. The higher the search volume number, the more searches there are compared to other searches.
+<i>Important note:</i> The search volume is not the <b><i>actual</b></i> search volume. Instead, Pinterest provides a score from 0-100 that is relative to other keyword searches during the same time period. The higher the search volume number, the more searches there are compared to other searches.
 <br>
-A search volume score of 90 has a lot more searches than a keyword with a score of 20. 
+<br>
+A search volume score of 90 has more searches than a keyword with a score of 20. 
 <br>
 <center><h3>Comparing Keywords</center></h3>
-Being able to compare keywords enables you to take your content strategy to the next level. Knowing <i>what</i> people are searching for <i>when</i> allows you to adjust content to hit on popular search windows.
+Being able to compare keywords enables you to take your content strategy to the next level. Knowing <i>what</i> people are searching for <i>when</i> allows you to promote content during popular search windows.
 <br>
 <br>
-<center><h3> How To Use the Interactive Graph</center></h3>
+<center><h4> How To Use the Interactive Graph</center></h4>
 Pinterest allows you to add up to 4 keywords at a time to compare.
 You can add keywords in following ways:
 
@@ -76,17 +78,30 @@ You can add keywords in following ways:
 <b>Search Bar</b>: Going back up to the search bar, you can type in a new keyword. A list of suggestions based off of what you typed in will pop-up. Once you found the keyword you want, simply click on it to add to the graph.
 <br>
 <br>
-<center><h>Keyword Comparision Example </h4></center>
+<center><h4>Keyword Comparision Example </h4></center>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/PTKeywordCompare.png" width="80%" height="80%"></center>
 <center><i> Using the search bar, I added "cookie decorating" and "royal icing" to the Search Volume Graph</center></i>
 <br>
-On my Pinterest, I post content related to cake and cookie baking. Being two different topics, I wanted to see if there was a time period where when is more popular than the other.
-<br>
+On my Pinterest, I post content related to cake and cookie baking. Being two different topics, I wanted to see if there was a time period where one is searched more than the other.
 <br>
 That way, I can plan out my content strategy better. Knowing if cakes are searched more than cookies during a certain time can help me post content related to cakes. 
 <br>
 <br>
-To start off, I added "cake decorating" and "cookie decorating" to the search volume graph. 
+To start off, I searched for <i>"cake decorating"</i> and was taken to the Search Volume Interactive graph. 
+<br>
+I immeditately typed in  <i>"cookie decorating"</i> in the search bar, and added it to the graph.
+<br>
+<br>
+Taking a look across both search volume lines, <i>"cake decorating"</i> has a search volume index that is almost always 6-8 times higher than <i>"cookie decorating"</i>!. 
+<br>
+People on Pinterest are searching for cake decorating more often than cookie decorating.
+<br>
+<br>
+However, I did notice something interesting..
+<br>
+Right around Christmas, <i>"cookie decorating"</i>'s line jumped! Cookie decorating had a search volume index of 70, while cake decorating had an index of 28.
+<br>
+People were searching for cookies <i>much</i> more frequently around Christmas.
 <br>
 <br>
 Around Christmas time, cake decorating stops getting as much searches. What takes it's place? Cookie decorating!
