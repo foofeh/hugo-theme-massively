@@ -87,6 +87,7 @@ On my Pinterest, I post content related to cake and cookie baking. Being two dif
 That way, I can plan out my content strategy better. Knowing if cakes are searched more than cookies during a certain time can help me post content related to cakes. 
 <br>
 <br>
+<h4> Setting Up to Compare Keywords</h4>
 To start off, I searched for <i>"cake decorating"</i> and was taken to the Search Volume Interactive graph. 
 <br>
 I immeditately typed in  <i>"cookie decorating"</i> in the search bar, and added it to the graph.
@@ -97,6 +98,7 @@ Taking a look across both search volume lines, <i>"cake decorating"</i> has a se
 People on Pinterest are searching for cake decorating more often than cookie decorating.
 <br>
 <br>
+<h4> Looking For Keyword Search Volume Jumps </h4>
 However, I did notice something interesting..
 <br>
 Right around Christmas, <i>"cookie decorating"</i>'s line jumped! Cookie decorating had a search volume index of 70, while cake decorating had an index of 28.
@@ -104,9 +106,10 @@ Right around Christmas, <i>"cookie decorating"</i>'s line jumped! Cookie decorat
 People were searching for cookies <i>much</i> more frequently around Christmas.
 <br>
 <br>
-Around Christmas time, cake decorating stops getting as much searches. What takes it's place? Cookie decorating!
+Cookies are much more popular than cakes around Christmas.
 <br>
 <br>
+<h4> Taking Keyword Research a Step Further </h4>
 Royal icing is a type of frosting that is often used for cookie decorating. Ever see one of those memorizing cookie decorating videos? Yup. They're using royal icing.
 <br>
 <br>
@@ -115,12 +118,14 @@ Knowing that royal icing and cookie decorating goes hand-in-hand, I added "royal
 ..and I saw that royal icing is by far the highest searched keyword around Christmas! 
 <br>
 <br>
+<h4>Using Keyword Research to Plan Content</h4>
 Now how might I use this information to plan out content?
 <br>
 <br>
 Starting in December, I would start posting content related to royal icing and cookie decorating. Some of my followers may be more interest in cakes than cookies. So to stay relevant to that audience, I would continue to post some content on cakes.
 <br>
-
+<br>
+Cookies becoming more popular than cakes around Christmas is an extreme example. Depending on your industry, you may not see such large differences between keywords. That's ok! Optimizing for smaller gaps can still prove to be impactful to your Pinterest Performance.
 <center><h2> Pinterest 100 </center></h2>
 
 <center><img class="TextWrap" src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/trend100.png" width="90%" height="90%"></center>
