@@ -82,14 +82,18 @@ You can add keywords in following ways:
 <br>
 On my Pinterest, I post content related to cake and cookie baking. Being two different topics, I wanted to see if there was a time period where when is more popular than the other.
 <br>
+<br>
 That way, I can plan out my content strategy better. Knowing if cakes are searched more than cookies during a certain time can help me post content related to cakes. 
 <br>
 <br>
 To start off, I added "cake decorating" and "cookie decorating" to the search volume graph. 
 <br>
+<br>
 Around Christmas time, cake decorating stops getting as much searches. What takes it's place? Cookie decorating!
 <br>
+<br>
 Royal icing is a type of frosting that is often used for cookie decorating. Ever see one of those memorizing cookie decorating videos? Yup. They're using royal icing.
+<br>
 <br>
 Knowing that royal icing and cookie decorating goes hand-in-hand, I added "royal icing" to the graph.
 <br>
@@ -97,6 +101,7 @@ Knowing that royal icing and cookie decorating goes hand-in-hand, I added "royal
 <br>
 <br>
 Now how might I use this information to plan out content?
+<br>
 <br>
 Starting in December, I would start posting content related to royal icing and cookie decorating. Some of my followers may be more interest in cakes than cookies. So to stay relevant to that audience, I would continue to post some content on cakes.
 <br>
