@@ -9,26 +9,27 @@ title = "Pinterest Trends Cheatsheet"
 +++
 The <a href="https://trends.pinterest.com/?country=US">Pinterest Trends</a> tool was released in late 2019 by Pinterest. Pinterest Trends allows you to see what search terms are currently trending on Pinterest. 
 <br>
-Pinterest Trends is also perfect for doing keyword research. Using the search function, you can start to plan your Pinterest content strategy to stay engaging and relevant with your audience.
+Pinterest Trends is also perfect for doing keyword research. Using the search function, you can start to plan your Pinterest content strategy. Keyword research is important to find new content opportunties and to stay engaging with your current audience. 
+<br>
 <br>
 In this cheatsheet, I will be walking through how to use the new Pinterest Trends Tool.
 
 <center><h2> Pinterest Trends Homepage </center></h2>
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/Screen Shot 2020-05-15 at 1.50.28 PM.png" width="80%" height="80%"></center>
-<center><i>Above is the Pinterest Trends homepage.</i></center>
+<center><i>Above is the Pinterest Trends homepage. You can see what is trending in popular categories.</i></center>
 <br>
-On the homepage of Pinterest Trends is what search terms are currently trending on Pinterest. 
+On the homepage of Pinterest Trends is a high-level report on what keywords are currently trending.
 
-The first panel, <i><b>Today's Top Pinterest Trends</i></b>, provides a high-level glance at keywords with large increases in searches. The keywords here are overarching and span across multiple categories.
+The first panel, <i><b>Today's Top Pinterest Trends</i></b>, shows keywords that had a recent surge in searches. The keywords here are overarching and span across multiple categories.
 
-As you scroll down, Pinterest breaks out the popular search terms by popular categories: <i>Fashion</i>, <i>Food & Drink</i>, <i>Beauty</i>, and <i>Home</i>.
+As you scroll down, Pinterest breaks out trending keywords by popular categories: <i>Fashion</i>, <i>Food & Drink</i>, <i>Beauty</i>, and <i>Home</i>.
 
-This information is great for a high-level of what is trendy on Pinterest. Should you have a different topic you want to get search volume for, this is where the search bar comes in handy.
+This information is great for a high-level of what is trending on Pinterest. Should you have a different topic you want to get search volume for, the search bar comes in handy.
 <br>
 <br>
 <center><h2>Pinterest Keyword Research: Getting Started<h2></center>
-I run <a href="https://www.pinterest.com/bakersspotlight/">BakersSpotlight</a>, a baker's community, on Pinterest. Planning out my content strategy, I want to get keyword search volume reports specific to baking.
+I run a baking community on Pinterest. I want to get keyword search volume reports specific to baking. Using this tool will help my plan out when I should feature cookie content vs cake content.
  <style>
   @media screen and (max-width: 480px) {
     img {
@@ -83,6 +84,7 @@ On my Pinterest, I post content related to cake and cookie baking. Being two dif
 <br>
 That way, I can plan out my content strategy better. Knowing if cakes are searched more than cookies during a certain time can help me post content related to cakes. 
 <br>
+<br>
 To start off, I added "cake decorating" and "cookie decorating" to the search volume graph. 
 <br>
 Around Christmas time, cake decorating stops getting as much searches. What takes it's place? Cookie decorating!
@@ -92,6 +94,7 @@ Royal icing is a type of frosting that is often used for cookie decorating. Ever
 Knowing that royal icing and cookie decorating goes hand-in-hand, I added "royal icing" to the graph.
 <br>
 ..and I saw that royal icing is by far the highest searched keyword around Christmas! 
+<br>
 <br>
 Now how might I use this information to plan out content?
 <br>
