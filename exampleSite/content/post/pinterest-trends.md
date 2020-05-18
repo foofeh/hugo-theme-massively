@@ -39,17 +39,18 @@ I run <a href="https://www.pinterest.com/bakersspotlight/">BakersSpotlight</a>, 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/CakedecoratingPT.png" width="80%" height="80%"></center>
  <center><i>The search function is great for quickly seeing Pinterest search volume for new keywords.</i></center>
 <br>
-Starting with <i>"cake decorating"</i>, Pinterest auto-suggests keyword ideas based of what you typed in.
-<br>
-On the right-hand side of each keyword is a search volume over time graph. 
-<br>
 Using the search bar is a great way to quickly get new keyword ideas and see keyword performance at a glance.
 <br>
-Clicking on a keyword takes you to a new screen for a deeper-dive.
+<br>
+ <b>Step 1:</b> Type in a keyword you would like to explore.
+ <b>Step 2: </b> Pinterest auto-suggest keyword ideas in the drop-down menu.
+ <b>Step 3:</b> In the right corner of every keyword is a search volume graph. This shows search volume for that keyword over the last 12 months. 
+ <b>Step 4:</b> Click on the keyword you want to explore. You will be navigated to a new page for a deeper-dive into search volume.
 <br>
 <center><h3> Keyword Deeper-Dive</center></h3>
 
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/PTOvertimeGraph.png" width="80%" height="80%"></center>
+<Center><i> Hovering over the graph allows you to see search volume for each week. </center></i>
 <br>
 The main part of the Pinterest Trends tool is an interactive graph. Providing data from the last 12 months, each data point is from a period over a week. 
 
@@ -67,8 +68,10 @@ You can add keywords in in following ways:
 
 <b>Related Terms</b>: Below the interactive graph are related terms Pinterest auto-suggests. Simply click on they keyword and it will be added to the graph.
 
-<b>Search Bar</b> Going back up to the search bar, you can type in a new keyword. A list of suggestions based off of what you typed in will pop-up. Once you found the keyword you want, simply click on it to add to the graph.
+<b>Search Bar</b>: Going back up to the search bar, you can type in a new keyword. A list of suggestions based off of what you typed in will pop-up. Once you found the keyword you want, simply click on it to add to the graph.
+<br>
 
+<center><h4>Keyword Comparision Example </h4></center>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/PTKeywordCompare.png" width="80%" height="80%"></center>
 
 Here is a perfect example of how to use the tool to plan out content strategy.
