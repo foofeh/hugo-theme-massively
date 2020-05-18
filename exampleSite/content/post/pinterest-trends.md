@@ -43,9 +43,13 @@ Using the search bar is a great way to quickly get new keyword ideas and see key
 <br>
 <br>
  <b>Step 1:</b> Type in a keyword you would like to explore.
+ <br>
  <b>Step 2: </b> Pinterest auto-suggest keyword ideas in the drop-down menu.
+ <br?
  <b>Step 3:</b> In the right corner of every keyword is a search volume graph. This shows search volume for that keyword over the last 12 months. 
+ <br>
  <b>Step 4:</b> Click on the keyword you want to explore. You will be navigated to a new page for a deeper-dive into search volume.
+<br>
 <br>
 <center><h3> Keyword Deeper-Dive</center></h3>
 
@@ -73,15 +77,25 @@ You can add keywords in in following ways:
 
 <center><h4>Keyword Comparision Example </h4></center>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/PTKeywordCompare.png" width="80%" height="80%"></center>
-
-Here is a perfect example of how to use the tool to plan out content strategy.
-
-Around Christmas time, cake decorating stops getting as much searches. What takes it's place? Cookie decorating and royal icing.
+<center><i> Using the search bar, I added "cookie decorating" and "royal icing" to the Search Volume Graph</center></i>
+<br>
+On my Pinterest, I post content related to cake and cookie baking. Being two different topics, I wanted to see if there was a time period where when is more popular than the other.
+<br>
+That way, I can plan out my content strategy better. Knowing if cakes are searched more than cookies during a certain time can help me post content related to cakes. 
+<br>
+To start off, I added "cake decorating" and "cookie decorating" to the search volume graph. 
+<br>
+Around Christmas time, cake decorating stops getting as much searches. What takes it's place? Cookie decorating!
 <br>
 Royal icing is a type of frosting that is often used for cookie decorating. Ever see one of those memorizing cookie decorating videos? Yup. They're using royal icing.
 <br>
-Cookies are incredibly popular around Christmas. Using this tool, I found I should switch my content from cakes to cookies around Christmas!
+Knowing that royal icing and cookie decorating goes hand-in-hand, I added "royal icing" to the graph.
 <br>
+..and I saw that royal icing is by far the highest searched keyword around Christmas! 
+<br>
+Now how might I use this information to plan out content?
+<br>
+Starting in December, I would start posting content related to royal icing and cookie decorating. Some of my followers may be more interest in cakes than cookies. So to stay relevant to that audience, I would continue to post some content on cakes.
 <br>
 
 <center><h2> Pinterest 100 </center></h2>
