@@ -45,8 +45,8 @@ Using the search bar is a great way to quickly get new keyword ideas and see key
 <br>
  <b>Step 1:</b> Type in a keyword you would like to explore.
  <br>
- <b>Step 2: </b> Pinterest auto-suggest keyword ideas in the drop-down menu.
- <br?
+ <b>Step 2: </b> Pinterest auto-suggests keyword ideas in the drop-down menu.
+ <br>
  <b>Step 3:</b> In the right corner of every keyword is a search volume graph. This shows search volume for that keyword over the last 12 months. 
  <br>
  <b>Step 4:</b> Click on the keyword you want to explore. You will be navigated to a new page for a deeper-dive into search volume.
@@ -59,24 +59,24 @@ Using the search bar is a great way to quickly get new keyword ideas and see key
 <br>
 The main part of the Pinterest Trends tool is an interactive graph. Providing data from the last 12 months, each data point is from a period over a week. 
 
-Pinterest does not provide the actual number of searches for that particular keyword. Instead, they compare the search volume of your keyword to all other searches during that week. Then, Pinterest indexes that number from 0 to 100 to compare the relative search volume of each term.
-
-In other words, the search volume number is comparing search volume to other keywords in the same time period. The closest you get to 100 the more searches for that week there are.
+Important note: The search volume is not the <b><i>actual</b></i> search volume. Instead, Pinterest provides a score from 0-100 that is relative to other keyword searches during the same time period. The higher the search volume number, the more searches there are compared to other searches.
 <br>
+A search volume score of 90 has a lot more searches than a keyword with a score of 20. 
 <br>
 <center><h3>Comparing Keywords</center></h3>
-Being able to compare keywords enables you to plan out your content strategy better. 
-
-Pinterest allows you to add up to 4 keywords to the interactive graph.
-
-You can add keywords in in following ways:
+Being able to compare keywords enables you to take your content strategy to the next level. Knowing <i>what</i> people are searching for <i>when</i> allows you to adjust content to hit on popular search windows.
+<br>
+<br>
+<center><h3> How To Use the Interactive Graph</center></h3>
+Pinterest allows you to add up to 4 keywords at a time to compare.
+You can add keywords in following ways:
 
 <b>Related Terms</b>: Below the interactive graph are related terms Pinterest auto-suggests. Simply click on they keyword and it will be added to the graph.
 
 <b>Search Bar</b>: Going back up to the search bar, you can type in a new keyword. A list of suggestions based off of what you typed in will pop-up. Once you found the keyword you want, simply click on it to add to the graph.
 <br>
-
-<center><h4>Keyword Comparision Example </h4></center>
+<br>
+<center><h>Keyword Comparision Example </h4></center>
 <center><img src="https://raw.githubusercontent.com/foofeh/hugo-theme-massively/master/exampleSite/static/uploads/PTKeywordCompare.png" width="80%" height="80%"></center>
 <center><i> Using the search bar, I added "cookie decorating" and "royal icing" to the Search Volume Graph</center></i>
 <br>
