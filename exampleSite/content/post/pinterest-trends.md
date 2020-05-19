@@ -21,15 +21,17 @@ It's one of the first Pinterest tools to capture changes in trending search volu
 <h3>Pinterest Trends Use Cases</h3>
 In Pinterest's press release on Pinterest trends, they listed several <a href="https://newsroom.pinterest.com/en/post/introducing-pinterest-trends-showing-the-power-of-insights-irl">case studies</a> of business' success using Pinterest Trends. 
 <br>
+Albertson's and Tastemade where two businesses that had different marketing objectives but saw success. Using Pinterest Trends, they were able to hit on trending keyword searches and see impactful business results.
 <br>
 Whether you are promoting organic content or have a direct marketing campaign, Pinterest Trends is a powerful tool.
-<h4> Increase In-Store & Online Sales </h4>
 <br>
+<h4> Increase In-Store & Online Sales </h4>
+
 <a href="https://www.albertsons.com/"> Albertson's</a> used Pinterest trends to to understand holiday food and beverage trends.
 They developed a Pinterest Ad Campaign that aimed to drive in-store sales for their private labels using the following keywords:
 <br>
 <ul>
-<il>Pumpkin Alcohol Drinks (+154% increase in search volume around the Fall)
+Pumpkin Alcohol Drinks (+154% increase in search volume around the Fall)
 <br>
 <il>Friendsgiving Party Ideas (+475% increase in search volume around Thanksgiving)
 <br>
@@ -38,11 +40,10 @@ They developed a Pinterest Ad Campaign that aimed to drive in-store sales for th
 <il>and Christmas Desserts (+229% in search volume around Christmas)  
  </ul>
 <br>
-<br>
-<h4>Create Viral Campaigns</h4>
+<h4>Create Viral, Organic Content</h4>
 <a href="https://www.tastemade.com/"> Tastemade</a>, a global media company, used Pinterest Trends to create a viral campaign. 
 <br>
-Over the summer they noticed that watermelon content was trending on Pinterest. Doubling down on watermelon content, Tastemade created a <a href="https://www.pinterest.com/tastemade/cooking-with-watermelon/" dedicated Pinterest board</a> that gained 3.63 million followers!
+Over the summer they noticed that watermelon content was trending on Pinterest. Doubling down on watermelon content, Tastemade created a <a href="https://www.pinterest.com/tastemade/cooking-with-watermelon/"> dedicated Pinterest board</a> that gained 3.63 million followers!
 <br>
 <br>
 This cheatsheet will walk through how to use Pinterest Trends to find new content opportunities.
