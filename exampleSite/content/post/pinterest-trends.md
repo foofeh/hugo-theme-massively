@@ -21,7 +21,7 @@ It's one of the first Pinterest tools to capture changes in trending search volu
 <h3>Pinterest Trends Use Cases</h3>
 
 <h4> Increase In-Store & Online Sales </h4>
-A [case study from Pinterest](https://newsroom.pinterest.com/en/post/introducing-pinterest-trends-showing-the-power-of-insights-irl): 
+A <a href="https://newsroom.pinterest.com/en/post/introducing-pinterest-trends-showing-the-power-of-insights-irl">case study from Pinterest</a>
 <br>
 Albertson's (a grocery store) used Pinterest trends to to understand holiday food and beverage trends.
 They developed a Pinterest Ad Campaign that aimed to drive in-store sales for their private labels using the following keywords:
@@ -36,9 +36,9 @@ and Christmas desserts (+229% in search volume around Christmas)
 <br>
 <br>
 <h4>Create Viral Campaigns</h4>
-[Tastemade](https://www.tastemade.com/), a global media company, used Pinterest Trends to create a viral campaign. 
+<a href="https://www.tastemade.com/"> Tastemade</a>, a global media company, used Pinterest Trends to create a viral campaign. 
 <br>
-Over the summer they noticed that watermelon content was trending on Pinterest. Doubling down on watermelon content, Tastemade created a [dedicated Pinterest board](https://www.pinterest.com/tastemade/cooking-with-watermelon/) that gained 3.63 million followers!
+Over the summer they noticed that watermelon content was trending on Pinterest. Doubling down on watermelon content, Tastemade created a <a href="https://www.pinterest.com/tastemade/cooking-with-watermelon/" dedicated Pinterest board</a> that gained 3.63 million followers!
 <br>
 <br>
 This cheatsheet will walk through how to use Pinterest Trends to find new content opportunities.
