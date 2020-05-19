@@ -19,20 +19,24 @@ It's one of the first Pinterest tools to capture changes in trending search volu
 <br>
 <br>
 <h3>Pinterest Trends Use Cases</h3>
-
-<h4> Increase In-Store & Online Sales </h4>
-A <a href="https://newsroom.pinterest.com/en/post/introducing-pinterest-trends-showing-the-power-of-insights-irl">case study from Pinterest</a>
+In Pinterest's press release on Pinterest trends, they listed several <a href="https://newsroom.pinterest.com/en/post/introducing-pinterest-trends-showing-the-power-of-insights-irl">case studies</a> of business' success using Pinterest Trends. 
 <br>
-Albertson's (a grocery store) used Pinterest trends to to understand holiday food and beverage trends.
+<br>
+Whether you are promoting organic content or have a direct marketing campaign, Pinterest Trends is a powerful tool.
+<h4> Increase In-Store & Online Sales </h4>
+<br>
+<a href="https://www.albertsons.com/"> Albertson's</a> used Pinterest trends to to understand holiday food and beverage trends.
 They developed a Pinterest Ad Campaign that aimed to drive in-store sales for their private labels using the following keywords:
 <br>
-Pumpkin Alcohol Drinks (+154% increase in search volume around the Fall)
+<ul>
+<il>Pumpkin Alcohol Drinks (+154% increase in search volume around the Fall)
 <br>
-Friendsgiving party ideas (+475% increase in search volume around Thanksgiving)
+<il>Friendsgiving Party Ideas (+475% increase in search volume around Thanksgiving)
 <br>
-holiday grazing tables (+500% increase in search volume around the holidays)
+<il>Holiday Grazing Tables (+500% increase in search volume around the holidays)
 <br>
-and Christmas desserts (+229% in search volume around Christmas)  
+<il>and Christmas Desserts (+229% in search volume around Christmas)  
+ </ul>
 <br>
 <br>
 <h4>Create Viral Campaigns</h4>
