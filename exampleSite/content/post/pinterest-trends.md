@@ -11,6 +11,26 @@ The <a href="https://trends.pinterest.com/?country=US">Pinterest Trends</a> tool
 <br>
 Pinterest Trends allows you to see what keywords are trending on Pinterest. Using this tool you can start to plan your Pinterest content strategy. 
 <br>
+For advertisers, it's Pinterest's equivalent to Google Adword's Keyword Planner. Pinterest Trends can be used to get deeper insights into keywords to include or avoid while planning media campagins.
+<br>
+It's one of the first Pinterest tools to capture changes in trending search volume.
+<br>
+<br>
+A [case study from Pinterest](https://newsroom.pinterest.com/en/post/introducing-pinterest-trends-showing-the-power-of-insights-irl): 
+<br>
+Albertson's (a grocery store) used Pinterest trends to to understand holiday food and beverage trends.
+They developed a Pinterest Ad Campaign that aimed to drive in-store sales for their private labels:
+<br>
+Pumpkin Alcohol Drinks (+154%)
+<br>
+Friendsgiving party ideas (+475%)
+<br>
+holiday grazing tables (+500%)
+<br>and Christmas desserts (+229%).  
+<br>
+<br>
+Tastemade, a global media company, used Pinterest Trends to create a viral campaign. Over the summer they noticed that watermelon content was trending on Pinterest. Doubling down on watermelon content, Tastemade created a [dedicated Pinterest board](https://www.pinterest.com/tastemade/cooking-with-watermelon/) that gained 3.63 million followers!
+<br>
 This cheatsheet will walk through how to use Pinterest Trends to find new content opportunities.
 <br>
 <br>
