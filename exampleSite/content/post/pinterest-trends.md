@@ -42,7 +42,7 @@ They developed a Pinterest Ad Campaign that aimed to drive in-store sales for th
 <il> • and Christmas Desserts (+229% in search volume around Christmas)  
  </ul>
 <br>
-<h4>Create Viral, Organic Content</h4>
+<h4>Make Organic Content Go Viral</h4>
 <a href="https://www.tastemade.com/"> Tastemade</a>, a global media company, used Pinterest Trends to create a viral campaign. 
 <br>
 Over the summer they noticed that watermelon content was trending on Pinterest. Doubling down on watermelon content, Tastemade created a <a href="https://www.pinterest.com/tastemade/cooking-with-watermelon/"> dedicated Pinterest board</a> that gained 3.63 million followers!
