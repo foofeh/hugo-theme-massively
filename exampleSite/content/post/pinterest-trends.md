@@ -7,6 +7,7 @@ slug = "/Pinterest-Trends"
 title = "Pinterest Trends Cheatsheet"
 
 +++
+<h3>Overview</h3>
 The <a href="https://trends.pinterest.com/?country=US">Pinterest Trends</a> tool was released in late 2019 by Pinterest. Currently in Early Access, Pinterest Trends is only available for U.S, U.K and Canada accounts. 
 <br>
 Pinterest Trends allows you to see what keywords are trending on Pinterest. Using this tool you can start to plan your Pinterest content strategy. 
@@ -17,7 +18,9 @@ For advertisers, it's Pinterest's equivalent to Google Adword's Keyword Planner.
 It's one of the first Pinterest tools to capture changes in trending search volume.
 <br>
 <br>
-<h4>Pinterest Trends Use Cases</h4>
+<h3>Pinterest Trends Use Cases</h3>
+
+<h4> Increase In-Store & Online Sales </h4>
 A [case study from Pinterest](https://newsroom.pinterest.com/en/post/introducing-pinterest-trends-showing-the-power-of-insights-irl): 
 <br>
 Albertson's (a grocery store) used Pinterest trends to to understand holiday food and beverage trends.
@@ -32,6 +35,7 @@ holiday grazing tables (+500% increase in search volume around the holidays)
 and Christmas desserts (+229% in search volume around Christmas)  
 <br>
 <br>
+<h4>Create Viral Campaigns</h4>
 [Tastemade](https://www.tastemade.com/), a global media company, used Pinterest Trends to create a viral campaign. 
 <br>
 Over the summer they noticed that watermelon content was trending on Pinterest. Doubling down on watermelon content, Tastemade created a [dedicated Pinterest board](https://www.pinterest.com/tastemade/cooking-with-watermelon/) that gained 3.63 million followers!
