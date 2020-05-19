@@ -21,7 +21,9 @@ It's one of the first Pinterest tools to capture changes in trending search volu
 <h3>Pinterest Trends Use Cases</h3>
 In Pinterest's press release on Pinterest trends, they listed several <a href="https://newsroom.pinterest.com/en/post/introducing-pinterest-trends-showing-the-power-of-insights-irl">case studies</a> of business' success using Pinterest Trends. 
 <br>
+<br>
 Albertson's and Tastemade where two businesses that had different marketing objectives but saw success. Using Pinterest Trends, they were able to hit on trending keyword searches and see impactful business results.
+<br>
 <br>
 Whether you are promoting organic content or have a direct marketing campaign, Pinterest Trends is a powerful tool.
 <br>
@@ -31,13 +33,13 @@ Whether you are promoting organic content or have a direct marketing campaign, P
 They developed a Pinterest Ad Campaign that aimed to drive in-store sales for their private labels using the following keywords:
 <br>
 <ul>
-Pumpkin Alcohol Drinks (+154% increase in search volume around the Fall)
+<il> • Pumpkin Alcohol Drinks (+154% increase in search volume around the Fall)
 <br>
-<il>Friendsgiving Party Ideas (+475% increase in search volume around Thanksgiving)
+<il> • Friendsgiving Party Ideas (+475% increase in search volume around Thanksgiving)
 <br>
-<il>Holiday Grazing Tables (+500% increase in search volume around the holidays)
+<il> • Holiday Grazing Tables (+500% increase in search volume around the holidays)
 <br>
-<il>and Christmas Desserts (+229% in search volume around Christmas)  
+<il> • and Christmas Desserts (+229% in search volume around Christmas)  
  </ul>
 <br>
 <h4>Create Viral, Organic Content</h4>
