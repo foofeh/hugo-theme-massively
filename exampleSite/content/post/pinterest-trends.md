@@ -27,6 +27,7 @@ Albertson's and Tastemade where two businesses that had different marketing obje
 <br>
 Whether you are promoting organic content or have a direct marketing campaign, Pinterest Trends is a powerful tool.
 <br>
+<br>
 <h4> Increase In-Store & Online Sales </h4>
 
 <a href="https://www.albertsons.com/"> Albertson's</a> used Pinterest trends to to understand holiday food and beverage trends.
