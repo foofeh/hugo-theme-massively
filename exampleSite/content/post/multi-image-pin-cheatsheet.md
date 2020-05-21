@@ -3,7 +3,7 @@ date = ""
 description = "Pinterest allows you create visually appealing pins on the desktop site. Use this cheat sheet to create your own carousels and collages!"
 disableComments = false
 image = "uploads/MultiImagePinv2.png"
-slug = "pinterest-carousel-and-collage-pins"
+slug = "pinterest-multi-image-pin
 title = "Pinterest Multi-Image Pin Cheatsheet"
 
 +++
