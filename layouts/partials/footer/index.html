@@ -1,7 +1,7 @@
 <!-- Footer -->
 {{ $data := index .Site.Data .Site.Language.Lang }}
 <footer id="footer">
-    {{ with $data.contactinfo.contactformaction }}
+    <!-- {{ with $data.contactinfo.contactformaction }}
     <section>
       <form method="post" action="{{ . }}">
         <div class="fields">
@@ -23,8 +23,8 @@
         </ul>
       </form>
     </section>
-    {{end}}
-    <section class="split contact">
+    {{end}} -->
+    <section class="contact">
         {{ with $data.contactinfo.address }}
         <section class="alt">
             <h3>{{ i18n "CONTACT_ADDRESS" . }}</h3>
